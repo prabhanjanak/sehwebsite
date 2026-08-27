@@ -1,0 +1,274 @@
+{
+  "url": "https://sankaraeye.com/blog/precaution-after-cataract-surgery",
+  "slug": "blog-precaution-after-cataract-surgery",
+  "category": "posts",
+  "title": "Precaution After Cataract Surgery | Sankara",
+  "meta_description": "Understand the precaution after cataract surgery . Access expert advice and tips to promote healing and safeguard your vision .",
+  "meta_keywords": "",
+  "og": {
+    "locale": "en_US",
+    "type": "article",
+    "title": "Precaution After Cataract Surgery | Sankara",
+    "description": "Understand the precaution after cataract surgery . Access expert advice and tips to promote healing and safeguard your vision .",
+    "url": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/",
+    "site_name": "Sankara",
+    "image": "https://sankaraeye.com/wp-content/uploads/2025/01/precautions-after-cataract-surgery.png",
+    "image:width": "1080",
+    "image:height": "1080",
+    "image:type": "image/png"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "label1": "Written by",
+    "data1": "sankarateam",
+    "label2": "Est. reading time",
+    "data2": "6 minutes"
+  },
+  "schema_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/#article",
+          "isPartOf": {
+            "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/"
+          },
+          "author": {
+            "name": "sankarateam",
+            "@id": "https://sankaraeye.com/#/schema/person/5df4697db22cb10bbd2f3c574ef1c08e"
+          },
+          "headline": "Precaution After Cataract Surgery",
+          "datePublished": "2025-01-22T04:28:38+00:00",
+          "dateModified": "2026-01-14T05:08:58+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/"
+          },
+          "wordCount": 1202,
+          "image": {
+            "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/#primaryimage"
+          },
+          "thumbnailUrl": "https://sankaraeye.com/wp-content/uploads/2025/01/precautions-after-cataract-surgery.png",
+          "articleSection": [
+            "Eyecare"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/",
+          "url": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/",
+          "name": "Precaution After Cataract Surgery | Sankara",
+          "isPartOf": {
+            "@id": "https://sankaraeye.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/#primaryimage"
+          },
+          "image": {
+            "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/#primaryimage"
+          },
+          "thumbnailUrl": "https://sankaraeye.com/wp-content/uploads/2025/01/precautions-after-cataract-surgery.png",
+          "datePublished": "2025-01-22T04:28:38+00:00",
+          "dateModified": "2026-01-14T05:08:58+00:00",
+          "author": {
+            "@id": "https://sankaraeye.com/#/schema/person/5df4697db22cb10bbd2f3c574ef1c08e"
+          },
+          "description": "Understand the precaution after cataract surgery . Access expert advice and tips to promote healing and safeguard your vision .",
+          "breadcrumb": {
+            "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://sankaraeye.com/blog/precaution-after-cataract-surgery/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/#primaryimage",
+          "url": "https://sankaraeye.com/wp-content/uploads/2025/01/precautions-after-cataract-surgery.png",
+          "contentUrl": "https://sankaraeye.com/wp-content/uploads/2025/01/precautions-after-cataract-surgery.png",
+          "width": 1080,
+          "height": 1080,
+          "caption": "precautions after cataract surgery"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sankaraeye.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Precaution After Cataract Surgery"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sankaraeye.com/#website",
+          "url": "https://sankaraeye.com/",
+          "name": "Sankara",
+          "description": "World-class Eyecare with a Social Impact",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://sankaraeye.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://sankaraeye.com/#/schema/person/5df4697db22cb10bbd2f3c574ef1c08e",
+          "name": "sankarateam",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://secure.gravatar.com/avatar/dde9867e09ad7f9b519f9317655f05baae00470497533abc8e9e97ffcf6c8ea1?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/dde9867e09ad7f9b519f9317655f05baae00470497533abc8e9e97ffcf6c8ea1?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/dde9867e09ad7f9b519f9317655f05baae00470497533abc8e9e97ffcf6c8ea1?s=96&d=mm&r=g",
+            "caption": "sankarateam"
+          },
+          "url": "https://sankaraeye.com/blog/author/sankarateam/"
+        }
+      ]
+    }
+  ],
+  "headings": {
+    "h1": [
+      "Precaution After Cataract Surgery",
+      "Precaution After Cataract Surgery"
+    ],
+    "h2": [
+      "Precaution after cataract surgery",
+      "Frequently Asked Questions (FAQs)",
+      "Recent Posts"
+    ],
+    "h3": [
+      "Follow Your Doctor’s Instructions Carefully",
+      "Protect Your Eyes",
+      "Avoid Water Exposure",
+      "Avoid Bright Lights and Glare",
+      "No Rubbing Your Eyes",
+      "Monitor for Signs of Complications",
+      "Attend Follow-Up Appointments",
+      "Eat a Healthy Diet",
+      "Stay Away from Smoke and Dust",
+      "Gradually Resume Normal Activities",
+      "Final Thoughts – Precaution AfterCataract Surgery",
+      "1. What precautions should be taken after cataract surgery?",
+      "2. How long does it take to recover after cataract surgery?",
+      "3. Can I wash my face or take a shower after cataract surgery?",
+      "4.What activities should be avoided after cataract surgery?",
+      "5. Is light sensitivity normal after cataract surgery?",
+      "6.What are the warning signs of complications after cataract surgery?",
+      "7. Why are follow-up visits important after cataract surgery?",
+      "8.What foods help in faster recovery after cataract surgery?",
+      "Best squint eye treatment and surgery hospital in India",
+      "Lasik Eye Surgery Cost in India",
+      "Eye Doctor in Ludhiana – Complete Guide"
+    ],
+    "h4": []
+  },
+  "internal_links": [
+    "https://sankaraeye.com",
+    "https://sankaraeye.com/about",
+    "https://sankaraeye.com/blog",
+    "https://sankaraeye.com/blog/best-fruits-and-vegetables-good-for-eyes",
+    "https://sankaraeye.com/blog/eye-doctor-in-ludhiana-complete-guide",
+    "https://sankaraeye.com/blog/lasik-eye-surgery-cost-in-india",
+    "https://sankaraeye.com/blog/precaution-after-cataract-surgery",
+    "https://sankaraeye.com/blog/squint-eye-treatment-and-surgery",
+    "https://sankaraeye.com/careers",
+    "https://sankaraeye.com/contact",
+    "https://sankaraeye.com/donate",
+    "https://sankaraeye.com/dr-rvr-awards-and-biography",
+    "https://sankaraeye.com/education",
+    "https://sankaraeye.com/journals",
+    "https://sankaraeye.com/lasikblr",
+    "https://sankaraeye.com/pledge-your-eyes",
+    "https://sankaraeye.com/privacy-policy",
+    "https://sankaraeye.com/sankaralasikservices",
+    "https://sankaraeye.com/services",
+    "https://sankaraeye.com/social-impact"
+  ],
+  "external_links": [
+    "http://sankaraeye.host.misfit.co/#",
+    "https://instagram.com/sankaraeyehospitals",
+    "https://twitter.com/sankarav2020?lang=en",
+    "https://twitter.com/share?url=https://sankaraeye.com/blog/precaution-after-cataract-surgery/&text=Precaution After Cataract Surgery&hashtags=precaution-after-cataract-surgery",
+    "https://www.facebook.com/sankaraeyehospitals/",
+    "https://www.facebook.com/sankaraeyehospitals/posts/pfbid03EatoV2tvS16aPkRHEhDofp2VvzDgtrWNLAjkDYaNUFdTL8LFutPhNRRhvAfQ7ogl",
+    "https://www.facebook.com/sharer.php?u=https://sankaraeye.com/blog/precaution-after-cataract-surgery/",
+    "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fsankaraeye.com%2Fblog%2Fprecaution-after-cataract-surgery%2F",
+    "https://www.youtube.com/user/sankaraeyehospitals"
+  ],
+  "images": [
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-fb.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-ig.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-twitter.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-youtube.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/Coimbatore-Facilities-62-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/column-content-m-img-2-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-colored-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-white-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2026/01/Eye-Doctor-in-Ludhiana-1-720x720.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2026/04/Lasik-eye-surgery-cost-720x720.jpeg",
+    "https://sankaraeye.com/wp-content/uploads/2026/04/squint-eye-treatment-and-surgery-720x720.png",
+    "https://www.facebook.com/tr?id=2447296055406653&ev=PageView&noscript=1",
+    "https://www.facebook.com/tr?id=431030042486995&ev=PageView&noscript=1"
+  ],
+  "documents": [],
+  "css_files": [
+    "https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&ver=7.0.4",
+    "https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap&ver=7.0.4",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/announcer-css-v47dbca4a234f6714b5f320672c82331e69656175.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/donation-v33a84a2dac56d9d5fcad15fd5f1eec0188dd1e48.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/iss-vfd2b9a8943017d7c6535543deb030ecec5722e02.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-custom-vb73c88903e60bae86b3c2cf4a9e21aa8e8ba0373.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-main-va3739e4b778c74f98c4fb3ef53e04a12bed014d2.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/tahs-public-style-ve9ea61fd2433014c447edb993f263c7e43750c8a.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/wpb-pcf-styles-vcec44bffb310c93597c0ce946dbe5703c9b8f1f6.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/ywcds_frontend-v3156068a6936eaec8d7298e7bc9c797d6a7a31b9.css",
+    "https://sankaraeye.com/wp-content/plugins/timeline-and-history-slider/assets/css/slick.css?ver=2.3",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/css/sweetalert2.min.css?ver=11.4.8",
+    "https://sankaraeye.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1"
+  ],
+  "js_files": [
+    "https://embeddables.p.mbirdcdn.net/v1/web-components.es.js",
+    "https://salesiq.zohopublic.in/widget?wc=siq0226829dd8316629f8e860dd5f4ddd2e878c8032ffdd78d6cc41394703812e47",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/body-574bb2fa7cee085f693ab38c1aa00a202be9f107.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-1ca2e814580d4c491dc38f1058a22df969c9ea71.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-8e7fc080c621987d65ca9f88ecdf3bc19071298a.js",
+    "https://www.google.com/recaptcha/api.js?render=6LfZ4-0aAAAAAIE9bZl1bt2vxNIwl79_9hLxxizJ&ver=3.0",
+    "https://www.googletagmanager.com/gtag/js?id=AW-979602086",
+    "https://www.googletagmanager.com/gtag/js?id=G-8J2P6HMG28",
+    "https://www.googletagmanager.com/gtag/js?id=UA-42093803-1"
+  ],
+  "clean_text_length": 8463,
+  "clean_text": "Precaution After Cataract Surgery | Sankara Precaution After Cataract Surgery | Sankara About Services Social Impact Donate Pledge Your Eyes Education Careers Our Blog Contact Services About Us About Pledge Your Eyes Contact Education Social Impact Services Donate Awards Dr.RVR Awards and Biography lasikblr Sankara Lasik Services OUR STORY SERVICES SOCIAL IMPACT Precaution After Cataract Surgery Eyecare | 6 MIN READ January 22, 2025 Precaution After Cataract Surgery Precaution after cataract surgery Cataract surgery is one of the most common and successful procedures performed worldwide. It offers patients the chance to regain their vision and enhance their quality of life. However, after the surgery, it’s essential to follow certain precautions to ensure a smooth recovery and optimal healing. Taking care of your eyes post-surgery is crucial for preventing complications and achieving the best possible outcome. In this blog, we’ll guide you through the precaution to take after cataract surgery to ensure a safe and speedy recovery. Follow Your Doctor’s Instructions Carefully The most important precaution after cataract surgery is to follow your eye doctor’s instructions meticulously. This includes taking prescribed medications, such as eye drops or oral medications, as directed. These medications help prevent infection, reduce inflammation, and promote healing. It’s crucial not to skip any doses, even if you feel fine. Protect Your Eyes Immediately after surgery, your eyes will be sensitive and vulnerable. Protect them from injury or strain by wearing the protective eye shield or glasses. Additionally, avoid touching or pressing the eye to avoid infection. Avoid Water Exposure Water, including that from showers, pools, or hot tubs, can introduce bacteria into your eyes, potentially leading to an infection. For the first few weeks, avoid getting your eye wet. If you need to wash your face, take care to keep water out of your eye. When showering, you can use a shower ca..."
+}

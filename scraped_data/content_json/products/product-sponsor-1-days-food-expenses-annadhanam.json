@@ -1,0 +1,230 @@
+{
+  "url": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam",
+  "slug": "product-sponsor-1-days-food-expenses-annadhanam",
+  "category": "products",
+  "title": "Sponsor 1 day’s food expenses ( Annadhanam) | Sankara",
+  "meta_description": "",
+  "meta_keywords": "",
+  "og": {
+    "locale": "en_US",
+    "type": "article",
+    "title": "Sponsor 1 day’s food expenses ( Annadhanam) | Sankara",
+    "url": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/",
+    "site_name": "Sankara"
+  },
+  "twitter": {
+    "card": "summary_large_image"
+  },
+  "schema_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/",
+          "url": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/",
+          "name": "Sponsor 1 day’s food expenses ( Annadhanam) | Sankara",
+          "isPartOf": {
+            "@id": "https://sankaraeye.com/#website"
+          },
+          "datePublished": "2018-07-30T11:10:06+00:00",
+          "dateModified": "2025-04-04T11:56:37+00:00",
+          "breadcrumb": {
+            "@id": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sankaraeye.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sponsor 1 day’s food expenses ( Annadhanam)"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sankaraeye.com/#website",
+          "url": "https://sankaraeye.com/",
+          "name": "Sankara",
+          "description": "World-class Eyecare with a Social Impact",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://sankaraeye.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "@id": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/#product",
+      "name": "Sponsor 1 day’s food expenses ( Annadhanam)",
+      "url": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/",
+      "description": "",
+      "sku": 3910,
+      "offers": [
+        {
+          "@type": "Offer",
+          "priceSpecification": [
+            {
+              "@type": "UnitPriceSpecification",
+              "price": "15000.00",
+              "priceCurrency": "INR",
+              "valueAddedTaxIncluded": false,
+              "validThrough": "2027-12-31"
+            }
+          ],
+          "priceValidUntil": "2027-12-31",
+          "availability": "http://schema.org/InStock",
+          "url": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/",
+          "seller": {
+            "@type": "Organization",
+            "name": "Sankara",
+            "url": "https://sankaraeye.com"
+          }
+        }
+      ]
+    }
+  ],
+  "headings": {
+    "h1": [
+      "Sponsor 1 day’s food expenses ( Annadhanam)",
+      "Sponsor 1 day’s food expenses ( Annadhanam)"
+    ],
+    "h2": [
+      "Related products",
+      "Cataract Surgeries – GOV",
+      "One cataract surgery",
+      "One cataract surgery SEFUSA",
+      "Multiple cataract surgeries",
+      "Recent Posts"
+    ],
+    "h3": [
+      "Best squint eye treatment and surgery hospital in India",
+      "Lasik Eye Surgery Cost in India",
+      "Eye Doctor in Ludhiana – Complete Guide"
+    ],
+    "h4": []
+  },
+  "internal_links": [
+    "https://sankaraeye.com",
+    "https://sankaraeye.com/about",
+    "https://sankaraeye.com/blog",
+    "https://sankaraeye.com/blog/eye-doctor-in-ludhiana-complete-guide",
+    "https://sankaraeye.com/blog/lasik-eye-surgery-cost-in-india",
+    "https://sankaraeye.com/blog/squint-eye-treatment-and-surgery",
+    "https://sankaraeye.com/careers",
+    "https://sankaraeye.com/contact",
+    "https://sankaraeye.com/donate",
+    "https://sankaraeye.com/dr-rvr-awards-and-biography",
+    "https://sankaraeye.com/education",
+    "https://sankaraeye.com/journals",
+    "https://sankaraeye.com/lasikblr",
+    "https://sankaraeye.com/pledge-your-eyes",
+    "https://sankaraeye.com/privacy-policy",
+    "https://sankaraeye.com/product-category/donation",
+    "https://sankaraeye.com/product-category/donation/surgery",
+    "https://sankaraeye.com/product/multiple-cataract-surgeries",
+    "https://sankaraeye.com/product/multiple-cataract-surgeries-sefusa",
+    "https://sankaraeye.com/product/one-cataract-surgery",
+    "https://sankaraeye.com/product/one-cataract-surgery-sefusa",
+    "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam",
+    "https://sankaraeye.com/sankaralasikservices",
+    "https://sankaraeye.com/services",
+    "https://sankaraeye.com/social-impact"
+  ],
+  "external_links": [
+    "http://sankaraeye.host.misfit.co/#",
+    "https://instagram.com/sankaraeyehospitals",
+    "https://twitter.com/sankarav2020?lang=en",
+    "https://twitter.com/share?url=https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/&text=Sponsor 1 day’s food expenses ( Annadhanam)&hashtags=sponsor-1-days-food-expenses-annadhanam",
+    "https://www.facebook.com/sankaraeyehospitals/",
+    "https://www.facebook.com/sharer.php?u=https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/",
+    "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fsankaraeye.com%2Fproduct%2Fsponsor-1-days-food-expenses-annadhanam%2F",
+    "https://www.youtube.com/user/sankaraeyehospitals"
+  ],
+  "images": [
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-fb.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-ig.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-twitter.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-youtube.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/Coimbatore-Facilities-62-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/column-content-m-img-2-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-colored-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-white-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2026/01/Eye-Doctor-in-Ludhiana-1-720x720.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2026/04/Lasik-eye-surgery-cost-720x720.jpeg",
+    "https://sankaraeye.com/wp-content/uploads/2026/04/squint-eye-treatment-and-surgery-720x720.png",
+    "https://sankaraeye.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png",
+    "https://sankaraeye.com/wp-content/uploads/woocommerce-placeholder-150x150.png",
+    "https://sankaraeye.com/wp-content/uploads/woocommerce-placeholder-300x300.png",
+    "https://sankaraeye.com/wp-content/uploads/woocommerce-placeholder-768x768.png",
+    "https://sankaraeye.com/wp-content/uploads/woocommerce-placeholder.png",
+    "https://www.facebook.com/tr?id=2447296055406653&ev=PageView&noscript=1",
+    "https://www.facebook.com/tr?id=431030042486995&ev=PageView&noscript=1"
+  ],
+  "documents": [],
+  "css_files": [
+    "https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&ver=7.0.4",
+    "https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap&ver=7.0.4",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/announcer-css-v47dbca4a234f6714b5f320672c82331e69656175.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/donation-v33a84a2dac56d9d5fcad15fd5f1eec0188dd1e48.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/iss-vfd2b9a8943017d7c6535543deb030ecec5722e02.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-custom-vb73c88903e60bae86b3c2cf4a9e21aa8e8ba0373.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-main-va3739e4b778c74f98c4fb3ef53e04a12bed014d2.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/tahs-public-style-ve9ea61fd2433014c447edb993f263c7e43750c8a.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/wpb-pcf-styles-vcec44bffb310c93597c0ce946dbe5703c9b8f1f6.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/ywcds_frontend-v3156068a6936eaec8d7298e7bc9c797d6a7a31b9.css",
+    "https://sankaraeye.com/wp-content/plugins/timeline-and-history-slider/assets/css/slick.css?ver=2.3",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/css/sweetalert2.min.css?ver=11.4.8",
+    "https://sankaraeye.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1"
+  ],
+  "js_files": [
+    "https://embeddables.p.mbirdcdn.net/v1/web-components.es.js",
+    "https://salesiq.zohopublic.in/widget?wc=siq0226829dd8316629f8e860dd5f4ddd2e878c8032ffdd78d6cc41394703812e47",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/body-574bb2fa7cee085f693ab38c1aa00a202be9f107.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-2a81bdcb98b03ed770fbf257c6cf0ab5b4ef62e8.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-8e7fc080c621987d65ca9f88ecdf3bc19071298a.js",
+    "https://www.google.com/recaptcha/api.js?render=6LfZ4-0aAAAAAIE9bZl1bt2vxNIwl79_9hLxxizJ&ver=3.0",
+    "https://www.googletagmanager.com/gtag/js?id=AW-979602086",
+    "https://www.googletagmanager.com/gtag/js?id=G-8J2P6HMG28",
+    "https://www.googletagmanager.com/gtag/js?id=UA-42093803-1"
+  ],
+  "clean_text_length": 1197,
+  "clean_text": "Sponsor 1 day’s food expenses ( Annadhanam) | Sankara Sponsor 1 day’s food expenses ( Annadhanam) | Sankara About Services Social Impact Donate Pledge Your Eyes Education Careers Our Blog Contact Services About Us About Pledge Your Eyes Contact Education Social Impact Services Donate Awards Dr.RVR Awards and Biography lasikblr Sankara Lasik Services OUR STORY SERVICES SOCIAL IMPACT Sponsor 1 day’s food expenses ( Annadhanam) 0 MIN READ July 30, 2018 Sponsor 1 day’s food expenses ( Annadhanam) ₹ 15,000.00 Sponsor 1 day’s food expenses ( Annadhanam) quantity Add to cart Categories: Donation , Surgery Related products Cataract Surgeries – GOV ₹ 3,000.00 Add to cart One cataract surgery ₹ 3,000.00 Add to cart One cataract surgery SEFUSA ₹ 3,000.00 Add to cart Multiple cataract surgeries ₹ 3,000.00 Add to cart Recent Posts Best squint eye treatment and surgery hospital in India Lasik Eye Surgery Cost in India Eye Doctor in Ludhiana – Complete Guide follow us on social OUR STORY SERVICES SOCIAL IMPACT EDUCATION DONATE OUR PUBLICATIONS PLEDGE YOUR EYES CAREERS CONTACT US PRIVACY POLICY Unit of Sri.Kanchi Kamakoti Medical Trust Copyright 2023 sankaraeye.com Baked & Frosted by Misfit Inc"
+}

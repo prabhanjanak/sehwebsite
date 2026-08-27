@@ -1,0 +1,197 @@
+{
+  "url": "https://sankaraeye.com/checkout",
+  "slug": "checkout",
+  "category": "pages",
+  "title": "Cart | Sankara",
+  "meta_description": "",
+  "meta_keywords": "",
+  "og": {
+    "locale": "en_US",
+    "type": "article",
+    "title": "Cart | Sankara",
+    "url": "https://sankaraeye.com/cart/",
+    "site_name": "Sankara"
+  },
+  "twitter": {
+    "card": "summary_large_image"
+  },
+  "schema_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://sankaraeye.com/cart/",
+          "url": "https://sankaraeye.com/cart/",
+          "name": "Cart | Sankara",
+          "isPartOf": {
+            "@id": "https://sankaraeye.com/#website"
+          },
+          "datePublished": "2018-05-31T09:33:29+00:00",
+          "dateModified": "2023-01-26T09:01:15+00:00",
+          "breadcrumb": {
+            "@id": "https://sankaraeye.com/cart/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://sankaraeye.com/cart/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sankaraeye.com/cart/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sankaraeye.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Cart"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sankaraeye.com/#website",
+          "url": "https://sankaraeye.com/",
+          "name": "Sankara",
+          "description": "World-class Eyecare with a Social Impact",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://sankaraeye.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  ],
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": []
+  },
+  "internal_links": [
+    "https://sankaraeye.com",
+    "https://sankaraeye.com/about",
+    "https://sankaraeye.com/blog",
+    "https://sankaraeye.com/careers",
+    "https://sankaraeye.com/checkout",
+    "https://sankaraeye.com/contact",
+    "https://sankaraeye.com/donate",
+    "https://sankaraeye.com/dr-rvr-awards-and-biography",
+    "https://sankaraeye.com/education",
+    "https://sankaraeye.com/journals",
+    "https://sankaraeye.com/lasikblr",
+    "https://sankaraeye.com/pledge-your-eyes",
+    "https://sankaraeye.com/privacy-policy",
+    "https://sankaraeye.com/sankaralasikservices",
+    "https://sankaraeye.com/services",
+    "https://sankaraeye.com/social-impact"
+  ],
+  "external_links": [
+    "http://sankaraeye.host.misfit.co/#",
+    "https://instagram.com/sankaraeyehospitals",
+    "https://twitter.com/sankarav2020?lang=en",
+    "https://www.facebook.com/sankaraeyehospitals/",
+    "https://www.youtube.com/user/sankaraeyehospitals"
+  ],
+  "images": [
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-fb.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-ig.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-twitter.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-youtube.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/Coimbatore-Facilities-62-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/column-content-m-img-2-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-colored-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-white-logo.png",
+    "https://www.facebook.com/tr?id=2447296055406653&ev=PageView&noscript=1",
+    "https://www.facebook.com/tr?id=431030042486995&ev=PageView&noscript=1"
+  ],
+  "documents": [],
+  "css_files": [
+    "https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&ver=7.0.4",
+    "https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap&ver=7.0.4",
+    "https://sankaraeye.com/wp-content/plugins/announcer/public/css/style.css?ver=6.1",
+    "https://sankaraeye.com/wp-content/plugins/donation/public/css/donation.css?ver=1.0.0",
+    "https://sankaraeye.com/wp-content/plugins/instant-search-suggest/assets/css/iss.css?ver=1765765237",
+    "https://sankaraeye.com/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.9.5",
+    "https://sankaraeye.com/wp-content/plugins/timeline-and-history-slider/assets/css/slick-slider-style.css?ver=2.3",
+    "https://sankaraeye.com/wp-content/plugins/timeline-and-history-slider/assets/css/slick.css?ver=2.3",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/css/frontend.css?ver=1.0",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/css/sweetalert2.min.css?ver=11.4.8",
+    "https://sankaraeye.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1",
+    "https://sankaraeye.com/wp-content/plugins/yith-donations-for-woocommerce/assets/css/ywcds_frontend.css?ver=1.1.26",
+    "https://sankaraeye.com/wp-content/uploads/master-slider/custom.css?ver=949.3"
+  ],
+  "js_files": [
+    "https://embeddables.p.mbirdcdn.net/v1/web-components.es.js",
+    "https://salesiq.zohopublic.in/widget?wc=siq0226829dd8316629f8e860dd5f4ddd2e878c8032ffdd78d6cc41394703812e47",
+    "https://sankaraeye.com/wp-admin/js/password-strength-meter.min.js?ver=7.0.4",
+    "https://sankaraeye.com/wp-content/plugins/announcer/public/js/script.js?ver=6.1",
+    "https://sankaraeye.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.6",
+    "https://sankaraeye.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.6",
+    "https://sankaraeye.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.6",
+    "https://sankaraeye.com/wp-content/plugins/donation/public/js/donation.js?ver=1.0.0",
+    "https://sankaraeye.com/wp-content/plugins/instant-search-suggest/assets/js/iss.js?ver=1765765237",
+    "https://sankaraeye.com/wp-content/plugins/instant-search-suggest/assets/js/jquery.suggest.js?ver=1765765237",
+    "https://sankaraeye.com/wp-content/plugins/instant-search-suggest/assets/js/mustache.js?ver=1765765237",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-after.js",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce-min-max-quantities/assets/js/frontend/validate.min.js?ver=5.2.4",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.15.5",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/js/frontend.js?ver=1.0",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/js/sweetalert2.all.min.js?ver=11.4.8",
+    "https://sankaraeye.com/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1",
+    "https://sankaraeye.com/wp-content/plugins/yith-donations-for-woocommerce/assets/js/ywcds_free_frontend.min.js?ver=1.1.26",
+    "https://sankaraeye.com/wp-content/themes/sankara2/assets/js/main.js?ver=7.0.4",
+    "https://sankaraeye.com/wp-content/themes/sankara2/assets/js/vendor/jquery.min.js?ver=7.0.4",
+    "https://sankaraeye.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d",
+    "https://sankaraeye.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec",
+    "https://sankaraeye.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+    "https://sankaraeye.com/wp-includes/js/underscore.min.js?ver=1.13.8",
+    "https://sankaraeye.com/wp-includes/js/wp-util.min.js?ver=7.0.4",
+    "https://sankaraeye.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0",
+    "https://www.google.com/recaptcha/api.js?render=6LfZ4-0aAAAAAIE9bZl1bt2vxNIwl79_9hLxxizJ&ver=3.0",
+    "https://www.googletagmanager.com/gtag/js?id=AW-979602086",
+    "https://www.googletagmanager.com/gtag/js?id=G-8J2P6HMG28",
+    "https://www.googletagmanager.com/gtag/js?id=UA-42093803-1"
+  ],
+  "clean_text_length": 591,
+  "clean_text": "Cart | Sankara Cart | Sankara About Services Social Impact Donate Pledge Your Eyes Education Careers Our Blog Contact Services About Us About Pledge Your Eyes Contact Education Social Impact Services Donate Awards Dr.RVR Awards and Biography lasikblr Sankara Lasik Services OUR STORY SERVICES SOCIAL IMPACT Your cart is currently empty. Return to shop follow us on social OUR STORY SERVICES SOCIAL IMPACT EDUCATION DONATE OUR PUBLICATIONS PLEDGE YOUR EYES CAREERS CONTACT US PRIVACY POLICY Unit of Sri.Kanchi Kamakoti Medical Trust Copyright 2023 sankaraeye.com Baked & Frosted by Misfit Inc"
+}

@@ -1,0 +1,242 @@
+{
+  "url": "https://sankaraeye.com/sankara-college-of-optometry-bangalore",
+  "slug": "sankara-college-of-optometry-bangalore",
+  "category": "pages",
+  "title": "Sankara College of Optometry Bangalore | Sankara",
+  "meta_description": "",
+  "meta_keywords": "",
+  "og": {
+    "locale": "en_US",
+    "type": "article",
+    "title": "Sankara College of Optometry Bangalore | Sankara",
+    "url": "https://sankaraeye.com/sankara-college-of-optometry-bangalore/",
+    "site_name": "Sankara"
+  },
+  "twitter": {
+    "card": "summary_large_image"
+  },
+  "schema_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://sankaraeye.com/sankara-college-of-optometry-bangalore/",
+          "url": "https://sankaraeye.com/sankara-college-of-optometry-bangalore/",
+          "name": "Sankara College of Optometry Bangalore | Sankara",
+          "isPartOf": {
+            "@id": "https://sankaraeye.com/#website"
+          },
+          "datePublished": "2023-01-30T10:46:36+00:00",
+          "dateModified": "2023-05-22T04:41:49+00:00",
+          "breadcrumb": {
+            "@id": "https://sankaraeye.com/sankara-college-of-optometry-bangalore/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://sankaraeye.com/sankara-college-of-optometry-bangalore/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sankaraeye.com/sankara-college-of-optometry-bangalore/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sankaraeye.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sankara College of Optometry Bangalore"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sankaraeye.com/#website",
+          "url": "https://sankaraeye.com/",
+          "name": "Sankara",
+          "description": "World-class Eyecare with a Social Impact",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://sankaraeye.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  ],
+  "headings": {
+    "h1": [
+      "Sankara College of Optometry"
+    ],
+    "h2": [
+      "What We Offer"
+    ],
+    "h3": [
+      "NAAC",
+      "Fellowships in Optometry (6 months) Certificate",
+      "Optometry Internship (1 year) Certificate",
+      "Bachelors in Optometry (B.Sc. Optometry)",
+      "Optom. Sandip Das Sanyam",
+      "Optom. Monica"
+    ],
+    "h4": []
+  },
+  "internal_links": [
+    "https://sankaraeye.com",
+    "https://sankaraeye.com/about",
+    "https://sankaraeye.com/blog",
+    "https://sankaraeye.com/careers",
+    "https://sankaraeye.com/cdn-cgi/l/email-protection",
+    "https://sankaraeye.com/contact",
+    "https://sankaraeye.com/donate",
+    "https://sankaraeye.com/dr-rvr-awards-and-biography",
+    "https://sankaraeye.com/education",
+    "https://sankaraeye.com/journals",
+    "https://sankaraeye.com/lasikblr",
+    "https://sankaraeye.com/pledge-your-eyes",
+    "https://sankaraeye.com/privacy-policy",
+    "https://sankaraeye.com/sankara-college-of-optometry-bangalore",
+    "https://sankaraeye.com/sankaralasikservices",
+    "https://sankaraeye.com/services",
+    "https://sankaraeye.com/social-impact",
+    "https://sankaraeye.com/wp-content/uploads/2021/07/Binocular-vision.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/07/Contact-lens.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/07/Lowvision.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/07/Occularistry.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/07/Paeditaric.jpg"
+  ],
+  "external_links": [
+    "http://sankaraeye.host.misfit.co/#",
+    "https://docs.google.com/forms/d/e/1FAIpQLScbeiHeXvl3TuM_nRN1kjtWw7df1hEwOjhqAVheGCU-lK-WDA/viewform?usp=sf_link",
+    "https://forms.gle/Ef6KVsviFhJjAUEx7",
+    "https://forms.office.com/r/K5WVNW9Nbb",
+    "https://instagram.com/sankaraeyehospitals",
+    "https://twitter.com/sankarav2020?lang=en",
+    "https://www.facebook.com/sankaraeyehospitals/",
+    "https://www.youtube.com/user/sankaraeyehospitals"
+  ],
+  "images": [
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-fb.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-ig.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-twitter.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-youtube.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/New-Project-1.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/call-1.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/img-1.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/img-2.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/img-3.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/mail-100x100.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/mail-150x150.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/mail-300x300.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/mail-600x600.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/mail.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/map.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/qr-code-100x100.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/qr-code-150x150.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/qr-code-300x300.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/qr-code-600x600.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/qr-code-768x768.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/qr-code.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/right-arrow-png-transparent-image-100x100.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/right-arrow-png-transparent-image-150x150.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/right-arrow-png-transparent-image-300x300.png",
+    "https://sankaraeye.com/wp-content/uploads/2021/12/right-arrow-png-transparent-image.png",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-100x100.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-1024x1024.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-185x185.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-300x300.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-385x385.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-585x585.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-600x600.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-650x650.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-670x670.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-700x700.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27-768x768.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-27.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-100x100.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-1024x1024.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-185x185.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-300x300.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-385x385.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-585x585.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-600x600.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-650x650.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-670x670.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-700x700.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28-768x768.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/01/New-Project-28.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2022/06/New-Project-4.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/Coimbatore-Facilities-62-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/admin-ajax.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/circle-1.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/circle-2.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/circle-3.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/column-content-m-img-2-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-colored-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-white-logo.png",
+    "https://www.facebook.com/tr?id=2447296055406653&ev=PageView&noscript=1",
+    "https://www.facebook.com/tr?id=431030042486995&ev=PageView&noscript=1"
+  ],
+  "documents": [
+    "https://sankaraeye.com/wp-content/uploads/2022/07/Best-Practices-1.pdf",
+    "https://sankaraeye.com/wp-content/uploads/2022/07/Code-of-Ethical-Conduct-MA-Sankara-1.pdf",
+    "https://sankaraeye.com/wp-content/uploads/2022/07/INSTITUTE-DISTINCTIVENESS-1.pdf",
+    "https://sankaraeye.com/wp-content/uploads/2022/07/Skill-Development.pdf",
+    "https://sankaraeye.com/wp-content/uploads/2022/12/KACOGN111255-1-2.pdf"
+  ],
+  "css_files": [
+    "https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&ver=7.0.4",
+    "https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap&ver=7.0.4",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/announcer-css-v47dbca4a234f6714b5f320672c82331e69656175.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/donation-v33a84a2dac56d9d5fcad15fd5f1eec0188dd1e48.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/iss-vfd2b9a8943017d7c6535543deb030ecec5722e02.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-custom-vb73c88903e60bae86b3c2cf4a9e21aa8e8ba0373.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-main-va3739e4b778c74f98c4fb3ef53e04a12bed014d2.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/tahs-public-style-ve9ea61fd2433014c447edb993f263c7e43750c8a.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/wpb-pcf-styles-vcec44bffb310c93597c0ce946dbe5703c9b8f1f6.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/ywcds_frontend-v3156068a6936eaec8d7298e7bc9c797d6a7a31b9.css",
+    "https://sankaraeye.com/wp-content/plugins/timeline-and-history-slider/assets/css/slick.css?ver=2.3",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/css/sweetalert2.min.css?ver=11.4.8",
+    "https://sankaraeye.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1"
+  ],
+  "js_files": [
+    "https://embeddables.p.mbirdcdn.net/v1/web-components.es.js",
+    "https://salesiq.zohopublic.in/widget?wc=siq0226829dd8316629f8e860dd5f4ddd2e878c8032ffdd78d6cc41394703812e47",
+    "https://sankaraeye.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/body-574bb2fa7cee085f693ab38c1aa00a202be9f107.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-1ca2e814580d4c491dc38f1058a22df969c9ea71.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-8e7fc080c621987d65ca9f88ecdf3bc19071298a.js",
+    "https://www.google.com/recaptcha/api.js?render=6LfZ4-0aAAAAAIE9bZl1bt2vxNIwl79_9hLxxizJ&ver=3.0",
+    "https://www.googletagmanager.com/gtag/js?id=AW-979602086",
+    "https://www.googletagmanager.com/gtag/js?id=G-8J2P6HMG28",
+    "https://www.googletagmanager.com/gtag/js?id=UA-42093803-1"
+  ],
+  "clean_text_length": 11141,
+  "clean_text": "Sankara College of Optometry Bangalore | Sankara Sankara College of Optometry Bangalore | Sankara About Services Social Impact Donate Pledge Your Eyes Education Careers Our Blog Contact Services About Us About Pledge Your Eyes Contact Education Social Impact Services Donate Awards Dr.RVR Awards and Biography lasikblr Sankara Lasik Services OUR STORY SERVICES SOCIAL IMPACT Sankara College of Optometry About Sankara College of Optometry Bangalore : Sankara College of Optometry Bangalore is among the best schools of Optometry training suppliers in India. The Sankara Optometry College Bengaluru part of Sankara Eye Hospital are furnishing elite Optometry instruction with completely settled school. Special Features of Sankara College of Optometry Bangalore : Elite infra-structure with high quality labs and facilities Support for the Students in proactive manner in improving their skill set An extremely dedicated set of teaching faculties who support understudies and give superb chance to learn, develop, and sparkle Complete emphasis on clinical training Excellent jobs/ career opportunities within Sankara eye hospitals and other eye care providers, corporates etc. through our campus placement services Making Students to get familiar with the research oriented works BSc Optometry & Lateral Entry affiliated Rajiv Gandhi University of Health Sciences, Karnataka NAAC SELF STUDY REPORT (SSR) – 2022 CLICK TO KNOW ABOUT – INSTITUTE DISTINCTIVENESS CLICK TO KNOW ABOUT – CODE OF ETHICAL CONDUCT CLICK TO KNOW ABOUT – BEST PRACTICES KNOW ABOUT – SKILL DEVELOPMENT Fellowships in Optometry (6 months) Certificate Vision Therapy – [ Brochure Download ] Low Vision & Rehabilitation – [ Brochure Download ] Ocularistry – [ Brochure Download ] Contact Lens – [ Brochure Download ] Paeditaric – [ Brochure Download ] Optometry Internship (1 year) Certificate INTERNSHIP IN OPTOMETRY Sankara Eye Foundation India currently offers advanced clinical training in the following optometric subspecialties..."
+}

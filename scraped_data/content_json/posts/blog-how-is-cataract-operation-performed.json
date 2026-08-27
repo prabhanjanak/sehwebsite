@@ -1,0 +1,278 @@
+{
+  "url": "https://sankaraeye.com/blog/how-is-cataract-operation-performed",
+  "slug": "blog-how-is-cataract-operation-performed",
+  "category": "posts",
+  "title": "How is cataract operation performed",
+  "meta_description": "Find comprehensive information on how is cataract operation performed , surgery time , recovery time , success rate of cataract surgery .",
+  "meta_keywords": "",
+  "og": {
+    "locale": "en_US",
+    "type": "article",
+    "title": "How is cataract operation performed",
+    "description": "Find comprehensive information on how is cataract operation performed , surgery time , recovery time , success rate of cataract surgery .",
+    "url": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/",
+    "site_name": "Sankara",
+    "image": "https://sankaraeye.com/wp-content/uploads/2024/07/How-is.png",
+    "image:width": "1080",
+    "image:height": "1080",
+    "image:type": "image/png"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "label1": "Written by",
+    "data1": "sankarateam",
+    "label2": "Est. reading time",
+    "data2": "6 minutes"
+  },
+  "schema_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/#article",
+          "isPartOf": {
+            "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/"
+          },
+          "author": {
+            "name": "sankarateam",
+            "@id": "https://sankaraeye.com/#/schema/person/5df4697db22cb10bbd2f3c574ef1c08e"
+          },
+          "headline": "How is cataract operation performed",
+          "datePublished": "2024-07-05T10:26:23+00:00",
+          "dateModified": "2026-01-14T05:16:10+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/"
+          },
+          "wordCount": 1291,
+          "image": {
+            "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/#primaryimage"
+          },
+          "thumbnailUrl": "https://sankaraeye.com/wp-content/uploads/2024/07/How-is.png",
+          "articleSection": [
+            "Eyecare"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/",
+          "url": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/",
+          "name": "How is cataract operation performed",
+          "isPartOf": {
+            "@id": "https://sankaraeye.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/#primaryimage"
+          },
+          "image": {
+            "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/#primaryimage"
+          },
+          "thumbnailUrl": "https://sankaraeye.com/wp-content/uploads/2024/07/How-is.png",
+          "datePublished": "2024-07-05T10:26:23+00:00",
+          "dateModified": "2026-01-14T05:16:10+00:00",
+          "author": {
+            "@id": "https://sankaraeye.com/#/schema/person/5df4697db22cb10bbd2f3c574ef1c08e"
+          },
+          "description": "Find comprehensive information on how is cataract operation performed , surgery time , recovery time , success rate of cataract surgery .",
+          "breadcrumb": {
+            "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://sankaraeye.com/blog/how-is-cataract-operation-performed/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/#primaryimage",
+          "url": "https://sankaraeye.com/wp-content/uploads/2024/07/How-is.png",
+          "contentUrl": "https://sankaraeye.com/wp-content/uploads/2024/07/How-is.png",
+          "width": 1080,
+          "height": 1080,
+          "caption": "how is cataract operation performed"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sankaraeye.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "How is cataract operation performed"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sankaraeye.com/#website",
+          "url": "https://sankaraeye.com/",
+          "name": "Sankara",
+          "description": "World-class Eyecare with a Social Impact",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://sankaraeye.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://sankaraeye.com/#/schema/person/5df4697db22cb10bbd2f3c574ef1c08e",
+          "name": "sankarateam",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://secure.gravatar.com/avatar/dde9867e09ad7f9b519f9317655f05baae00470497533abc8e9e97ffcf6c8ea1?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/dde9867e09ad7f9b519f9317655f05baae00470497533abc8e9e97ffcf6c8ea1?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/dde9867e09ad7f9b519f9317655f05baae00470497533abc8e9e97ffcf6c8ea1?s=96&d=mm&r=g",
+            "caption": "sankarateam"
+          },
+          "url": "https://sankaraeye.com/blog/author/sankarateam/"
+        }
+      ]
+    }
+  ],
+  "headings": {
+    "h1": [
+      "How is cataract operation performed",
+      "How is cataract operation performed"
+    ],
+    "h2": [
+      "After Cataract operation, Can we leave same day ?",
+      "Frequently Asked Questions (FAQs) About Cataract Surgery / Operation",
+      "Recent Posts"
+    ],
+    "h3": [
+      "1. What is cataract surgery?",
+      "2. Who needs cataract surgery?",
+      "3.Is cataract surgery safe?",
+      "4. Can I go home the same day after cataract surgery?",
+      "5. How long does cataract surgery take?",
+      "6.Is cataract surgery painful?",
+      "7. What is an intraocular lens (IOL)?",
+      "8. Are stitches required after cataract surgery?",
+      "9. How soon will vision improve after cataract surgery?",
+      "10. What precautions should be taken after cataract surgery?",
+      "11. How long does recovery take after cataract surgery?",
+      "12. What is the success rate of cataract surgery?",
+      "13. Are there any risks or complications of cataract surgery?",
+      "14. Can cataracts come back after surgery?",
+      "15. When can I resume normal activities after cataract surgery?",
+      "16.Do I need glasses after cataract surgery?",
+      "17.When should I consult a doctor for cataracts?",
+      "18.Is cataract surgery suitable for elderly patients?",
+      "19. What is themain benefit of cataract surgery?",
+      "Best squint eye treatment and surgery hospital in India",
+      "Lasik Eye Surgery Cost in India",
+      "Eye Doctor in Ludhiana – Complete Guide"
+    ],
+    "h4": [
+      "All About Performing Cataract Surgery / Operation",
+      "How Cataract Surgery will take place :",
+      "Time taken to find improvement after cataract operation :",
+      "Success rate of cataract surgery / cataract operation :"
+    ]
+  },
+  "internal_links": [
+    "https://sankaraeye.com",
+    "https://sankaraeye.com/about",
+    "https://sankaraeye.com/blog",
+    "https://sankaraeye.com/blog/eye-doctor-in-ludhiana-complete-guide",
+    "https://sankaraeye.com/blog/how-is-cataract-operation-performed",
+    "https://sankaraeye.com/blog/lasik-eye-surgery-cost-in-india",
+    "https://sankaraeye.com/blog/squint-eye-treatment-and-surgery",
+    "https://sankaraeye.com/careers",
+    "https://sankaraeye.com/contact",
+    "https://sankaraeye.com/donate",
+    "https://sankaraeye.com/dr-rvr-awards-and-biography",
+    "https://sankaraeye.com/education",
+    "https://sankaraeye.com/journals",
+    "https://sankaraeye.com/lasikblr",
+    "https://sankaraeye.com/pledge-your-eyes",
+    "https://sankaraeye.com/privacy-policy",
+    "https://sankaraeye.com/sankaralasikservices",
+    "https://sankaraeye.com/services",
+    "https://sankaraeye.com/social-impact"
+  ],
+  "external_links": [
+    "http://sankaraeye.host.misfit.co/#",
+    "https://instagram.com/sankaraeyehospitals",
+    "https://twitter.com/sankarav2020?lang=en",
+    "https://twitter.com/share?url=https://sankaraeye.com/blog/how-is-cataract-operation-performed/&text=How is cataract operation performed&hashtags=how-is-cataract-operation-performed",
+    "https://www.facebook.com/sankaraeyehospitals/",
+    "https://www.facebook.com/sankaraeyehospitals/posts/pfbid02bF9oXQeprZfDjKCsXDY3jNm5K2zsh7D2HQmVUfPsNkXWYyvQqffe24zvBZe3H3ESl",
+    "https://www.facebook.com/sharer.php?u=https://sankaraeye.com/blog/how-is-cataract-operation-performed/",
+    "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fsankaraeye.com%2Fblog%2Fhow-is-cataract-operation-performed%2F",
+    "https://www.youtube.com/user/sankaraeyehospitals"
+  ],
+  "images": [
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-fb.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-ig.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-twitter.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-youtube.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/Coimbatore-Facilities-62-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/column-content-m-img-2-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-colored-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-white-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2026/01/Eye-Doctor-in-Ludhiana-1-720x720.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2026/04/Lasik-eye-surgery-cost-720x720.jpeg",
+    "https://sankaraeye.com/wp-content/uploads/2026/04/squint-eye-treatment-and-surgery-720x720.png",
+    "https://www.facebook.com/tr?id=2447296055406653&ev=PageView&noscript=1",
+    "https://www.facebook.com/tr?id=431030042486995&ev=PageView&noscript=1"
+  ],
+  "documents": [],
+  "css_files": [
+    "https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&ver=7.0.4",
+    "https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap&ver=7.0.4",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/announcer-css-v47dbca4a234f6714b5f320672c82331e69656175.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/donation-v33a84a2dac56d9d5fcad15fd5f1eec0188dd1e48.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/iss-vfd2b9a8943017d7c6535543deb030ecec5722e02.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-custom-vb73c88903e60bae86b3c2cf4a9e21aa8e8ba0373.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-main-va3739e4b778c74f98c4fb3ef53e04a12bed014d2.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/tahs-public-style-ve9ea61fd2433014c447edb993f263c7e43750c8a.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/wpb-pcf-styles-vcec44bffb310c93597c0ce946dbe5703c9b8f1f6.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/ywcds_frontend-v3156068a6936eaec8d7298e7bc9c797d6a7a31b9.css",
+    "https://sankaraeye.com/wp-content/plugins/timeline-and-history-slider/assets/css/slick.css?ver=2.3",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/css/sweetalert2.min.css?ver=11.4.8",
+    "https://sankaraeye.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1"
+  ],
+  "js_files": [
+    "https://embeddables.p.mbirdcdn.net/v1/web-components.es.js",
+    "https://salesiq.zohopublic.in/widget?wc=siq0226829dd8316629f8e860dd5f4ddd2e878c8032ffdd78d6cc41394703812e47",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/body-574bb2fa7cee085f693ab38c1aa00a202be9f107.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-1ca2e814580d4c491dc38f1058a22df969c9ea71.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-8e7fc080c621987d65ca9f88ecdf3bc19071298a.js",
+    "https://www.google.com/recaptcha/api.js?render=6LfZ4-0aAAAAAIE9bZl1bt2vxNIwl79_9hLxxizJ&ver=3.0",
+    "https://www.googletagmanager.com/gtag/js?id=AW-979602086",
+    "https://www.googletagmanager.com/gtag/js?id=G-8J2P6HMG28",
+    "https://www.googletagmanager.com/gtag/js?id=UA-42093803-1"
+  ],
+  "clean_text_length": 9213,
+  "clean_text": "How is cataract operation performed How is cataract operation performed About Services Social Impact Donate Pledge Your Eyes Education Careers Our Blog Contact Services About Us About Pledge Your Eyes Contact Education Social Impact Services Donate Awards Dr.RVR Awards and Biography lasikblr Sankara Lasik Services OUR STORY SERVICES SOCIAL IMPACT How is cataract operation performed Eyecare | 7 MIN READ July 5, 2024 How is cataract operation performed All About Performing Cataract Surgery / Operation Cataract is a common eye condition that affects millions of people worldwide. As we age, the lenses in our eyes become cloudy, leading to blurred vision and difficulty seeing clearly. Fortunately, cataract surgery or cataract operation has become a highly effective and safe procedure that can restore vision and improve quality of life. This blog post will explore the process of performing a cataract operation and what patients can expect during the procedure. After Cataract operation, Can we leave same day ? Cataract surgery is typically an outpatient procedure, meaning you can go home the same day. Before the surgery, your ophthalmologist will conduct a thorough eye examination to determine the extent of your cataracts and assess your overall eye health. The surgeon will also measure the power of the intraocular lens (IOL) that will be implanted during the surgery How Cataract Surgery will take place : On the day of the surgery, you will be given eye drops to dilate your pupils and numb your eye. The surgeon will then make a small incision in the cornea, the clear front part of the eye. This incision is typically less than 3 millimeters long and is self-sealing, meaning it does not require stitches. Next, a small instrument called a phacoemulsification probe is inserted into the incision. Ultrasound waves break up the cloudy lens into tiny fragments, and then gently suction them out of the eye, a process known as phacoemulsification and is the most common technique used..."
+}

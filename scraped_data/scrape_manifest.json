@@ -1,0 +1,3276 @@
+{
+  "source": "https://sankaraeye.com",
+  "scraped_at": "2026-08-24 09:54:19",
+  "total_pages_scraped": 225,
+  "total_images_downloaded": 244,
+  "total_docs_downloaded": 145,
+  "categories": {
+    "products": 10,
+    "pages": 66,
+    "posts": 69,
+    "press": 36,
+    "testimonials": 30,
+    "events": 14
+  },
+  "pages": [
+    {
+      "url": "https://sankaraeye.com/product/one-cataract-surgery/",
+      "slug": "product-one-cataract-surgery",
+      "category": "products",
+      "title": "One cataract surgery | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "One cataract surgery",
+        "One cataract surgery"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-one-cataract-surgery.md",
+      "json_file": "content_json/products/product-one-cataract-surgery.json",
+      "html_file": "raw_html/products/product-one-cataract-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/education/",
+      "slug": "education",
+      "category": "pages",
+      "title": "Education New | Sankara",
+      "meta_description": "Sankara Academy of Vision: Igniting minds with a unique approach, rooted in CORE values. Embrace SAV to explore boundless opportunities!",
+      "headings_h1": [
+        "Sankara Academy of Vision",
+        "SANKARA COLLEGE OF OPTOMETRY, BANGALORE:",
+        "SANKARA COLLEGE OF OPTOMETRY, LUDHIANA"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/pages/education.md",
+      "json_file": "content_json/pages/education.json",
+      "html_file": "raw_html/pages/education.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/lasik-eye-surgery-cost-in-india/",
+      "slug": "blog-lasik-eye-surgery-cost-in-india",
+      "category": "posts",
+      "title": "Lasik Eye Surgery Cost in India |",
+      "meta_description": "Discover the cost of lasik eye surgery in india and learn how to choose the right clinic for your eye care needs .",
+      "headings_h1": [
+        "Lasik Eye Surgery Cost in India",
+        "Lasik Eye Surgery Cost in India"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-lasik-eye-surgery-cost-in-india.md",
+      "json_file": "content_json/posts/blog-lasik-eye-surgery-cost-in-india.json",
+      "html_file": "raw_html/posts/blog-lasik-eye-surgery-cost-in-india.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/",
+      "slug": "blog",
+      "category": "posts",
+      "title": "Our Blog | Sankara",
+      "meta_description": "Discover diverse perspectives and engaging topics on our curated blog list. Explore, learn, and stay informed with us!",
+      "headings_h1": [],
+      "image_count": 23,
+      "markdown_file": "content_markdown/posts/blog.md",
+      "json_file": "content_json/posts/blog.json",
+      "html_file": "raw_html/posts/blog.html"
+    },
+    {
+      "url": "https://sankaraeye.com/about/",
+      "slug": "about",
+      "category": "pages",
+      "title": "About US",
+      "meta_description": "Know about Journey of Sankara Eye Hospital and Team and their commitment to excellence in eye care through their vision and mission.",
+      "headings_h1": [
+        "About Us"
+      ],
+      "image_count": 39,
+      "markdown_file": "content_markdown/pages/about.md",
+      "json_file": "content_json/pages/about.json",
+      "html_file": "raw_html/pages/about.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/cataract-operation-cost-in-india/",
+      "slug": "blog-cataract-operation-cost-in-india",
+      "category": "posts",
+      "title": "Cataract Operation Cost in india | Sankara",
+      "meta_description": "Cataract operation cost in India an comprehensive guide on Understand pricing, factors affecting costs, and find the best options .",
+      "headings_h1": [
+        "Cataract Operation Cost in india",
+        "Cataract Operation Cost in india",
+        "Cataract Eye Operation Cost in India: What You Need to Know"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-cataract-operation-cost-in-india.md",
+      "json_file": "content_json/posts/blog-cataract-operation-cost-in-india.json",
+      "html_file": "raw_html/posts/blog-cataract-operation-cost-in-india.html"
+    },
+    {
+      "url": "https://sankaraeye.com/privacy-policy/",
+      "slug": "privacy-policy",
+      "category": "pages",
+      "title": "Privacy Policy | Sankara",
+      "meta_description": "Sankara Eye Hospital's Privacy Policy: Your consent matters. Learn about the information we collect and how it's used to prioritize your privacy.",
+      "headings_h1": [
+        "Privacy Policy"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/privacy-policy.md",
+      "json_file": "content_json/pages/privacy-policy.json",
+      "html_file": "raw_html/pages/privacy-policy.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere/",
+      "slug": "press-sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere",
+      "category": "press",
+      "title": "Sankara Eye Hospital shimoga - inaugurated SEFI’s 31st Vision Centre at Chalakere | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital shimoga – inaugurated SEFI’s 31st Vision Centre at Chalakere",
+        "Sankara Eye Hospital shimoga – inaugurated SEFI’s 31st Vision Centre at Chalakere"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/living-with-a-lifelong-scar-no-more/",
+      "slug": "testimonials-living-with-a-lifelong-scar-no-more",
+      "category": "testimonials",
+      "title": "Living with a Lifelong Scar No More | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Living with a Lifelong Scar No More",
+        "Living with a Lifelong Scar No More"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-living-with-a-lifelong-scar-no-more.md",
+      "json_file": "content_json/testimonials/testimonials-living-with-a-lifelong-scar-no-more.json",
+      "html_file": "raw_html/testimonials/testimonials-living-with-a-lifelong-scar-no-more.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-organizes-workshop-world-childrens-day/",
+      "slug": "press-sankara-eye-hospital-organizes-workshop-world-childrens-day",
+      "category": "press",
+      "title": "Sankara Eye Hospital Organizes Workshop for World Children’s Day | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital Organizes Workshop for World Children’s Day",
+        "Sankara Eye Hospital Organizes Workshop for World Children’s Day"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-organizes-workshop-world-childrens-day.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-organizes-workshop-world-childrens-day.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-organizes-workshop-world-childrens-day.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti/",
+      "slug": "press-sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti",
+      "category": "press",
+      "title": "Sankara Eye Hospital Coimbatore – inaugurated SEFI’s 33rd Vision Centre at Pappampatti | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital Coimbatore – inaugurated SEFI’s 33rd Vision Centre at Pappampatti",
+        "Sankara Eye Hospital Coimbatore – inaugurated SEFI’s 33rd Vision Centre at Pappampatti"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/cataract-eye-surgery-recovery-time/",
+      "slug": "blog-cataract-eye-surgery-recovery-time",
+      "category": "posts",
+      "title": "Cataract Eye Surgery Recovery Time | Sankara",
+      "meta_description": "Understand the recovery time for cataract eye surgery. Get insights on healing stages and tips to ensure a successful recovery journey .",
+      "headings_h1": [
+        "Cataract Eye Surgery Recovery Time",
+        "Cataract Eye Surgery Recovery Time",
+        "Cataract Eye Surgery Recovery Time : What to Expect"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-cataract-eye-surgery-recovery-time.md",
+      "json_file": "content_json/posts/blog-cataract-eye-surgery-recovery-time.json",
+      "html_file": "raw_html/posts/blog-cataract-eye-surgery-recovery-time.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/multiple-cataract-surgeries-sefusa/",
+      "slug": "product-multiple-cataract-surgeries-sefusa",
+      "category": "products",
+      "title": "Cataract Surgeries - GOV | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Cataract Surgeries – GOV",
+        "Cataract Surgeries – GOV"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-multiple-cataract-surgeries-sefusa.md",
+      "json_file": "content_json/products/product-multiple-cataract-surgeries-sefusa.json",
+      "html_file": "raw_html/products/product-multiple-cataract-surgeries-sefusa.html"
+    },
+    {
+      "url": "https://sankaraeye.com/event/anatomy-physiology/",
+      "slug": "event-anatomy-physiology",
+      "category": "events",
+      "title": "Anatomy & Physiology          | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Anatomy & Physiology"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/events/event-anatomy-physiology.md",
+      "json_file": "content_json/events/event-anatomy-physiology.json",
+      "html_file": "raw_html/events/event-anatomy-physiology.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/can-myopia-be-cured/",
+      "slug": "blog-can-myopia-be-cured",
+      "category": "posts",
+      "title": "Can Myopia Be Cured | Sankara Eye Foundation",
+      "meta_description": "Wondering if myopia can be cured ? Explore proven strategies and innovative approaches to manage and potentially eliminate this myopia",
+      "headings_h1": [
+        "Can myopia be cured",
+        "Can myopia be cured"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-can-myopia-be-cured.md",
+      "json_file": "content_json/posts/blog-can-myopia-be-cured.json",
+      "html_file": "raw_html/posts/blog-can-myopia-be-cured.html"
+    },
+    {
+      "url": "https://sankaraeye.com/forgot-password/",
+      "slug": "forgot-password",
+      "category": "pages",
+      "title": "Forgot Password | Sankara",
+      "meta_description": "RESET YOUR PASSWORD here. Fear not! We’ll email you instructions to reset your password.",
+      "headings_h1": [
+        "Reset Your Password"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/forgot-password.md",
+      "json_file": "content_json/pages/forgot-password.json",
+      "html_file": "raw_html/pages/forgot-password.html"
+    },
+    {
+      "url": "https://sankaraeye.com/social-impact/",
+      "slug": "social-impact",
+      "category": "pages",
+      "title": "Free eye checkup camp",
+      "meta_description": "Free eye checkup campJoin our free eye checkup camp to ensure your vision health. Expert screenings and consultations available.",
+      "headings_h1": [
+        "Social Impact"
+      ],
+      "image_count": 34,
+      "markdown_file": "content_markdown/pages/social-impact.md",
+      "json_file": "content_json/pages/social-impact.json",
+      "html_file": "raw_html/pages/social-impact.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022/",
+      "slug": "press-honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022",
+      "category": "press",
+      "title": "Honnali Vision - Davangiri District was inaugurated on 25th March 2022. | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Honnali Vision – Davangiri District was inaugurated on 25th March 2022.",
+        "Honnali Vision – Davangiri District was inaugurated on 25th March 2022."
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022.md",
+      "json_file": "content_json/press/press-honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022.json",
+      "html_file": "raw_html/press/press-honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/bright-brave-and-responsible/",
+      "slug": "testimonials-bright-brave-and-responsible",
+      "category": "testimonials",
+      "title": "Bright, Brave and Responsible | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Bright, Brave and Responsible",
+        "Bright, Brave and Responsible"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-bright-brave-and-responsible.md",
+      "json_file": "content_json/testimonials/testimonials-bright-brave-and-responsible.json",
+      "html_file": "raw_html/testimonials/testimonials-bright-brave-and-responsible.html"
+    },
+    {
+      "url": "https://sankaraeye.com/dr-rvr-awards-and-biography/",
+      "slug": "dr-rvr-awards-and-biography",
+      "category": "pages",
+      "title": "Dr.RVR Awards and Biography | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/dr-rvr-awards-and-biography.md",
+      "json_file": "content_json/pages/dr-rvr-awards-and-biography.json",
+      "html_file": "raw_html/pages/dr-rvr-awards-and-biography.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam/",
+      "slug": "product-sponsor-1-days-food-expenses-annadhanam",
+      "category": "products",
+      "title": "Sponsor 1 day’s food expenses ( Annadhanam) | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sponsor 1 day’s food expenses ( Annadhanam)",
+        "Sponsor 1 day’s food expenses ( Annadhanam)"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-sponsor-1-days-food-expenses-annadhanam.md",
+      "json_file": "content_json/products/product-sponsor-1-days-food-expenses-annadhanam.json",
+      "html_file": "raw_html/products/product-sponsor-1-days-food-expenses-annadhanam.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-fruits-and-vegetables-good-for-eyes/",
+      "slug": "blog-best-fruits-and-vegetables-good-for-eyes",
+      "category": "posts",
+      "title": "Best fruits and vegetables good for eyes | Sankara Eye Foundation",
+      "meta_description": "Discover the best fruits and vegetables good for eyes . Explore the best natural sources for maintaining optimal eye health.",
+      "headings_h1": [
+        "Best fruits and vegetables good for eyes",
+        "Best fruits and vegetables good for eyes"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-fruits-and-vegetables-good-for-eyes.md",
+      "json_file": "content_json/posts/blog-best-fruits-and-vegetables-good-for-eyes.json",
+      "html_file": "raw_html/posts/blog-best-fruits-and-vegetables-good-for-eyes.html"
+    },
+    {
+      "url": "https://sankaraeye.com/contact/",
+      "slug": "contact",
+      "category": "pages",
+      "title": "Best Eye Hospital in Jaipur | For All Eye Problems",
+      "meta_description": "Discover the Best Eye Hospital in Jaipur offering advanced treatments, expert ophthalmologists, state-of-the-art facilities for vision care.",
+      "headings_h1": [
+        "Contact"
+      ],
+      "image_count": 26,
+      "markdown_file": "content_markdown/pages/contact.md",
+      "json_file": "content_json/pages/contact.json",
+      "html_file": "raw_html/pages/contact.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/bright-brave-and-responsible/",
+      "slug": "blog-bright-brave-and-responsible",
+      "category": "posts",
+      "title": "Bright, Brave and Responsible | Sankara",
+      "meta_description": "Radiant courage meets unwavering responsibility in a dazzling display of brilliance.",
+      "headings_h1": [
+        "Bright, Brave and Responsible",
+        "Bright, Brave and Responsible"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-bright-brave-and-responsible.md",
+      "json_file": "content_json/posts/blog-bright-brave-and-responsible.json",
+      "html_file": "raw_html/posts/blog-bright-brave-and-responsible.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/one-cataract-surgery-sefusa/",
+      "slug": "product-one-cataract-surgery-sefusa",
+      "category": "products",
+      "title": "One cataract surgery SEFUSA | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "One cataract surgery SEFUSA",
+        "One cataract surgery SEFUSA"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-one-cataract-surgery-sefusa.md",
+      "json_file": "content_json/products/product-one-cataract-surgery-sefusa.json",
+      "html_file": "raw_html/products/product-one-cataract-surgery-sefusa.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/tips-tricks-to-protect-your-eyes-from-digital-screens-during-work/",
+      "slug": "blog-tips-tricks-to-protect-your-eyes-from-digital-screens-during-work",
+      "category": "posts",
+      "title": "Tips to prevent Digital Eye strain | Sankara Eye Foundation",
+      "meta_description": "Working on digital media has become a fact of life in the past few years causing Eye strain . Here are few tips and tricks to protect your eyes from digital screens during work",
+      "headings_h1": [
+        "Tips & Tricks To Protect Your Eyes From Digital Screens During Work",
+        "Tips & Tricks To Protect Your Eyes From Digital Screens During Work"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-tips-tricks-to-protect-your-eyes-from-digital-screens-during-work.md",
+      "json_file": "content_json/posts/blog-tips-tricks-to-protect-your-eyes-from-digital-screens-during-work.json",
+      "html_file": "raw_html/posts/blog-tips-tricks-to-protect-your-eyes-from-digital-screens-during-work.html"
+    },
+    {
+      "url": "https://sankaraeye.com",
+      "slug": "home",
+      "category": "pages",
+      "title": "Best Eye Hospital in Bangalore | For All Eye Problems",
+      "meta_description": "Trust your vision to the best eye hospital in Bangalore. We combine cutting-edge technology with compassionate care for optimal eye health.",
+      "headings_h1": [
+        "From Patient Testimonies, to World Class Eye Care"
+      ],
+      "image_count": 17,
+      "markdown_file": "content_markdown/pages/home.md",
+      "json_file": "content_json/pages/home.json",
+      "html_file": "raw_html/pages/home.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it/",
+      "slug": "blog-worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it",
+      "category": "posts",
+      "title": "Worried about vision loss with aging? 7 simple ways to prevent it | Sankara",
+      "meta_description": "Age-proof your eyes: Eat well, quit smoking, wear shades, stay active, maintain weight, limit screens, manage conditions, get check-ups.",
+      "headings_h1": [
+        "Worried about vision loss with aging? 7 simple ways to prevent it",
+        "Worried about vision loss with aging? 7 simple ways to prevent it"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it.md",
+      "json_file": "content_json/posts/blog-worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it.json",
+      "html_file": "raw_html/posts/blog-worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-eye-doctor-in-indore/",
+      "slug": "blog-best-eye-doctor-in-indore",
+      "category": "posts",
+      "title": "Best Eye Doctor in Indore - Find Near By Eye Specialist",
+      "meta_description": "Discover the best eye doctor in Indore, offering expert care and advanced treatments for all your vision needs",
+      "headings_h1": [
+        "Best Eye Doctor in Indore – Find Near By Eye Specialist",
+        "Best Eye Doctor in Indore – Find Near By Eye Specialist"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-eye-doctor-in-indore.md",
+      "json_file": "content_json/posts/blog-best-eye-doctor-in-indore.json",
+      "html_file": "raw_html/posts/blog-best-eye-doctor-in-indore.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/how-is-cataract-operation-performed/",
+      "slug": "blog-how-is-cataract-operation-performed",
+      "category": "posts",
+      "title": "How is cataract operation performed",
+      "meta_description": "Find comprehensive information on how is cataract operation performed , surgery time , recovery time , success rate of cataract surgery .",
+      "headings_h1": [
+        "How is cataract operation performed",
+        "How is cataract operation performed"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-how-is-cataract-operation-performed.md",
+      "json_file": "content_json/posts/blog-how-is-cataract-operation-performed.json",
+      "html_file": "raw_html/posts/blog-how-is-cataract-operation-performed.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-eye-specialist-in-varanasi/",
+      "slug": "blog-best-eye-specialist-in-varanasi",
+      "category": "posts",
+      "title": "Best Eye Specialist in Varanasi | Complete Guide",
+      "meta_description": "Discover the best eye specialist in varanasi, offering expert care and advanced treatments. Schedule your appointment today.",
+      "headings_h1": [
+        "Best Eye Specialist in Varanasi : A Complete Guide to Quality Eye Care",
+        "Best Eye Specialist in Varanasi : A Complete Guide to Quality Eye Care",
+        "Best Eye Specialist in Varanasi : Complete Guide"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-eye-specialist-in-varanasi.md",
+      "json_file": "content_json/posts/blog-best-eye-specialist-in-varanasi.json",
+      "html_file": "raw_html/posts/blog-best-eye-specialist-in-varanasi.html"
+    },
+    {
+      "url": "https://sankaraeye.com/event/optics-refraction/",
+      "slug": "event-optics-refraction",
+      "category": "events",
+      "title": "Optics & Refraction                  | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Optics & Refraction"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/events/event-optics-refraction.md",
+      "json_file": "content_json/events/event-optics-refraction.json",
+      "html_file": "raw_html/events/event-optics-refraction.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-eye-hospital-in-hyderabad/",
+      "slug": "blog-best-eye-hospital-in-hyderabad",
+      "category": "posts",
+      "title": "Best Eye Hospital Hyderabad – Expert Care | Sankara Eye Hospital",
+      "meta_description": "Find the best eye hospital Hyderabad patients trust. Sankara Eye Hospital provides advanced eye care, experienced specialists, and modern treatments for clear vision.",
+      "headings_h1": [
+        "Best Eye Hospital in Hyderabad – Complete Guide",
+        "Best Eye Hospital in Hyderabad – Complete Guide"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-eye-hospital-in-hyderabad.md",
+      "json_file": "content_json/posts/blog-best-eye-hospital-in-hyderabad.json",
+      "html_file": "raw_html/posts/blog-best-eye-hospital-in-hyderabad.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital/",
+      "slug": "press-centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital",
+      "category": "press",
+      "title": "Centre of Excellence in Vitreo-Retina & Ocular Oncology Inaugurated at Sankara Eye Hospital | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Centre of Excellence in Vitreo-Retina & Ocular Oncology Inaugurated at Sankara Eye Hospital",
+        "Centre of Excellence in Vitreo-Retina & Ocular Oncology Inaugurated at Sankara Eye Hospital"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital.md",
+      "json_file": "content_json/press/press-centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital.json",
+      "html_file": "raw_html/press/press-centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/glaucoma-eye-treatment/",
+      "slug": "blog-glaucoma-eye-treatment",
+      "category": "posts",
+      "title": "Glaucoma eye treatment | Sankara Eye Foundation",
+      "meta_description": "Specialized glaucoma eye treatment to preserve your vision and enhance your quality of life . Dont miss to know about eye disease glaucoma.",
+      "headings_h1": [
+        "Glaucoma eye treatment",
+        "Glaucoma eye treatment"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-glaucoma-eye-treatment.md",
+      "json_file": "content_json/posts/blog-glaucoma-eye-treatment.json",
+      "html_file": "raw_html/posts/blog-glaucoma-eye-treatment.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/taking-on-each-day-with-strength/",
+      "slug": "testimonials-taking-on-each-day-with-strength",
+      "category": "testimonials",
+      "title": "Taking on Each Day With Strength | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Taking on Each Day With Strength",
+        "Taking on Each Day With Strength"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-taking-on-each-day-with-strength.md",
+      "json_file": "content_json/testimonials/testimonials-taking-on-each-day-with-strength.json",
+      "html_file": "raw_html/testimonials/testimonials-taking-on-each-day-with-strength.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/the-light-at-the-end-of-the-tunnel/",
+      "slug": "testimonials-the-light-at-the-end-of-the-tunnel",
+      "category": "testimonials",
+      "title": "The Light At The End of The Tunnel | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "The Light At The End of The Tunnel",
+        "The Light At The End of The Tunnel"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-the-light-at-the-end-of-the-tunnel.md",
+      "json_file": "content_json/testimonials/testimonials-the-light-at-the-end-of-the-tunnel.json",
+      "html_file": "raw_html/testimonials/testimonials-the-light-at-the-end-of-the-tunnel.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/adding-life-to-his-years/",
+      "slug": "testimonials-adding-life-to-his-years",
+      "category": "testimonials",
+      "title": "Adding Life To His Years | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Adding Life To His Years",
+        "Adding Life To His Years"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-adding-life-to-his-years.md",
+      "json_file": "content_json/testimonials/testimonials-adding-life-to-his-years.json",
+      "html_file": "raw_html/testimonials/testimonials-adding-life-to-his-years.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/spreading-the-light/",
+      "slug": "testimonials-spreading-the-light",
+      "category": "testimonials",
+      "title": "Spreading The Light | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Spreading The Light",
+        "Spreading The Light"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-spreading-the-light.md",
+      "json_file": "content_json/testimonials/testimonials-spreading-the-light.json",
+      "html_file": "raw_html/testimonials/testimonials-spreading-the-light.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/eye-vision-care/",
+      "slug": "blog-eye-vision-care",
+      "category": "posts",
+      "title": "Eye Vision Care | Sankara Eye Foundation",
+      "meta_description": "Providing comprehensive eye care services to improve and maintain optimal vision. Sankara | Eye Vision care",
+      "headings_h1": [
+        "Eye Vision care",
+        "Eye Vision care"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-eye-vision-care.md",
+      "json_file": "content_json/posts/blog-eye-vision-care.json",
+      "html_file": "raw_html/posts/blog-eye-vision-care.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmology-strabismus-and-neuro-ophthalmology-at-sankara-eye-hospital-bangalore/",
+      "slug": "press-inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmology-strabismus-and-neuro-ophthalmology-at-sankara-eye-hospital-bangalore",
+      "category": "press",
+      "title": "Inauguration - Centres of Excellence in Vitreo-Retinal Diseases & Oncology and Pediatric Ophthalmology, Strabismus and Neuro Ophthalmology at Sankara Eye Hospital Bangalore | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Inauguration – Centres of Excellence in Vitreo-Retinal Diseases & Oncology and Pediatric Ophthalmology, Strabismus and Neuro Ophthalmology at Sankara Eye Hospital Bangalore",
+        "Inauguration – Centres of Excellence in Vitreo-Retinal Diseases & Oncology and Pediatric Ophthalmology, Strabismus and Neuro Ophthalmology at Sankara Eye Hospital Bangalore"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmo.md",
+      "json_file": "content_json/press/press-inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmo.json",
+      "html_file": "raw_html/press/press-inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmo.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/there-is-light-after-all/",
+      "slug": "testimonials-there-is-light-after-all",
+      "category": "testimonials",
+      "title": "There is Light, after all | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "There is Light, after all",
+        "There is Light, after all"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-there-is-light-after-all.md",
+      "json_file": "content_json/testimonials/testimonials-there-is-light-after-all.json",
+      "html_file": "raw_html/testimonials/testimonials-there-is-light-after-all.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district/",
+      "slug": "press-sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district",
+      "category": "press",
+      "title": "Sankara Eye Hospital Guntur- 35th Vision Centre was inaugurated at Gurazala , Palnadu District | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital Guntur- 35th Vision Centre was inaugurated at Gurazala , Palnadu District",
+        "Sankara Eye Hospital Guntur- 35th Vision Centre was inaugurated at Gurazala , Palnadu District"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district.md",
+      "json_file": "content_json/press/press-sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district.json",
+      "html_file": "raw_html/press/press-sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district.html"
+    },
+    {
+      "url": "https://sankaraeye.com/lasikblr/",
+      "slug": "lasikblr",
+      "category": "pages",
+      "title": "lasikblr | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital - Bangalore Lasik Offer"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/lasikblr.md",
+      "json_file": "content_json/pages/lasikblr.json",
+      "html_file": "raw_html/pages/lasikblr.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program/",
+      "slug": "press-hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program",
+      "category": "press",
+      "title": "Hindustan Unilever and Sankara Eye Hospital Roll out Blindness Awareness Program | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Hindustan Unilever and Sankara Eye Hospital Roll out Blindness Awareness Program",
+        "Hindustan Unilever and Sankara Eye Hospital Roll out Blindness Awareness Program"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program.md",
+      "json_file": "content_json/press/press-hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program.json",
+      "html_file": "raw_html/press/press-hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment/",
+      "slug": "press-timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment",
+      "category": "press",
+      "title": "Timken donates Rs.49 Lakhs to Sankara Eye Hospital for an OCT Equipment | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Timken donates Rs.49 Lakhs to Sankara Eye Hospital for an OCT Equipment",
+        "Timken donates Rs.49 Lakhs to Sankara Eye Hospital for an OCT Equipment"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment.md",
+      "json_file": "content_json/press/press-timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment.json",
+      "html_file": "raw_html/press/press-timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/5-eye-problems-in-children-how-to-treat-them/",
+      "slug": "blog-5-eye-problems-in-children-how-to-treat-them",
+      "category": "posts",
+      "title": "5 Eye Problems in Children & How to Treat Them | Sankara",
+      "meta_description": "Spot common eye issues in kids—Ptosis, Amblyopia, Chalazion, Epiphora. Learn symptoms and treatments for a clear vision ahead!",
+      "headings_h1": [
+        "5 Eye Problems in Children & How to Treat Them",
+        "5 Eye Problems in Children & How to Treat Them"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-5-eye-problems-in-children-how-to-treat-them.md",
+      "json_file": "content_json/posts/blog-5-eye-problems-in-children-how-to-treat-them.json",
+      "html_file": "raw_html/posts/blog-5-eye-problems-in-children-how-to-treat-them.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/summer-eye-care-tips/",
+      "slug": "blog-summer-eye-care-tips",
+      "category": "posts",
+      "title": "Summer Eye Care Tips | Sankara",
+      "meta_description": "Summer Eye Care Tips | Eyecare | Get ready for summer with our expert eye care tips to keep your eyes healthy and protected from the sun .",
+      "headings_h1": [
+        "Summer Eye Care Tips",
+        "Summer Eye Care Tips"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-summer-eye-care-tips.md",
+      "json_file": "content_json/posts/blog-summer-eye-care-tips.json",
+      "html_file": "raw_html/posts/blog-summer-eye-care-tips.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/multiple-cataract-surgeries/",
+      "slug": "product-multiple-cataract-surgeries",
+      "category": "products",
+      "title": "Multiple cataract surgeries | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Multiple cataract surgeries",
+        "Multiple cataract surgeries"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-multiple-cataract-surgeries.md",
+      "json_file": "content_json/products/product-multiple-cataract-surgeries.json",
+      "html_file": "raw_html/products/product-multiple-cataract-surgeries.html"
+    },
+    {
+      "url": "https://sankaraeye.com/donate/",
+      "slug": "donate",
+      "category": "pages",
+      "title": "Charity organizations donation website",
+      "meta_description": "Discover how your donations can make a difference. Join our charity organization to support those in need and create a positive impact .",
+      "headings_h1": [
+        "DONATE"
+      ],
+      "image_count": 12,
+      "markdown_file": "content_markdown/pages/donate.md",
+      "json_file": "content_json/pages/donate.json",
+      "html_file": "raw_html/pages/donate.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-eye-doctor-in-jaipur-for-your-eye-care-needs/",
+      "slug": "blog-best-eye-doctor-in-jaipur-for-your-eye-care-needs",
+      "category": "posts",
+      "title": "Best Eye Doctor in Jaipur for Your Eye Care Needs | Sankara",
+      "meta_description": "Looking for the best eye doctor in Jaipur. Our experts offers top-notch eye care services, ensuring your vision health is in the best hands",
+      "headings_h1": [
+        "Best Eye Doctor in Jaipur for Your Eye Care Needs",
+        "Best Eye Doctor in Jaipur for Your Eye Care Needs"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-eye-doctor-in-jaipur-for-your-eye-care-needs.md",
+      "json_file": "content_json/posts/blog-best-eye-doctor-in-jaipur-for-your-eye-care-needs.json",
+      "html_file": "raw_html/posts/blog-best-eye-doctor-in-jaipur-for-your-eye-care-needs.html"
+    },
+    {
+      "url": "https://sankaraeye.com/cart/",
+      "slug": "cart",
+      "category": "pages",
+      "title": "Cart | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/cart.md",
+      "json_file": "content_json/pages/cart.json",
+      "html_file": "raw_html/pages/cart.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training/",
+      "slug": "press-sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training",
+      "category": "press",
+      "title": "Sankara Eye Hospitals to collaborate with University of Bonn for Research & Training | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospitals to collaborate with University of Bonn for Research & Training",
+        "Sankara Eye Hospitals to collaborate with University of Bonn for Research & Training"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training.md",
+      "json_file": "content_json/press/press-sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training.html"
+    },
+    {
+      "url": "https://sankaraeye.com/varanasiproject/",
+      "slug": "varanasiproject",
+      "category": "pages",
+      "title": "Varanasiproject | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "RJ Sankara Eye Hospital - Varanasi Project Updates"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/varanasiproject.md",
+      "json_file": "content_json/pages/varanasiproject.json",
+      "html_file": "raw_html/pages/varanasiproject.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-foundation-receives-prestigious-global-performance-excellence-award/",
+      "slug": "press-sankara-eye-foundation-receives-prestigious-global-performance-excellence-award",
+      "category": "press",
+      "title": "Sankara Eye Foundation Receives Prestigious Global Performance Excellence Award | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Foundation Receives Prestigious Global Performance Excellence Award",
+        "Sankara Eye Foundation Receives Prestigious Global Performance Excellence Award"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-foundation-receives-prestigious-global-performance-excellence-award.md",
+      "json_file": "content_json/press/press-sankara-eye-foundation-receives-prestigious-global-performance-excellence-award.json",
+      "html_file": "raw_html/press/press-sankara-eye-foundation-receives-prestigious-global-performance-excellence-award.html"
+    },
+    {
+      "url": "https://sankaraeye.com/sankara-college-of-optometry-bangalore/",
+      "slug": "sankara-college-of-optometry-bangalore",
+      "category": "pages",
+      "title": "Sankara College of Optometry Bangalore | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara College of Optometry"
+      ],
+      "image_count": 62,
+      "markdown_file": "content_markdown/pages/sankara-college-of-optometry-bangalore.md",
+      "json_file": "content_json/pages/sankara-college-of-optometry-bangalore.json",
+      "html_file": "raw_html/pages/sankara-college-of-optometry-bangalore.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/which-lens-is-best-for-cataract-surgery/",
+      "slug": "blog-which-lens-is-best-for-cataract-surgery",
+      "category": "posts",
+      "title": "Which lens is best for cataract surgery | Sankara",
+      "meta_description": "Discover the top lens options for cataract surgery and make an informed choice for optimal vision restoration",
+      "headings_h1": [
+        "Which lens is best for cataract surgery",
+        "Which lens is best for cataract surgery",
+        "Choosing the Right Cataract Lens: A Comprehensive Guide"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-which-lens-is-best-for-cataract-surgery.md",
+      "json_file": "content_json/posts/blog-which-lens-is-best-for-cataract-surgery.json",
+      "html_file": "raw_html/posts/blog-which-lens-is-best-for-cataract-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka/",
+      "slug": "press-microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka",
+      "category": "press",
+      "title": "\u0003Microsoft supports Sankara's launch Of a unique Mobile Vision Rehabilitation bus in Karnataka | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "\u0003Microsoft supports Sankara’s launch Of a unique Mobile Vision Rehabilitation bus in Karnataka",
+        "\u0003Microsoft supports Sankara’s launch Of a unique Mobile Vision Rehabilitation bus in Karnataka"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka.md",
+      "json_file": "content_json/press/press-microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka.json",
+      "html_file": "raw_html/press/press-microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka.html"
+    },
+    {
+      "url": "https://sankaraeye.com/checkout/",
+      "slug": "checkout",
+      "category": "pages",
+      "title": "Cart | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/checkout.md",
+      "json_file": "content_json/pages/checkout.json",
+      "html_file": "raw_html/pages/checkout.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/a-single-ray-of-light-can-bring-hope/",
+      "slug": "testimonials-a-single-ray-of-light-can-bring-hope",
+      "category": "testimonials",
+      "title": "A Single Ray of Light Can Bring Hope | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "A Single Ray of Light Can Bring Hope",
+        "A Single Ray of Light Can Bring Hope"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-a-single-ray-of-light-can-bring-hope.md",
+      "json_file": "content_json/testimonials/testimonials-a-single-ray-of-light-can-bring-hope.json",
+      "html_file": "raw_html/testimonials/testimonials-a-single-ray-of-light-can-bring-hope.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/eye-doctor-in-ludhiana-complete-guide/",
+      "slug": "blog-eye-doctor-in-ludhiana-complete-guide",
+      "category": "posts",
+      "title": "Eye Doctor in Ludhiana - Complete Guide | Sankara",
+      "meta_description": "Discover eye doctor in Ludhiana ? Our skilled team offers advanced eye care services, ensuring your vision health is in the best hands.",
+      "headings_h1": [
+        "Eye Doctor in Ludhiana – Complete Guide",
+        "Eye Doctor in Ludhiana – Complete Guide",
+        "Finding the Right Eye Doctor in Ludhiana : A Complete Guide"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-eye-doctor-in-ludhiana-complete-guide.md",
+      "json_file": "content_json/posts/blog-eye-doctor-in-ludhiana-complete-guide.json",
+      "html_file": "raw_html/posts/blog-eye-doctor-in-ludhiana-complete-guide.html"
+    },
+    {
+      "url": "https://sankaraeye.com/careers/",
+      "slug": "careers",
+      "category": "pages",
+      "title": "Hospital Careers | Apply Now",
+      "meta_description": "Unlock your potential in hospital careers. Diverse job opportunities, gain valuable insights and take the next step in healthcare journey .",
+      "headings_h1": [
+        "Careers",
+        "Explore Job Openings - Apply Now",
+        "JOIN OUR TEAM",
+        "Explore Job Openings - Apply Now"
+      ],
+      "image_count": 21,
+      "markdown_file": "content_markdown/pages/careers.md",
+      "json_file": "content_json/pages/careers.json",
+      "html_file": "raw_html/pages/careers.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/dazzling-with-her-brilliance/",
+      "slug": "testimonials-dazzling-with-her-brilliance",
+      "category": "testimonials",
+      "title": "Dazzling With Her Brilliance | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Dazzling With Her Brilliance",
+        "Dazzling With Her Brilliance"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-dazzling-with-her-brilliance.md",
+      "json_file": "content_json/testimonials/testimonials-dazzling-with-her-brilliance.json",
+      "html_file": "raw_html/testimonials/testimonials-dazzling-with-her-brilliance.html"
+    },
+    {
+      "url": "https://sankaraeye.com/pledge-your-eyes/",
+      "slug": "pledge-your-eyes",
+      "category": "pages",
+      "title": "Eye Donation | Know about the Procedure",
+      "meta_description": "Learn about eye donation process in India, its impact on lives, and how you can make difference.Your eye donation can help to restore vision.",
+      "headings_h1": [
+        "Pledge Your Eyes"
+      ],
+      "image_count": 14,
+      "markdown_file": "content_markdown/pages/pledge-your-eyes.md",
+      "json_file": "content_json/pages/pledge-your-eyes.json",
+      "html_file": "raw_html/pages/pledge-your-eyes.html"
+    },
+    {
+      "url": "https://sankaraeye.com/sankaralasikservices/",
+      "slug": "sankaralasikservices",
+      "category": "pages",
+      "title": "Sankara Lasik Services | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Lasik Services"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/pages/sankaralasikservices.md",
+      "json_file": "content_json/pages/sankaralasikservices.json",
+      "html_file": "raw_html/pages/sankaralasikservices.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/smiles-ahead/",
+      "slug": "testimonials-smiles-ahead",
+      "category": "testimonials",
+      "title": "Smiles Ahead | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Smiles Ahead",
+        "Smiles Ahead"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-smiles-ahead.md",
+      "json_file": "content_json/testimonials/testimonials-smiles-ahead.json",
+      "html_file": "raw_html/testimonials/testimonials-smiles-ahead.html"
+    },
+    {
+      "url": "https://sankaraeye.com/event/sanqalp-iv/",
+      "slug": "event-sanqalp-iv",
+      "category": "events",
+      "title": "SanQALP IV                                               | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "SanQALP IV"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/events/event-sanqalp-iv.md",
+      "json_file": "content_json/events/event-sanqalp-iv.json",
+      "html_file": "raw_html/events/event-sanqalp-iv.html"
+    },
+    {
+      "url": "https://sankaraeye.com/jayendram/",
+      "slug": "jayendram",
+      "category": "pages",
+      "title": "Jayendram | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "\"Jayendram\""
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/jayendram.md",
+      "json_file": "content_json/pages/jayendram.json",
+      "html_file": "raw_html/pages/jayendram.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/impact-on-wage-earners/",
+      "slug": "testimonials-impact-on-wage-earners",
+      "category": "testimonials",
+      "title": "Impact on Wage Earners | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Impact on Wage Earners",
+        "Impact on Wage Earners"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-impact-on-wage-earners.md",
+      "json_file": "content_json/testimonials/testimonials-impact-on-wage-earners.json",
+      "html_file": "raw_html/testimonials/testimonials-impact-on-wage-earners.html"
+    },
+    {
+      "url": "https://sankaraeye.com/services/",
+      "slug": "services",
+      "category": "pages",
+      "title": "Best Eye Hospital in Coimbatore| For All Eye Problems",
+      "meta_description": "Discover the best eye hospital in Coimbatore, offering advanced treatments and expert care for all your vision needs.",
+      "headings_h1": [
+        "Services"
+      ],
+      "image_count": 22,
+      "markdown_file": "content_markdown/pages/services.md",
+      "json_file": "content_json/pages/services.json",
+      "html_file": "raw_html/pages/services.html"
+    },
+    {
+      "url": "https://sankaraeye.com/donate-sefusa/",
+      "slug": "donate-sefusa",
+      "category": "pages",
+      "title": "Donations to Sankara Eye Care Institution | Sankara Eye Foundation",
+      "meta_description": "Empower lives, donate for sight! Your gift brings vision to those in need. Illuminate a brighter world today.",
+      "headings_h1": [
+        "DONATE"
+      ],
+      "image_count": 12,
+      "markdown_file": "content_markdown/pages/donate-sefusa.md",
+      "json_file": "content_json/pages/donate-sefusa.json",
+      "html_file": "raw_html/pages/donate-sefusa.html"
+    },
+    {
+      "url": "https://sankaraeye.com/education-new/",
+      "slug": "education-new",
+      "category": "pages",
+      "title": "Education New | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Academy Of Vision",
+        "SANKARA COLLEGE OF OPTOMETRY, BANGALORE:",
+        "SANKARA COLLEGE OF OPTOMETRY, LUDHIANA"
+      ],
+      "image_count": 36,
+      "markdown_file": "content_markdown/pages/education-new.md",
+      "json_file": "content_json/pages/education-new.json",
+      "html_file": "raw_html/pages/education-new.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/eye-cataract-signs-and-symptoms/",
+      "slug": "blog-eye-cataract-signs-and-symptoms",
+      "category": "posts",
+      "title": "Eye cataract signs and symptoms | Sankara Eye Foundation",
+      "meta_description": "Explore a comprehensive guide to eye cataract signs and symptoms, and access reliable information on prevention and treatment strategies.",
+      "headings_h1": [
+        "Eye cataract signs and symptoms",
+        "Eye cataract signs and symptoms"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-eye-cataract-signs-and-symptoms.md",
+      "json_file": "content_json/posts/blog-eye-cataract-signs-and-symptoms.json",
+      "html_file": "raw_html/posts/blog-eye-cataract-signs-and-symptoms.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/a-leap-of-faith/",
+      "slug": "testimonials-a-leap-of-faith",
+      "category": "testimonials",
+      "title": "A Leap Of Faith | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "A Leap Of Faith",
+        "A Leap Of Faith"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-a-leap-of-faith.md",
+      "json_file": "content_json/testimonials/testimonials-a-leap-of-faith.json",
+      "html_file": "raw_html/testimonials/testimonials-a-leap-of-faith.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/corneal-abrasion-symptoms-causes-treatment/",
+      "slug": "blog-corneal-abrasion-symptoms-causes-treatment",
+      "category": "posts",
+      "title": "Corneal Abrasion: Symptoms, Causes & Treatment | Sankara",
+      "meta_description": "Corneal Abrasion: Eye scratch from trauma or foreign objects. Symptoms: pain, redness. Treatment: drops, protection. Prevent: eye safety.",
+      "headings_h1": [
+        "Corneal Abrasion: Symptoms, Causes & Treatment",
+        "Corneal Abrasion: Symptoms, Causes & Treatment"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-corneal-abrasion-symptoms-causes-treatment.md",
+      "json_file": "content_json/posts/blog-corneal-abrasion-symptoms-causes-treatment.json",
+      "html_file": "raw_html/posts/blog-corneal-abrasion-symptoms-causes-treatment.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-hospital-for-eye-care/",
+      "slug": "blog-best-hospital-for-eye-care",
+      "category": "posts",
+      "title": "Best Hospital for Eye in India - Sankara Eye Hospital | Sankara",
+      "meta_description": "Discover the best hospital for eye in india, offering advanced treatments and expert care. Ensure your eye health with the best care.",
+      "headings_h1": [
+        "Best Hospital for Eye in India – Sankara Eye Hospital",
+        "Best Hospital for Eye in India – Sankara Eye Hospital",
+        "Sankara Eye Hospital: India’s Best Hospital  for Eye Care"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-hospital-for-eye-care.md",
+      "json_file": "content_json/posts/blog-best-hospital-for-eye-care.json",
+      "html_file": "raw_html/posts/blog-best-hospital-for-eye-care.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/digital-eye-strain-affects-children-now-more-than-ever/",
+      "slug": "press-digital-eye-strain-affects-children-now-more-than-ever",
+      "category": "press",
+      "title": "Digital Eye Strain Affects Children Now More than Ever | Sankara",
+      "meta_description": "Digital eye strain affecting children now more than everThe current lock down due to COVID-19 pandemic has led to the biggest self-isolation India has ever witnessed. As activities have confined to the four walls of the house, work from home, online schooling has become an instant mantra. Children are spending more time than ever staring at digital screens like computers, tablets, TVs, smartphones, and other devices either for educational. purposes or just for fun. The screen time can take a toll on children & wellbeing including their eyes. Children who spend significantly more time on digital screen tend to have myopia and eye strain problems. Myopia can develop rapidly or even eventually. Children with myopia tend to experience a blurred or distorted vision, squinting or strained eyes and even headache.",
+      "headings_h1": [
+        "Digital Eye Strain Affects Children Now More than Ever",
+        "Digital Eye Strain Affects Children Now More than Ever"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-digital-eye-strain-affects-children-now-more-than-ever.md",
+      "json_file": "content_json/press/press-digital-eye-strain-affects-children-now-more-than-ever.json",
+      "html_file": "raw_html/press/press-digital-eye-strain-affects-children-now-more-than-ever.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai/",
+      "slug": "press-sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai",
+      "category": "press",
+      "title": "Sankara Eye Hospital Coimbatore- Inaugurated 34th Vision Centre at Karamadai | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital Coimbatore- Inaugurated 34th Vision Centre at Karamadai",
+        "Sankara Eye Hospital Coimbatore- Inaugurated 34th Vision Centre at Karamadai"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai.html"
+    },
+    {
+      "url": "https://sankaraeye.com/request-submitted/",
+      "slug": "request-submitted",
+      "category": "pages",
+      "title": "request-submitted | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Request Submitted"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/request-submitted.md",
+      "json_file": "content_json/pages/request-submitted.json",
+      "html_file": "raw_html/pages/request-submitted.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital/",
+      "slug": "press-children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital",
+      "category": "press",
+      "title": "Children treated for retinoblastoma visit HAL museum with team from Sankara Eye Hospital | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Children treated for retinoblastoma visit HAL museum with team from Sankara Eye Hospital",
+        "Children treated for retinoblastoma visit HAL museum with team from Sankara Eye Hospital"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital.md",
+      "json_file": "content_json/press/press-children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital.json",
+      "html_file": "raw_html/press/press-children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/precaution-after-cataract-surgery/",
+      "slug": "blog-precaution-after-cataract-surgery",
+      "category": "posts",
+      "title": "Precaution After Cataract Surgery | Sankara",
+      "meta_description": "Understand the precaution after cataract surgery . Access expert advice and tips to promote healing and safeguard your vision .",
+      "headings_h1": [
+        "Precaution After Cataract Surgery",
+        "Precaution After Cataract Surgery"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-precaution-after-cataract-surgery.md",
+      "json_file": "content_json/posts/blog-precaution-after-cataract-surgery.json",
+      "html_file": "raw_html/posts/blog-precaution-after-cataract-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/reaching-women-in-rural-india/",
+      "slug": "testimonials-reaching-women-in-rural-india",
+      "category": "testimonials",
+      "title": "REACHING WOMEN IN RURAL INDIA | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "REACHING WOMEN IN RURAL INDIA",
+        "REACHING WOMEN IN RURAL INDIA"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-reaching-women-in-rural-india.md",
+      "json_file": "content_json/testimonials/testimonials-reaching-women-in-rural-india.json",
+      "html_file": "raw_html/testimonials/testimonials-reaching-women-in-rural-india.html"
+    },
+    {
+      "url": "https://sankaraeye.com/thankyou/",
+      "slug": "thankyou",
+      "category": "pages",
+      "title": "Eye Camps in India, Free Eye Camps in Bangalore, Coimbatore",
+      "meta_description": "Sankara Eye Hospital conduct outreach Eye camps in the rural and semi urban areas in India for creating awareness detect eye defects and ailments.",
+      "headings_h1": [
+        "Thank You"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/thankyou.md",
+      "json_file": "content_json/pages/thankyou.json",
+      "html_file": "raw_html/pages/thankyou.html"
+    },
+    {
+      "url": "https://sankaraeye.com/journals/",
+      "slug": "journals",
+      "category": "pages",
+      "title": "Journals | Sankara",
+      "meta_description": "Explore our eye care journals, advancing expertise in ophthalmology and optometry. Stay informed on latest research and innovations.",
+      "headings_h1": [
+        "Journal Publications"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/journals.md",
+      "json_file": "content_json/pages/journals.json",
+      "html_file": "raw_html/pages/journals.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/swollen-eyelid-treatment/",
+      "slug": "blog-swollen-eyelid-treatment",
+      "category": "posts",
+      "title": "Swollen Eyelid Treatment | Sankara Eye Foundation",
+      "meta_description": "Explore our website for valuable insights and various Swollen Eyelid Treatment options available at Sankara Eye Hospital",
+      "headings_h1": [
+        "Swollen Eyelid Treatment",
+        "Swollen Eyelid Treatment"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-swollen-eyelid-treatment.md",
+      "json_file": "content_json/posts/blog-swollen-eyelid-treatment.json",
+      "html_file": "raw_html/posts/blog-swollen-eyelid-treatment.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/computer-vision-syndrome/",
+      "slug": "blog-computer-vision-syndrome",
+      "category": "posts",
+      "title": "Computer Vision Syndrome | Sankara Eye Foundation",
+      "meta_description": "Discover the causes, symptoms, and effective treatments for Computer Vision Syndrome. Protect your eyes and enhance your digital experience.",
+      "headings_h1": [
+        "Computer Vision Syndrome : All You need to Know",
+        "Computer Vision Syndrome : All You need to Know"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-computer-vision-syndrome.md",
+      "json_file": "content_json/posts/blog-computer-vision-syndrome.json",
+      "html_file": "raw_html/posts/blog-computer-vision-syndrome.html"
+    },
+    {
+      "url": "https://sankaraeye.com/",
+      "slug": "home",
+      "category": "pages",
+      "title": "Best Eye Hospital in Bangalore | For All Eye Problems",
+      "meta_description": "Trust your vision to the best eye hospital in Bangalore. We combine cutting-edge technology with compassionate care for optimal eye health.",
+      "headings_h1": [
+        "From Patient Testimonies, to World Class Eye Care"
+      ],
+      "image_count": 17,
+      "markdown_file": "content_markdown/pages/home.md",
+      "json_file": "content_json/pages/home.json",
+      "html_file": "raw_html/pages/home.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/the-joy-of-learning/",
+      "slug": "blog-the-joy-of-learning",
+      "category": "posts",
+      "title": "The Joy of Learning | Sankara",
+      "meta_description": "Discovering, growing, and thriving—The Joy of Learning is a lifelong adventure that enriches minds and souls.",
+      "headings_h1": [
+        "The Joy of Learning",
+        "The Joy of Learning"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-the-joy-of-learning.md",
+      "json_file": "content_json/posts/blog-the-joy-of-learning.json",
+      "html_file": "raw_html/posts/blog-the-joy-of-learning.html"
+    },
+    {
+      "url": "https://sankaraeye.com/event/research-methodology/",
+      "slug": "event-research-methodology",
+      "category": "events",
+      "title": "Research Methodology | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Research Methodology"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/events/event-research-methodology.md",
+      "json_file": "content_json/events/event-research-methodology.json",
+      "html_file": "raw_html/events/event-research-methodology.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness/",
+      "slug": "press-sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness",
+      "category": "press",
+      "title": "Sankara Eye Hospital organized \" Sur \"n\" Symphony \" to eliminate blindness | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital organized ” Sur “n” Symphony ” to eliminate blindness",
+        "Sankara Eye Hospital organized ” Sur “n” Symphony ” to eliminate blindness"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok/",
+      "slug": "press-sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok",
+      "category": "press",
+      "title": "Sankara Eye Foundation teams up with Young Indians CII to say “Eyes on Road & Horn Not OK” | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Foundation teams up with Young Indians CII to say “Eyes on Road & Horn Not OK”",
+        "Sankara Eye Foundation teams up with Young Indians CII to say “Eyes on Road & Horn Not OK”"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok.md",
+      "json_file": "content_json/press/press-sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok.json",
+      "html_file": "raw_html/press/press-sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/diabetic-retinopathy-eye-problems/",
+      "slug": "blog-diabetic-retinopathy-eye-problems",
+      "category": "posts",
+      "title": "Diabetic Retinopathy Eye Problems | Sankara Eye Foundation",
+      "meta_description": "Learn about the various diabetic retinopathy eye problems and their potential impact on vision. Discover prevention and treatment options .",
+      "headings_h1": [
+        "Diabetic Retinopathy Eye Problems",
+        "Diabetic Retinopathy Eye Problems",
+        "Cause of diabetic retinopathy"
+      ],
+      "image_count": 21,
+      "markdown_file": "content_markdown/posts/blog-diabetic-retinopathy-eye-problems.md",
+      "json_file": "content_json/posts/blog-diabetic-retinopathy-eye-problems.json",
+      "html_file": "raw_html/posts/blog-diabetic-retinopathy-eye-problems.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/the-joy-of-learning/",
+      "slug": "testimonials-the-joy-of-learning",
+      "category": "testimonials",
+      "title": "The Joy of Learning | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "The Joy of Learning",
+        "The Joy of Learning"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-the-joy-of-learning.md",
+      "json_file": "content_json/testimonials/testimonials-the-joy-of-learning.json",
+      "html_file": "raw_html/testimonials/testimonials-the-joy-of-learning.html"
+    },
+    {
+      "url": "https://sankaraeye.com/annual-reports/",
+      "slug": "annual-reports",
+      "category": "pages",
+      "title": "Annual Reports | Sankara",
+      "meta_description": "Sankara Reports: Comprehensive insights on Annual, FCRA, and Performance reports, showcasing Vision Centres' impactful healthcare achievements.",
+      "headings_h1": [
+        "Sankara Reports"
+      ],
+      "image_count": 20,
+      "markdown_file": "content_markdown/pages/annual-reports.md",
+      "json_file": "content_json/pages/annual-reports.json",
+      "html_file": "raw_html/pages/annual-reports.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/is-your-contact-lens-doing-more-harm-than-good/",
+      "slug": "blog-is-your-contact-lens-doing-more-harm-than-good",
+      "category": "posts",
+      "title": "Is Your Contact Lens Doing More Harm than Good? | Sankara",
+      "meta_description": "Contact lenses: unseen risks! 5 dangers explained. Guard your eyes with 3 golden rules for safer lens love.",
+      "headings_h1": [
+        "Is Your Contact Lens Doing More Harm than Good?",
+        "Is Your Contact Lens Doing More Harm than Good?"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-is-your-contact-lens-doing-more-harm-than-good.md",
+      "json_file": "content_json/posts/blog-is-your-contact-lens-doing-more-harm-than-good.json",
+      "html_file": "raw_html/posts/blog-is-your-contact-lens-doing-more-harm-than-good.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/squint-eye-treatment-and-surgery/",
+      "slug": "blog-squint-eye-treatment-and-surgery",
+      "category": "posts",
+      "title": "Squint Eye Treatment and Surgery | Find eye care expert",
+      "meta_description": "Find the best squint eye treatment and surgery options available. Improve vision and confidence with our expert care tailored to your needs.",
+      "headings_h1": [
+        "Best squint eye treatment and surgery hospital in India",
+        "Best squint eye treatment and surgery hospital in India"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-squint-eye-treatment-and-surgery.md",
+      "json_file": "content_json/posts/blog-squint-eye-treatment-and-surgery.json",
+      "html_file": "raw_html/posts/blog-squint-eye-treatment-and-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/gunturlive/",
+      "slug": "gunturlive",
+      "category": "pages",
+      "title": "gunturlive | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital - Guntur New Block Inauguration"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/gunturlive.md",
+      "json_file": "content_json/pages/gunturlive.json",
+      "html_file": "raw_html/pages/gunturlive.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/lasik-surgery-a-complete-overview/",
+      "slug": "blog-lasik-surgery-a-complete-overview",
+      "category": "posts",
+      "title": "LASIK Surgery: A Complete Overview | Sankara",
+      "meta_description": "LASIK: Vision revolution! Swift, precise eye surgery correcting refractive errors. Clear sight, quick recovery—ideal for many, but not all.",
+      "headings_h1": [
+        "LASIK Surgery: A Complete Overview",
+        "LASIK Surgery: A Complete Overview"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-lasik-surgery-a-complete-overview.md",
+      "json_file": "content_json/posts/blog-lasik-surgery-a-complete-overview.json",
+      "html_file": "raw_html/posts/blog-lasik-surgery-a-complete-overview.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital/",
+      "slug": "press-sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital",
+      "category": "press",
+      "title": "SBI donates advanced diagnostic tool to Sankara Eye Hospital | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "SBI donates advanced diagnostic tool to Sankara Eye Hospital",
+        "SBI donates advanced diagnostic tool to Sankara Eye Hospital"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital.md",
+      "json_file": "content_json/press/press-sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital.json",
+      "html_file": "raw_html/press/press-sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/cataract-operation-charges-in-india/",
+      "slug": "blog-cataract-operation-charges-in-india",
+      "category": "posts",
+      "title": "Cataract Operation Charges - Things to be get Noted",
+      "meta_description": "Find out the expenses and charges for cataract operation. Learn about the cost of cataract surgery and related fees on our website .",
+      "headings_h1": [
+        "Cataract Operation Charges – Things to be get Noted",
+        "Cataract Operation Charges – Things to be get Noted"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-cataract-operation-charges-in-india.md",
+      "json_file": "content_json/posts/blog-cataract-operation-charges-in-india.json",
+      "html_file": "raw_html/posts/blog-cataract-operation-charges-in-india.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/driving-away-darkness/",
+      "slug": "testimonials-driving-away-darkness",
+      "category": "testimonials",
+      "title": "Driving Away Darkness | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Driving Away Darkness",
+        "Driving Away Darkness"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-driving-away-darkness.md",
+      "json_file": "content_json/testimonials/testimonials-driving-away-darkness.json",
+      "html_file": "raw_html/testimonials/testimonials-driving-away-darkness.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/retinal-detachment-symptoms/",
+      "slug": "blog-retinal-detachment-symptoms",
+      "category": "posts",
+      "title": "Retinal Detachment Symptoms | Sankara Eye Foundation",
+      "meta_description": "Discover the signs and symptoms of retinal detachment and understand the importance of timely intervention for optimal eye health.",
+      "headings_h1": [
+        "Retinal Detachment Symptoms",
+        "Retinal Detachment Symptoms"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-retinal-detachment-symptoms.md",
+      "json_file": "content_json/posts/blog-retinal-detachment-symptoms.json",
+      "html_file": "raw_html/posts/blog-retinal-detachment-symptoms.html"
+    },
+    {
+      "url": "https://sankaraeye.com/my-account/",
+      "slug": "my-account",
+      "category": "pages",
+      "title": "My account | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/my-account.md",
+      "json_file": "content_json/pages/my-account.json",
+      "html_file": "raw_html/pages/my-account.html"
+    },
+    {
+      "url": "https://sankaraeye.com/events/",
+      "slug": "events",
+      "category": "events",
+      "title": "Upcoming Events | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/events/events.md",
+      "json_file": "content_json/events/events.json",
+      "html_file": "raw_html/events/events.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/retinal-detachment-symptoms",
+      "slug": "blog-retinal-detachment-symptoms",
+      "category": "posts",
+      "title": "Retinal Detachment Symptoms | Sankara Eye Foundation",
+      "meta_description": "Discover the signs and symptoms of retinal detachment and understand the importance of timely intervention for optimal eye health.",
+      "headings_h1": [
+        "Retinal Detachment Symptoms",
+        "Retinal Detachment Symptoms"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-retinal-detachment-symptoms.md",
+      "json_file": "content_json/posts/blog-retinal-detachment-symptoms.json",
+      "html_file": "raw_html/posts/blog-retinal-detachment-symptoms.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/corneal-abrasion-symptoms-causes-treatment",
+      "slug": "blog-corneal-abrasion-symptoms-causes-treatment",
+      "category": "posts",
+      "title": "Corneal Abrasion: Symptoms, Causes & Treatment | Sankara",
+      "meta_description": "Corneal Abrasion: Eye scratch from trauma or foreign objects. Symptoms: pain, redness. Treatment: drops, protection. Prevent: eye safety.",
+      "headings_h1": [
+        "Corneal Abrasion: Symptoms, Causes & Treatment",
+        "Corneal Abrasion: Symptoms, Causes & Treatment"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-corneal-abrasion-symptoms-causes-treatment.md",
+      "json_file": "content_json/posts/blog-corneal-abrasion-symptoms-causes-treatment.json",
+      "html_file": "raw_html/posts/blog-corneal-abrasion-symptoms-causes-treatment.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/one-cataract-surgery-sefusa",
+      "slug": "product-one-cataract-surgery-sefusa",
+      "category": "products",
+      "title": "One cataract surgery SEFUSA | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "One cataract surgery SEFUSA",
+        "One cataract surgery SEFUSA"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-one-cataract-surgery-sefusa.md",
+      "json_file": "content_json/products/product-one-cataract-surgery-sefusa.json",
+      "html_file": "raw_html/products/product-one-cataract-surgery-sefusa.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/the-joy-of-learning",
+      "slug": "blog-the-joy-of-learning",
+      "category": "posts",
+      "title": "The Joy of Learning | Sankara",
+      "meta_description": "Discovering, growing, and thriving—The Joy of Learning is a lifelong adventure that enriches minds and souls.",
+      "headings_h1": [
+        "The Joy of Learning",
+        "The Joy of Learning"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-the-joy-of-learning.md",
+      "json_file": "content_json/posts/blog-the-joy-of-learning.json",
+      "html_file": "raw_html/posts/blog-the-joy-of-learning.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/living-with-a-lifelong-scar-no-more",
+      "slug": "testimonials-living-with-a-lifelong-scar-no-more",
+      "category": "testimonials",
+      "title": "Living with a Lifelong Scar No More | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Living with a Lifelong Scar No More",
+        "Living with a Lifelong Scar No More"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-living-with-a-lifelong-scar-no-more.md",
+      "json_file": "content_json/testimonials/testimonials-living-with-a-lifelong-scar-no-more.json",
+      "html_file": "raw_html/testimonials/testimonials-living-with-a-lifelong-scar-no-more.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/lasik-eye-surgery-cost-in-india",
+      "slug": "blog-lasik-eye-surgery-cost-in-india",
+      "category": "posts",
+      "title": "Lasik Eye Surgery Cost in India |",
+      "meta_description": "Discover the cost of lasik eye surgery in india and learn how to choose the right clinic for your eye care needs .",
+      "headings_h1": [
+        "Lasik Eye Surgery Cost in India",
+        "Lasik Eye Surgery Cost in India"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-lasik-eye-surgery-cost-in-india.md",
+      "json_file": "content_json/posts/blog-lasik-eye-surgery-cost-in-india.json",
+      "html_file": "raw_html/posts/blog-lasik-eye-surgery-cost-in-india.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai",
+      "slug": "press-sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai",
+      "category": "press",
+      "title": "Sankara Eye Hospital Coimbatore- Inaugurated 34th Vision Centre at Karamadai | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital Coimbatore- Inaugurated 34th Vision Centre at Karamadai",
+        "Sankara Eye Hospital Coimbatore- Inaugurated 34th Vision Centre at Karamadai"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-coimbatore-inaugurated-34th-vision-centre-at-karamadai.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2021/07/Lowvision.jpg",
+      "slug": "wp-content-uploads-2021-07-Lowvision.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2021-07-Lowvision.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2021-07-Lowvision.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2021-07-Lowvision.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2021-07-Lowvision.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/lasik-surgery-a-complete-overview",
+      "slug": "blog-lasik-surgery-a-complete-overview",
+      "category": "posts",
+      "title": "LASIK Surgery: A Complete Overview | Sankara",
+      "meta_description": "LASIK: Vision revolution! Swift, precise eye surgery correcting refractive errors. Clear sight, quick recovery—ideal for many, but not all.",
+      "headings_h1": [
+        "LASIK Surgery: A Complete Overview",
+        "LASIK Surgery: A Complete Overview"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-lasik-surgery-a-complete-overview.md",
+      "json_file": "content_json/posts/blog-lasik-surgery-a-complete-overview.json",
+      "html_file": "raw_html/posts/blog-lasik-surgery-a-complete-overview.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/dazzling-with-her-brilliance",
+      "slug": "testimonials-dazzling-with-her-brilliance",
+      "category": "testimonials",
+      "title": "Dazzling With Her Brilliance | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Dazzling With Her Brilliance",
+        "Dazzling With Her Brilliance"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-dazzling-with-her-brilliance.md",
+      "json_file": "content_json/testimonials/testimonials-dazzling-with-her-brilliance.json",
+      "html_file": "raw_html/testimonials/testimonials-dazzling-with-her-brilliance.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment",
+      "slug": "press-timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment",
+      "category": "press",
+      "title": "Timken donates Rs.49 Lakhs to Sankara Eye Hospital for an OCT Equipment | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Timken donates Rs.49 Lakhs to Sankara Eye Hospital for an OCT Equipment",
+        "Timken donates Rs.49 Lakhs to Sankara Eye Hospital for an OCT Equipment"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment.md",
+      "json_file": "content_json/press/press-timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment.json",
+      "html_file": "raw_html/press/press-timken-donates-rs-49-lakhs-to-sankara-eye-hospital-for-an-oct-equipment.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/impact-on-wage-earners",
+      "slug": "testimonials-impact-on-wage-earners",
+      "category": "testimonials",
+      "title": "Impact on Wage Earners | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Impact on Wage Earners",
+        "Impact on Wage Earners"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-impact-on-wage-earners.md",
+      "json_file": "content_json/testimonials/testimonials-impact-on-wage-earners.json",
+      "html_file": "raw_html/testimonials/testimonials-impact-on-wage-earners.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/can-myopia-be-cured",
+      "slug": "blog-can-myopia-be-cured",
+      "category": "posts",
+      "title": "Can Myopia Be Cured | Sankara Eye Foundation",
+      "meta_description": "Wondering if myopia can be cured ? Explore proven strategies and innovative approaches to manage and potentially eliminate this myopia",
+      "headings_h1": [
+        "Can myopia be cured",
+        "Can myopia be cured"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-can-myopia-be-cured.md",
+      "json_file": "content_json/posts/blog-can-myopia-be-cured.json",
+      "html_file": "raw_html/posts/blog-can-myopia-be-cured.html"
+    },
+    {
+      "url": "https://sankaraeye.com/journals",
+      "slug": "journals",
+      "category": "pages",
+      "title": "Journals | Sankara",
+      "meta_description": "Explore our eye care journals, advancing expertise in ophthalmology and optometry. Stay informed on latest research and innovations.",
+      "headings_h1": [
+        "Journal Publications"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/journals.md",
+      "json_file": "content_json/pages/journals.json",
+      "html_file": "raw_html/pages/journals.html"
+    },
+    {
+      "url": "https://sankaraeye.com/cart",
+      "slug": "cart",
+      "category": "pages",
+      "title": "Cart | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/cart.md",
+      "json_file": "content_json/pages/cart.json",
+      "html_file": "raw_html/pages/cart.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product-category/donation/surgery",
+      "slug": "product-category-donation-surgery",
+      "category": "pages",
+      "title": "Surgery Archives | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/product-category-donation-surgery.md",
+      "json_file": "content_json/pages/product-category-donation-surgery.json",
+      "html_file": "raw_html/pages/product-category-donation-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-fruits-and-vegetables-good-for-eyes",
+      "slug": "blog-best-fruits-and-vegetables-good-for-eyes",
+      "category": "posts",
+      "title": "Best fruits and vegetables good for eyes | Sankara Eye Foundation",
+      "meta_description": "Discover the best fruits and vegetables good for eyes . Explore the best natural sources for maintaining optimal eye health.",
+      "headings_h1": [
+        "Best fruits and vegetables good for eyes",
+        "Best fruits and vegetables good for eyes"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-fruits-and-vegetables-good-for-eyes.md",
+      "json_file": "content_json/posts/blog-best-fruits-and-vegetables-good-for-eyes.json",
+      "html_file": "raw_html/posts/blog-best-fruits-and-vegetables-good-for-eyes.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/cataract-eye-surgery-recovery-time",
+      "slug": "blog-cataract-eye-surgery-recovery-time",
+      "category": "posts",
+      "title": "Cataract Eye Surgery Recovery Time | Sankara",
+      "meta_description": "Understand the recovery time for cataract eye surgery. Get insights on healing stages and tips to ensure a successful recovery journey .",
+      "headings_h1": [
+        "Cataract Eye Surgery Recovery Time",
+        "Cataract Eye Surgery Recovery Time",
+        "Cataract Eye Surgery Recovery Time : What to Expect"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-cataract-eye-surgery-recovery-time.md",
+      "json_file": "content_json/posts/blog-cataract-eye-surgery-recovery-time.json",
+      "html_file": "raw_html/posts/blog-cataract-eye-surgery-recovery-time.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/swollen-eyelid-treatment",
+      "slug": "blog-swollen-eyelid-treatment",
+      "category": "posts",
+      "title": "Swollen Eyelid Treatment | Sankara Eye Foundation",
+      "meta_description": "Explore our website for valuable insights and various Swollen Eyelid Treatment options available at Sankara Eye Hospital",
+      "headings_h1": [
+        "Swollen Eyelid Treatment",
+        "Swollen Eyelid Treatment"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-swollen-eyelid-treatment.md",
+      "json_file": "content_json/posts/blog-swollen-eyelid-treatment.json",
+      "html_file": "raw_html/posts/blog-swollen-eyelid-treatment.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-organizes-workshop-world-childrens-day",
+      "slug": "press-sankara-eye-hospital-organizes-workshop-world-childrens-day",
+      "category": "press",
+      "title": "Sankara Eye Hospital Organizes Workshop for World Children’s Day | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital Organizes Workshop for World Children’s Day",
+        "Sankara Eye Hospital Organizes Workshop for World Children’s Day"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-organizes-workshop-world-childrens-day.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-organizes-workshop-world-childrens-day.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-organizes-workshop-world-childrens-day.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/precaution-after-cataract-surgery",
+      "slug": "blog-precaution-after-cataract-surgery",
+      "category": "posts",
+      "title": "Precaution After Cataract Surgery | Sankara",
+      "meta_description": "Understand the precaution after cataract surgery . Access expert advice and tips to promote healing and safeguard your vision .",
+      "headings_h1": [
+        "Precaution After Cataract Surgery",
+        "Precaution After Cataract Surgery"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-precaution-after-cataract-surgery.md",
+      "json_file": "content_json/posts/blog-precaution-after-cataract-surgery.json",
+      "html_file": "raw_html/posts/blog-precaution-after-cataract-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/varanasiproject",
+      "slug": "varanasiproject",
+      "category": "pages",
+      "title": "Varanasiproject | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "RJ Sankara Eye Hospital - Varanasi Project Updates"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/varanasiproject.md",
+      "json_file": "content_json/pages/varanasiproject.json",
+      "html_file": "raw_html/pages/varanasiproject.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/driving-away-darkness",
+      "slug": "testimonials-driving-away-darkness",
+      "category": "testimonials",
+      "title": "Driving Away Darkness | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Driving Away Darkness",
+        "Driving Away Darkness"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-driving-away-darkness.md",
+      "json_file": "content_json/testimonials/testimonials-driving-away-darkness.json",
+      "html_file": "raw_html/testimonials/testimonials-driving-away-darkness.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/sponsor-1-days-food-expenses-annadhanam",
+      "slug": "product-sponsor-1-days-food-expenses-annadhanam",
+      "category": "products",
+      "title": "Sponsor 1 day’s food expenses ( Annadhanam) | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sponsor 1 day’s food expenses ( Annadhanam)",
+        "Sponsor 1 day’s food expenses ( Annadhanam)"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-sponsor-1-days-food-expenses-annadhanam.md",
+      "json_file": "content_json/products/product-sponsor-1-days-food-expenses-annadhanam.json",
+      "html_file": "raw_html/products/product-sponsor-1-days-food-expenses-annadhanam.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital",
+      "slug": "press-centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital",
+      "category": "press",
+      "title": "Centre of Excellence in Vitreo-Retina & Ocular Oncology Inaugurated at Sankara Eye Hospital | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Centre of Excellence in Vitreo-Retina & Ocular Oncology Inaugurated at Sankara Eye Hospital",
+        "Centre of Excellence in Vitreo-Retina & Ocular Oncology Inaugurated at Sankara Eye Hospital"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital.md",
+      "json_file": "content_json/press/press-centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital.json",
+      "html_file": "raw_html/press/press-centre-of-excellence-in-vitreo-retina-ocular-oncology-inaugurated-at-sankara-eye-hospital.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/page/2",
+      "slug": "blog-page-2",
+      "category": "posts",
+      "title": "Our Blog | Sankara",
+      "meta_description": "Discover diverse perspectives and engaging topics on our curated blog list. Explore, learn, and stay informed with us!",
+      "headings_h1": [],
+      "image_count": 23,
+      "markdown_file": "content_markdown/posts/blog-page-2.md",
+      "json_file": "content_json/posts/blog-page-2.json",
+      "html_file": "raw_html/posts/blog-page-2.html"
+    },
+    {
+      "url": "https://sankaraeye.com/my-account/lost-password",
+      "slug": "my-account-lost-password",
+      "category": "pages",
+      "title": "My account | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/my-account-lost-password.md",
+      "json_file": "content_json/pages/my-account-lost-password.json",
+      "html_file": "raw_html/pages/my-account-lost-password.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program",
+      "slug": "press-hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program",
+      "category": "press",
+      "title": "Hindustan Unilever and Sankara Eye Hospital Roll out Blindness Awareness Program | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Hindustan Unilever and Sankara Eye Hospital Roll out Blindness Awareness Program",
+        "Hindustan Unilever and Sankara Eye Hospital Roll out Blindness Awareness Program"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program.md",
+      "json_file": "content_json/press/press-hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program.json",
+      "html_file": "raw_html/press/press-hindustan-unilever-and-sankara-eye-hospital-roll-out-blindness-awareness-program.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti",
+      "slug": "press-sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti",
+      "category": "press",
+      "title": "Sankara Eye Hospital Coimbatore – inaugurated SEFI’s 33rd Vision Centre at Pappampatti | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital Coimbatore – inaugurated SEFI’s 33rd Vision Centre at Pappampatti",
+        "Sankara Eye Hospital Coimbatore – inaugurated SEFI’s 33rd Vision Centre at Pappampatti"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-coimbatore-inaugurated-sefis-33rd-vision-centre-at-pappampatti.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/bright-brave-and-responsible",
+      "slug": "testimonials-bright-brave-and-responsible",
+      "category": "testimonials",
+      "title": "Bright, Brave and Responsible | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Bright, Brave and Responsible",
+        "Bright, Brave and Responsible"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-bright-brave-and-responsible.md",
+      "json_file": "content_json/testimonials/testimonials-bright-brave-and-responsible.json",
+      "html_file": "raw_html/testimonials/testimonials-bright-brave-and-responsible.html"
+    },
+    {
+      "url": "https://sankaraeye.com/events/month",
+      "slug": "events-month",
+      "category": "events",
+      "title": "Events for August 2026 | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/events/events-month.md",
+      "json_file": "content_json/events/events-month.json",
+      "html_file": "raw_html/events/events-month.html"
+    },
+    {
+      "url": "https://sankaraeye.com/jayendram",
+      "slug": "jayendram",
+      "category": "pages",
+      "title": "Jayendram | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "\"Jayendram\""
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/jayendram.md",
+      "json_file": "content_json/pages/jayendram.json",
+      "html_file": "raw_html/pages/jayendram.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/the-joy-of-learning",
+      "slug": "testimonials-the-joy-of-learning",
+      "category": "testimonials",
+      "title": "The Joy of Learning | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "The Joy of Learning",
+        "The Joy of Learning"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-the-joy-of-learning.md",
+      "json_file": "content_json/testimonials/testimonials-the-joy-of-learning.json",
+      "html_file": "raw_html/testimonials/testimonials-the-joy-of-learning.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/reaching-women-in-rural-india",
+      "slug": "testimonials-reaching-women-in-rural-india",
+      "category": "testimonials",
+      "title": "REACHING WOMEN IN RURAL INDIA | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "REACHING WOMEN IN RURAL INDIA",
+        "REACHING WOMEN IN RURAL INDIA"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-reaching-women-in-rural-india.md",
+      "json_file": "content_json/testimonials/testimonials-reaching-women-in-rural-india.json",
+      "html_file": "raw_html/testimonials/testimonials-reaching-women-in-rural-india.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/a-single-ray-of-light-can-bring-hope",
+      "slug": "testimonials-a-single-ray-of-light-can-bring-hope",
+      "category": "testimonials",
+      "title": "A Single Ray of Light Can Bring Hope | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "A Single Ray of Light Can Bring Hope",
+        "A Single Ray of Light Can Bring Hope"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-a-single-ray-of-light-can-bring-hope.md",
+      "json_file": "content_json/testimonials/testimonials-a-single-ray-of-light-can-bring-hope.json",
+      "html_file": "raw_html/testimonials/testimonials-a-single-ray-of-light-can-bring-hope.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/a-leap-of-faith",
+      "slug": "testimonials-a-leap-of-faith",
+      "category": "testimonials",
+      "title": "A Leap Of Faith | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "A Leap Of Faith",
+        "A Leap Of Faith"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-a-leap-of-faith.md",
+      "json_file": "content_json/testimonials/testimonials-a-leap-of-faith.json",
+      "html_file": "raw_html/testimonials/testimonials-a-leap-of-faith.html"
+    },
+    {
+      "url": "https://sankaraeye.com/sankara-college-of-optometry-bangalore",
+      "slug": "sankara-college-of-optometry-bangalore",
+      "category": "pages",
+      "title": "Sankara College of Optometry Bangalore | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara College of Optometry"
+      ],
+      "image_count": 62,
+      "markdown_file": "content_markdown/pages/sankara-college-of-optometry-bangalore.md",
+      "json_file": "content_json/pages/sankara-college-of-optometry-bangalore.json",
+      "html_file": "raw_html/pages/sankara-college-of-optometry-bangalore.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/computer-vision-syndrome",
+      "slug": "blog-computer-vision-syndrome",
+      "category": "posts",
+      "title": "Computer Vision Syndrome | Sankara Eye Foundation",
+      "meta_description": "Discover the causes, symptoms, and effective treatments for Computer Vision Syndrome. Protect your eyes and enhance your digital experience.",
+      "headings_h1": [
+        "Computer Vision Syndrome : All You need to Know",
+        "Computer Vision Syndrome : All You need to Know"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-computer-vision-syndrome.md",
+      "json_file": "content_json/posts/blog-computer-vision-syndrome.json",
+      "html_file": "raw_html/posts/blog-computer-vision-syndrome.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/eye-doctor-in-ludhiana-complete-guide",
+      "slug": "blog-eye-doctor-in-ludhiana-complete-guide",
+      "category": "posts",
+      "title": "Eye Doctor in Ludhiana - Complete Guide | Sankara",
+      "meta_description": "Discover eye doctor in Ludhiana ? Our skilled team offers advanced eye care services, ensuring your vision health is in the best hands.",
+      "headings_h1": [
+        "Eye Doctor in Ludhiana – Complete Guide",
+        "Eye Doctor in Ludhiana – Complete Guide",
+        "Finding the Right Eye Doctor in Ludhiana : A Complete Guide"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-eye-doctor-in-ludhiana-complete-guide.md",
+      "json_file": "content_json/posts/blog-eye-doctor-in-ludhiana-complete-guide.json",
+      "html_file": "raw_html/posts/blog-eye-doctor-in-ludhiana-complete-guide.html"
+    },
+    {
+      "url": "https://sankaraeye.com/event/optics-refraction",
+      "slug": "event-optics-refraction",
+      "category": "events",
+      "title": "Optics & Refraction                  | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Optics & Refraction"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/events/event-optics-refraction.md",
+      "json_file": "content_json/events/event-optics-refraction.json",
+      "html_file": "raw_html/events/event-optics-refraction.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-foundation-receives-prestigious-global-performance-excellence-award",
+      "slug": "press-sankara-eye-foundation-receives-prestigious-global-performance-excellence-award",
+      "category": "press",
+      "title": "Sankara Eye Foundation Receives Prestigious Global Performance Excellence Award | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Foundation Receives Prestigious Global Performance Excellence Award",
+        "Sankara Eye Foundation Receives Prestigious Global Performance Excellence Award"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-foundation-receives-prestigious-global-performance-excellence-award.md",
+      "json_file": "content_json/press/press-sankara-eye-foundation-receives-prestigious-global-performance-excellence-award.json",
+      "html_file": "raw_html/press/press-sankara-eye-foundation-receives-prestigious-global-performance-excellence-award.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/smiles-ahead",
+      "slug": "testimonials-smiles-ahead",
+      "category": "testimonials",
+      "title": "Smiles Ahead | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Smiles Ahead",
+        "Smiles Ahead"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-smiles-ahead.md",
+      "json_file": "content_json/testimonials/testimonials-smiles-ahead.json",
+      "html_file": "raw_html/testimonials/testimonials-smiles-ahead.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/multiple-cataract-surgeries",
+      "slug": "product-multiple-cataract-surgeries",
+      "category": "products",
+      "title": "Multiple cataract surgeries | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Multiple cataract surgeries",
+        "Multiple cataract surgeries"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-multiple-cataract-surgeries.md",
+      "json_file": "content_json/products/product-multiple-cataract-surgeries.json",
+      "html_file": "raw_html/products/product-multiple-cataract-surgeries.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/bright-brave-and-responsible",
+      "slug": "blog-bright-brave-and-responsible",
+      "category": "posts",
+      "title": "Bright, Brave and Responsible | Sankara",
+      "meta_description": "Radiant courage meets unwavering responsibility in a dazzling display of brilliance.",
+      "headings_h1": [
+        "Bright, Brave and Responsible",
+        "Bright, Brave and Responsible"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-bright-brave-and-responsible.md",
+      "json_file": "content_json/posts/blog-bright-brave-and-responsible.json",
+      "html_file": "raw_html/posts/blog-bright-brave-and-responsible.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/5-eye-problems-in-children-how-to-treat-them",
+      "slug": "blog-5-eye-problems-in-children-how-to-treat-them",
+      "category": "posts",
+      "title": "5 Eye Problems in Children & How to Treat Them | Sankara",
+      "meta_description": "Spot common eye issues in kids—Ptosis, Amblyopia, Chalazion, Epiphora. Learn symptoms and treatments for a clear vision ahead!",
+      "headings_h1": [
+        "5 Eye Problems in Children & How to Treat Them",
+        "5 Eye Problems in Children & How to Treat Them"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-5-eye-problems-in-children-how-to-treat-them.md",
+      "json_file": "content_json/posts/blog-5-eye-problems-in-children-how-to-treat-them.json",
+      "html_file": "raw_html/posts/blog-5-eye-problems-in-children-how-to-treat-them.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/eye-cataract-signs-and-symptoms",
+      "slug": "blog-eye-cataract-signs-and-symptoms",
+      "category": "posts",
+      "title": "Eye cataract signs and symptoms | Sankara Eye Foundation",
+      "meta_description": "Explore a comprehensive guide to eye cataract signs and symptoms, and access reliable information on prevention and treatment strategies.",
+      "headings_h1": [
+        "Eye cataract signs and symptoms",
+        "Eye cataract signs and symptoms"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-eye-cataract-signs-and-symptoms.md",
+      "json_file": "content_json/posts/blog-eye-cataract-signs-and-symptoms.json",
+      "html_file": "raw_html/posts/blog-eye-cataract-signs-and-symptoms.html"
+    },
+    {
+      "url": "https://sankaraeye.com/education-new",
+      "slug": "education-new",
+      "category": "pages",
+      "title": "Education New | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Academy Of Vision",
+        "SANKARA COLLEGE OF OPTOMETRY, BANGALORE:",
+        "SANKARA COLLEGE OF OPTOMETRY, LUDHIANA"
+      ],
+      "image_count": 36,
+      "markdown_file": "content_markdown/pages/education-new.md",
+      "json_file": "content_json/pages/education-new.json",
+      "html_file": "raw_html/pages/education-new.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/digital-eye-strain-affects-children-now-more-than-ever",
+      "slug": "press-digital-eye-strain-affects-children-now-more-than-ever",
+      "category": "press",
+      "title": "Digital Eye Strain Affects Children Now More than Ever | Sankara",
+      "meta_description": "Digital eye strain affecting children now more than everThe current lock down due to COVID-19 pandemic has led to the biggest self-isolation India has ever witnessed. As activities have confined to the four walls of the house, work from home, online schooling has become an instant mantra. Children are spending more time than ever staring at digital screens like computers, tablets, TVs, smartphones, and other devices either for educational. purposes or just for fun. The screen time can take a toll on children & wellbeing including their eyes. Children who spend significantly more time on digital screen tend to have myopia and eye strain problems. Myopia can develop rapidly or even eventually. Children with myopia tend to experience a blurred or distorted vision, squinting or strained eyes and even headache.",
+      "headings_h1": [
+        "Digital Eye Strain Affects Children Now More than Ever",
+        "Digital Eye Strain Affects Children Now More than Ever"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-digital-eye-strain-affects-children-now-more-than-ever.md",
+      "json_file": "content_json/press/press-digital-eye-strain-affects-children-now-more-than-ever.json",
+      "html_file": "raw_html/press/press-digital-eye-strain-affects-children-now-more-than-ever.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product-category/donation",
+      "slug": "product-category-donation",
+      "category": "pages",
+      "title": "Donation Archives | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/product-category-donation.md",
+      "json_file": "content_json/pages/product-category-donation.json",
+      "html_file": "raw_html/pages/product-category-donation.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/squint-eye-treatment-and-surgery",
+      "slug": "blog-squint-eye-treatment-and-surgery",
+      "category": "posts",
+      "title": "Squint Eye Treatment and Surgery | Find eye care expert",
+      "meta_description": "Find the best squint eye treatment and surgery options available. Improve vision and confidence with our expert care tailored to your needs.",
+      "headings_h1": [
+        "Best squint eye treatment and surgery hospital in India",
+        "Best squint eye treatment and surgery hospital in India"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-squint-eye-treatment-and-surgery.md",
+      "json_file": "content_json/posts/blog-squint-eye-treatment-and-surgery.json",
+      "html_file": "raw_html/posts/blog-squint-eye-treatment-and-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/services",
+      "slug": "services",
+      "category": "pages",
+      "title": "Best Eye Hospital in Coimbatore| For All Eye Problems",
+      "meta_description": "Discover the best eye hospital in Coimbatore, offering advanced treatments and expert care for all your vision needs.",
+      "headings_h1": [
+        "Services"
+      ],
+      "image_count": 22,
+      "markdown_file": "content_markdown/pages/services.md",
+      "json_file": "content_json/pages/services.json",
+      "html_file": "raw_html/pages/services.html"
+    },
+    {
+      "url": "https://sankaraeye.com/checkout",
+      "slug": "checkout",
+      "category": "pages",
+      "title": "Cart | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/checkout.md",
+      "json_file": "content_json/pages/checkout.json",
+      "html_file": "raw_html/pages/checkout.html"
+    },
+    {
+      "url": "https://sankaraeye.com/careers",
+      "slug": "careers",
+      "category": "pages",
+      "title": "Hospital Careers | Apply Now",
+      "meta_description": "Unlock your potential in hospital careers. Diverse job opportunities, gain valuable insights and take the next step in healthcare journey .",
+      "headings_h1": [
+        "Careers",
+        "Explore Job Openings - Apply Now",
+        "JOIN OUR TEAM",
+        "Explore Job Openings - Apply Now"
+      ],
+      "image_count": 21,
+      "markdown_file": "content_markdown/pages/careers.md",
+      "json_file": "content_json/pages/careers.json",
+      "html_file": "raw_html/pages/careers.html"
+    },
+    {
+      "url": "https://sankaraeye.com/sankaralasikservices",
+      "slug": "sankaralasikservices",
+      "category": "pages",
+      "title": "Sankara Lasik Services | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Lasik Services"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/pages/sankaralasikservices.md",
+      "json_file": "content_json/pages/sankaralasikservices.json",
+      "html_file": "raw_html/pages/sankaralasikservices.html"
+    },
+    {
+      "url": "https://sankaraeye.com/request-submitted",
+      "slug": "request-submitted",
+      "category": "pages",
+      "title": "request-submitted | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Request Submitted"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/request-submitted.md",
+      "json_file": "content_json/pages/request-submitted.json",
+      "html_file": "raw_html/pages/request-submitted.html"
+    },
+    {
+      "url": "https://sankaraeye.com/pledge-your-eyes",
+      "slug": "pledge-your-eyes",
+      "category": "pages",
+      "title": "Eye Donation | Know about the Procedure",
+      "meta_description": "Learn about eye donation process in India, its impact on lives, and how you can make difference.Your eye donation can help to restore vision.",
+      "headings_h1": [
+        "Pledge Your Eyes"
+      ],
+      "image_count": 14,
+      "markdown_file": "content_markdown/pages/pledge-your-eyes.md",
+      "json_file": "content_json/pages/pledge-your-eyes.json",
+      "html_file": "raw_html/pages/pledge-your-eyes.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/adding-life-to-his-years",
+      "slug": "testimonials-adding-life-to-his-years",
+      "category": "testimonials",
+      "title": "Adding Life To His Years | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Adding Life To His Years",
+        "Adding Life To His Years"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-adding-life-to-his-years.md",
+      "json_file": "content_json/testimonials/testimonials-adding-life-to-his-years.json",
+      "html_file": "raw_html/testimonials/testimonials-adding-life-to-his-years.html"
+    },
+    {
+      "url": "https://sankaraeye.com/events/today",
+      "slug": "events-today",
+      "category": "events",
+      "title": "Events for August 24, 2026 | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/events/events-today.md",
+      "json_file": "content_json/events/events-today.json",
+      "html_file": "raw_html/events/events-today.html"
+    },
+    {
+      "url": "https://sankaraeye.com/donate",
+      "slug": "donate",
+      "category": "pages",
+      "title": "Charity organizations donation website",
+      "meta_description": "Discover how your donations can make a difference. Join our charity organization to support those in need and create a positive impact .",
+      "headings_h1": [
+        "DONATE"
+      ],
+      "image_count": 12,
+      "markdown_file": "content_markdown/pages/donate.md",
+      "json_file": "content_json/pages/donate.json",
+      "html_file": "raw_html/pages/donate.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/which-lens-is-best-for-cataract-surgery",
+      "slug": "blog-which-lens-is-best-for-cataract-surgery",
+      "category": "posts",
+      "title": "Which lens is best for cataract surgery | Sankara",
+      "meta_description": "Discover the top lens options for cataract surgery and make an informed choice for optimal vision restoration",
+      "headings_h1": [
+        "Which lens is best for cataract surgery",
+        "Which lens is best for cataract surgery",
+        "Choosing the Right Cataract Lens: A Comprehensive Guide"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-which-lens-is-best-for-cataract-surgery.md",
+      "json_file": "content_json/posts/blog-which-lens-is-best-for-cataract-surgery.json",
+      "html_file": "raw_html/posts/blog-which-lens-is-best-for-cataract-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/summer-eye-care-tips",
+      "slug": "blog-summer-eye-care-tips",
+      "category": "posts",
+      "title": "Summer Eye Care Tips | Sankara",
+      "meta_description": "Summer Eye Care Tips | Eyecare | Get ready for summer with our expert eye care tips to keep your eyes healthy and protected from the sun .",
+      "headings_h1": [
+        "Summer Eye Care Tips",
+        "Summer Eye Care Tips"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-summer-eye-care-tips.md",
+      "json_file": "content_json/posts/blog-summer-eye-care-tips.json",
+      "html_file": "raw_html/posts/blog-summer-eye-care-tips.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/there-is-light-after-all",
+      "slug": "testimonials-there-is-light-after-all",
+      "category": "testimonials",
+      "title": "There is Light, after all | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "There is Light, after all",
+        "There is Light, after all"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-there-is-light-after-all.md",
+      "json_file": "content_json/testimonials/testimonials-there-is-light-after-all.json",
+      "html_file": "raw_html/testimonials/testimonials-there-is-light-after-all.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/eye-vision-care",
+      "slug": "blog-eye-vision-care",
+      "category": "posts",
+      "title": "Eye Vision Care | Sankara Eye Foundation",
+      "meta_description": "Providing comprehensive eye care services to improve and maintain optimal vision. Sankara | Eye Vision care",
+      "headings_h1": [
+        "Eye Vision care",
+        "Eye Vision care"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-eye-vision-care.md",
+      "json_file": "content_json/posts/blog-eye-vision-care.json",
+      "html_file": "raw_html/posts/blog-eye-vision-care.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2024/04/OCULARISTRY-CLINIC-updated.jpg",
+      "slug": "wp-content-uploads-2024-04-OCULARISTRY-CLINIC-updated.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2024-04-OCULARISTRY-CLINIC-updated.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2024-04-OCULARISTRY-CLINIC-updated.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2024-04-OCULARISTRY-CLINIC-updated.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2024-04-OCULARISTRY-CLINIC-updated.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/multiple-cataract-surgeries-sefusa",
+      "slug": "product-multiple-cataract-surgeries-sefusa",
+      "category": "products",
+      "title": "Cataract Surgeries - GOV | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Cataract Surgeries – GOV",
+        "Cataract Surgeries – GOV"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-multiple-cataract-surgeries-sefusa.md",
+      "json_file": "content_json/products/product-multiple-cataract-surgeries-sefusa.json",
+      "html_file": "raw_html/products/product-multiple-cataract-surgeries-sefusa.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2021/07/Paeditaric.jpg",
+      "slug": "wp-content-uploads-2021-07-Paeditaric.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2021-07-Paeditaric.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2021-07-Paeditaric.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2021-07-Paeditaric.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2021-07-Paeditaric.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka",
+      "slug": "press-microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka",
+      "category": "press",
+      "title": "\u0003Microsoft supports Sankara's launch Of a unique Mobile Vision Rehabilitation bus in Karnataka | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "\u0003Microsoft supports Sankara’s launch Of a unique Mobile Vision Rehabilitation bus in Karnataka",
+        "\u0003Microsoft supports Sankara’s launch Of a unique Mobile Vision Rehabilitation bus in Karnataka"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka.md",
+      "json_file": "content_json/press/press-microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka.json",
+      "html_file": "raw_html/press/press-microsoft-supports-sankaras-launch-of-a-unique-mobile-vision-rehabilitation-bus-in-karnataka.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it",
+      "slug": "blog-worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it",
+      "category": "posts",
+      "title": "Worried about vision loss with aging? 7 simple ways to prevent it | Sankara",
+      "meta_description": "Age-proof your eyes: Eat well, quit smoking, wear shades, stay active, maintain weight, limit screens, manage conditions, get check-ups.",
+      "headings_h1": [
+        "Worried about vision loss with aging? 7 simple ways to prevent it",
+        "Worried about vision loss with aging? 7 simple ways to prevent it"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it.md",
+      "json_file": "content_json/posts/blog-worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it.json",
+      "html_file": "raw_html/posts/blog-worried-about-vision-loss-with-aging-7-simple-ways-to-prevent-it.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2021/07/Occularistry.jpg",
+      "slug": "wp-content-uploads-2021-07-Occularistry.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2021-07-Occularistry.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2021-07-Occularistry.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2021-07-Occularistry.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2021-07-Occularistry.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/lasikblr",
+      "slug": "lasikblr",
+      "category": "pages",
+      "title": "lasikblr | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital - Bangalore Lasik Offer"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/lasikblr.md",
+      "json_file": "content_json/pages/lasikblr.json",
+      "html_file": "raw_html/pages/lasikblr.html"
+    },
+    {
+      "url": "https://sankaraeye.com/social-impact",
+      "slug": "social-impact",
+      "category": "pages",
+      "title": "Free eye checkup camp",
+      "meta_description": "Free eye checkup campJoin our free eye checkup camp to ensure your vision health. Expert screenings and consultations available.",
+      "headings_h1": [
+        "Social Impact"
+      ],
+      "image_count": 34,
+      "markdown_file": "content_markdown/pages/social-impact.md",
+      "json_file": "content_json/pages/social-impact.json",
+      "html_file": "raw_html/pages/social-impact.html"
+    },
+    {
+      "url": "https://sankaraeye.com/my-account",
+      "slug": "my-account",
+      "category": "pages",
+      "title": "My account | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/my-account.md",
+      "json_file": "content_json/pages/my-account.json",
+      "html_file": "raw_html/pages/my-account.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2021/07/Binocular-vision.jpg",
+      "slug": "wp-content-uploads-2021-07-Binocular-vision.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2021-07-Binocular-vision.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2021-07-Binocular-vision.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2021-07-Binocular-vision.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2021-07-Binocular-vision.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/diabetic-retinopathy-eye-problems",
+      "slug": "blog-diabetic-retinopathy-eye-problems",
+      "category": "posts",
+      "title": "Diabetic Retinopathy Eye Problems | Sankara Eye Foundation",
+      "meta_description": "Learn about the various diabetic retinopathy eye problems and their potential impact on vision. Discover prevention and treatment options .",
+      "headings_h1": [
+        "Diabetic Retinopathy Eye Problems",
+        "Diabetic Retinopathy Eye Problems",
+        "Cause of diabetic retinopathy"
+      ],
+      "image_count": 21,
+      "markdown_file": "content_markdown/posts/blog-diabetic-retinopathy-eye-problems.md",
+      "json_file": "content_json/posts/blog-diabetic-retinopathy-eye-problems.json",
+      "html_file": "raw_html/posts/blog-diabetic-retinopathy-eye-problems.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/is-your-contact-lens-doing-more-harm-than-good",
+      "slug": "blog-is-your-contact-lens-doing-more-harm-than-good",
+      "category": "posts",
+      "title": "Is Your Contact Lens Doing More Harm than Good? | Sankara",
+      "meta_description": "Contact lenses: unseen risks! 5 dangers explained. Guard your eyes with 3 golden rules for safer lens love.",
+      "headings_h1": [
+        "Is Your Contact Lens Doing More Harm than Good?",
+        "Is Your Contact Lens Doing More Harm than Good?"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-is-your-contact-lens-doing-more-harm-than-good.md",
+      "json_file": "content_json/posts/blog-is-your-contact-lens-doing-more-harm-than-good.json",
+      "html_file": "raw_html/posts/blog-is-your-contact-lens-doing-more-harm-than-good.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/the-light-at-the-end-of-the-tunnel",
+      "slug": "testimonials-the-light-at-the-end-of-the-tunnel",
+      "category": "testimonials",
+      "title": "The Light At The End of The Tunnel | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "The Light At The End of The Tunnel",
+        "The Light At The End of The Tunnel"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-the-light-at-the-end-of-the-tunnel.md",
+      "json_file": "content_json/testimonials/testimonials-the-light-at-the-end-of-the-tunnel.json",
+      "html_file": "raw_html/testimonials/testimonials-the-light-at-the-end-of-the-tunnel.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-eye-hospital-in-hyderabad",
+      "slug": "blog-best-eye-hospital-in-hyderabad",
+      "category": "posts",
+      "title": "Best Eye Hospital Hyderabad – Expert Care | Sankara Eye Hospital",
+      "meta_description": "Find the best eye hospital Hyderabad patients trust. Sankara Eye Hospital provides advanced eye care, experienced specialists, and modern treatments for clear vision.",
+      "headings_h1": [
+        "Best Eye Hospital in Hyderabad – Complete Guide",
+        "Best Eye Hospital in Hyderabad – Complete Guide"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-eye-hospital-in-hyderabad.md",
+      "json_file": "content_json/posts/blog-best-eye-hospital-in-hyderabad.json",
+      "html_file": "raw_html/posts/blog-best-eye-hospital-in-hyderabad.html"
+    },
+    {
+      "url": "https://sankaraeye.com/contact",
+      "slug": "contact",
+      "category": "pages",
+      "title": "Best Eye Hospital in Jaipur | For All Eye Problems",
+      "meta_description": "Discover the Best Eye Hospital in Jaipur offering advanced treatments, expert ophthalmologists, state-of-the-art facilities for vision care.",
+      "headings_h1": [
+        "Contact"
+      ],
+      "image_count": 26,
+      "markdown_file": "content_markdown/pages/contact.md",
+      "json_file": "content_json/pages/contact.json",
+      "html_file": "raw_html/pages/contact.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2021/07/Contact-lens.jpg",
+      "slug": "wp-content-uploads-2021-07-Contact-lens.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2021-07-Contact-lens.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2021-07-Contact-lens.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2021-07-Contact-lens.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2021-07-Contact-lens.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/privacy-policy",
+      "slug": "privacy-policy",
+      "category": "pages",
+      "title": "Privacy Policy | Sankara",
+      "meta_description": "Sankara Eye Hospital's Privacy Policy: Your consent matters. Learn about the information we collect and how it's used to prioritize your privacy.",
+      "headings_h1": [
+        "Privacy Policy"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/privacy-policy.md",
+      "json_file": "content_json/pages/privacy-policy.json",
+      "html_file": "raw_html/pages/privacy-policy.html"
+    },
+    {
+      "url": "https://sankaraeye.com/event/research-methodology",
+      "slug": "event-research-methodology",
+      "category": "events",
+      "title": "Research Methodology | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Research Methodology"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/events/event-research-methodology.md",
+      "json_file": "content_json/events/event-research-methodology.json",
+      "html_file": "raw_html/events/event-research-methodology.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/cataract-operation-cost-in-india",
+      "slug": "blog-cataract-operation-cost-in-india",
+      "category": "posts",
+      "title": "Cataract Operation Cost in india | Sankara",
+      "meta_description": "Cataract operation cost in India an comprehensive guide on Understand pricing, factors affecting costs, and find the best options .",
+      "headings_h1": [
+        "Cataract Operation Cost in india",
+        "Cataract Operation Cost in india",
+        "Cataract Eye Operation Cost in India: What You Need to Know"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-cataract-operation-cost-in-india.md",
+      "json_file": "content_json/posts/blog-cataract-operation-cost-in-india.json",
+      "html_file": "raw_html/posts/blog-cataract-operation-cost-in-india.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere",
+      "slug": "press-sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere",
+      "category": "press",
+      "title": "Sankara Eye Hospital shimoga - inaugurated SEFI’s 31st Vision Centre at Chalakere | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital shimoga – inaugurated SEFI’s 31st Vision Centre at Chalakere",
+        "Sankara Eye Hospital shimoga – inaugurated SEFI’s 31st Vision Centre at Chalakere"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-shimoga-inaugurated-sefis-31st-vision-centre-at-chalakere.html"
+    },
+    {
+      "url": "https://sankaraeye.com/forgot-password",
+      "slug": "forgot-password",
+      "category": "pages",
+      "title": "Forgot Password | Sankara",
+      "meta_description": "RESET YOUR PASSWORD here. Fear not! We’ll email you instructions to reset your password.",
+      "headings_h1": [
+        "Reset Your Password"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/forgot-password.md",
+      "json_file": "content_json/pages/forgot-password.json",
+      "html_file": "raw_html/pages/forgot-password.html"
+    },
+    {
+      "url": "https://sankaraeye.com/events/list",
+      "slug": "events-list",
+      "category": "events",
+      "title": "Upcoming Events | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/events/events-list.md",
+      "json_file": "content_json/events/events-list.json",
+      "html_file": "raw_html/events/events-list.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2021/07/Primer-corse_Vision-therapy.jpg",
+      "slug": "wp-content-uploads-2021-07-Primer-corse_Vision-therapy.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2021-07-Primer-corse_Vision-therapy.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2021-07-Primer-corse_Vision-therapy.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2021-07-Primer-corse_Vision-therapy.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2021-07-Primer-corse_Vision-therapy.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/page/3",
+      "slug": "blog-page-3",
+      "category": "posts",
+      "title": "Our Blog | Sankara",
+      "meta_description": "Discover diverse perspectives and engaging topics on our curated blog list. Explore, learn, and stay informed with us!",
+      "headings_h1": [],
+      "image_count": 18,
+      "markdown_file": "content_markdown/posts/blog-page-3.md",
+      "json_file": "content_json/posts/blog-page-3.json",
+      "html_file": "raw_html/posts/blog-page-3.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district",
+      "slug": "press-sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district",
+      "category": "press",
+      "title": "Sankara Eye Hospital Guntur- 35th Vision Centre was inaugurated at Gurazala , Palnadu District | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital Guntur- 35th Vision Centre was inaugurated at Gurazala , Palnadu District",
+        "Sankara Eye Hospital Guntur- 35th Vision Centre was inaugurated at Gurazala , Palnadu District"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district.md",
+      "json_file": "content_json/press/press-sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district.json",
+      "html_file": "raw_html/press/press-sankara-eye-foundation-india-35th-vision-centre-was-inaugurated-at-gurazala-palnadu-district.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmology-strabismus-and-neuro-ophthalmology-at-sankara-eye-hospital-bangalore",
+      "slug": "press-inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmology-strabismus-and-neuro-ophthalmology-at-sankara-eye-hospital-bangalore",
+      "category": "press",
+      "title": "Inauguration - Centres of Excellence in Vitreo-Retinal Diseases & Oncology and Pediatric Ophthalmology, Strabismus and Neuro Ophthalmology at Sankara Eye Hospital Bangalore | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Inauguration – Centres of Excellence in Vitreo-Retinal Diseases & Oncology and Pediatric Ophthalmology, Strabismus and Neuro Ophthalmology at Sankara Eye Hospital Bangalore",
+        "Inauguration – Centres of Excellence in Vitreo-Retinal Diseases & Oncology and Pediatric Ophthalmology, Strabismus and Neuro Ophthalmology at Sankara Eye Hospital Bangalore"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmo.md",
+      "json_file": "content_json/press/press-inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmo.json",
+      "html_file": "raw_html/press/press-inauguration-centres-of-excellence-in-vitreo-retinal-diseases-oncology-and-pediatric-ophthalmo.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok",
+      "slug": "press-sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok",
+      "category": "press",
+      "title": "Sankara Eye Foundation teams up with Young Indians CII to say “Eyes on Road & Horn Not OK” | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Foundation teams up with Young Indians CII to say “Eyes on Road & Horn Not OK”",
+        "Sankara Eye Foundation teams up with Young Indians CII to say “Eyes on Road & Horn Not OK”"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok.md",
+      "json_file": "content_json/press/press-sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok.json",
+      "html_file": "raw_html/press/press-sankara-eye-foundation-teams-up-with-young-indians-cii-to-say-eyes-on-road-horn-not-ok.html"
+    },
+    {
+      "url": "https://sankaraeye.com/events",
+      "slug": "events",
+      "category": "events",
+      "title": "Upcoming Events | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/events/events.md",
+      "json_file": "content_json/events/events.json",
+      "html_file": "raw_html/events/events.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/taking-on-each-day-with-strength",
+      "slug": "testimonials-taking-on-each-day-with-strength",
+      "category": "testimonials",
+      "title": "Taking on Each Day With Strength | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Taking on Each Day With Strength",
+        "Taking on Each Day With Strength"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-taking-on-each-day-with-strength.md",
+      "json_file": "content_json/testimonials/testimonials-taking-on-each-day-with-strength.json",
+      "html_file": "raw_html/testimonials/testimonials-taking-on-each-day-with-strength.html"
+    },
+    {
+      "url": "https://sankaraeye.com/dr-rvr-awards-and-biography",
+      "slug": "dr-rvr-awards-and-biography",
+      "category": "pages",
+      "title": "Dr.RVR Awards and Biography | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/pages/dr-rvr-awards-and-biography.md",
+      "json_file": "content_json/pages/dr-rvr-awards-and-biography.json",
+      "html_file": "raw_html/pages/dr-rvr-awards-and-biography.html"
+    },
+    {
+      "url": "https://sankaraeye.com/event/anatomy-physiology",
+      "slug": "event-anatomy-physiology",
+      "category": "events",
+      "title": "Anatomy & Physiology          | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Anatomy & Physiology"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/events/event-anatomy-physiology.md",
+      "json_file": "content_json/events/event-anatomy-physiology.json",
+      "html_file": "raw_html/events/event-anatomy-physiology.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2021/07/Primer-course_vision-Assistive-Services.jpg",
+      "slug": "wp-content-uploads-2021-07-Primer-course_vision-Assistive-Services.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2021-07-Primer-course_vision-Assistive-Services.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2021-07-Primer-course_vision-Assistive-Services.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2021-07-Primer-course_vision-Assistive-Services.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2021-07-Primer-course_vision-Assistive-Services.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/how-is-cataract-operation-performed",
+      "slug": "blog-how-is-cataract-operation-performed",
+      "category": "posts",
+      "title": "How is cataract operation performed",
+      "meta_description": "Find comprehensive information on how is cataract operation performed , surgery time , recovery time , success rate of cataract surgery .",
+      "headings_h1": [
+        "How is cataract operation performed",
+        "How is cataract operation performed"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-how-is-cataract-operation-performed.md",
+      "json_file": "content_json/posts/blog-how-is-cataract-operation-performed.json",
+      "html_file": "raw_html/posts/blog-how-is-cataract-operation-performed.html"
+    },
+    {
+      "url": "https://sankaraeye.com/education",
+      "slug": "education",
+      "category": "pages",
+      "title": "Education New | Sankara",
+      "meta_description": "Sankara Academy of Vision: Igniting minds with a unique approach, rooted in CORE values. Embrace SAV to explore boundless opportunities!",
+      "headings_h1": [
+        "Sankara Academy of Vision",
+        "SANKARA COLLEGE OF OPTOMETRY, BANGALORE:",
+        "SANKARA COLLEGE OF OPTOMETRY, LUDHIANA"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/pages/education.md",
+      "json_file": "content_json/pages/education.json",
+      "html_file": "raw_html/pages/education.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-eye-doctor-in-indore",
+      "slug": "blog-best-eye-doctor-in-indore",
+      "category": "posts",
+      "title": "Best Eye Doctor in Indore - Find Near By Eye Specialist",
+      "meta_description": "Discover the best eye doctor in Indore, offering expert care and advanced treatments for all your vision needs",
+      "headings_h1": [
+        "Best Eye Doctor in Indore – Find Near By Eye Specialist",
+        "Best Eye Doctor in Indore – Find Near By Eye Specialist"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-eye-doctor-in-indore.md",
+      "json_file": "content_json/posts/blog-best-eye-doctor-in-indore.json",
+      "html_file": "raw_html/posts/blog-best-eye-doctor-in-indore.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/cataract-operation-charges-in-india",
+      "slug": "blog-cataract-operation-charges-in-india",
+      "category": "posts",
+      "title": "Cataract Operation Charges - Things to be get Noted",
+      "meta_description": "Find out the expenses and charges for cataract operation. Learn about the cost of cataract surgery and related fees on our website .",
+      "headings_h1": [
+        "Cataract Operation Charges – Things to be get Noted",
+        "Cataract Operation Charges – Things to be get Noted"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-cataract-operation-charges-in-india.md",
+      "json_file": "content_json/posts/blog-cataract-operation-charges-in-india.json",
+      "html_file": "raw_html/posts/blog-cataract-operation-charges-in-india.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital",
+      "slug": "press-children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital",
+      "category": "press",
+      "title": "Children treated for retinoblastoma visit HAL museum with team from Sankara Eye Hospital | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Children treated for retinoblastoma visit HAL museum with team from Sankara Eye Hospital",
+        "Children treated for retinoblastoma visit HAL museum with team from Sankara Eye Hospital"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital.md",
+      "json_file": "content_json/press/press-children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital.json",
+      "html_file": "raw_html/press/press-children-treated-for-retinoblastoma-visit-hal-museum-with-team-from-sankara-eye-hospital.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-hospital-for-eye-care",
+      "slug": "blog-best-hospital-for-eye-care",
+      "category": "posts",
+      "title": "Best Hospital for Eye in India - Sankara Eye Hospital | Sankara",
+      "meta_description": "Discover the best hospital for eye in india, offering advanced treatments and expert care. Ensure your eye health with the best care.",
+      "headings_h1": [
+        "Best Hospital for Eye in India – Sankara Eye Hospital",
+        "Best Hospital for Eye in India – Sankara Eye Hospital",
+        "Sankara Eye Hospital: India’s Best Hospital  for Eye Care"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-hospital-for-eye-care.md",
+      "json_file": "content_json/posts/blog-best-hospital-for-eye-care.json",
+      "html_file": "raw_html/posts/blog-best-hospital-for-eye-care.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-eye-doctor-in-jaipur-for-your-eye-care-needs",
+      "slug": "blog-best-eye-doctor-in-jaipur-for-your-eye-care-needs",
+      "category": "posts",
+      "title": "Best Eye Doctor in Jaipur for Your Eye Care Needs | Sankara",
+      "meta_description": "Looking for the best eye doctor in Jaipur. Our experts offers top-notch eye care services, ensuring your vision health is in the best hands",
+      "headings_h1": [
+        "Best Eye Doctor in Jaipur for Your Eye Care Needs",
+        "Best Eye Doctor in Jaipur for Your Eye Care Needs"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-eye-doctor-in-jaipur-for-your-eye-care-needs.md",
+      "json_file": "content_json/posts/blog-best-eye-doctor-in-jaipur-for-your-eye-care-needs.json",
+      "html_file": "raw_html/posts/blog-best-eye-doctor-in-jaipur-for-your-eye-care-needs.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training",
+      "slug": "press-sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training",
+      "category": "press",
+      "title": "Sankara Eye Hospitals to collaborate with University of Bonn for Research & Training | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospitals to collaborate with University of Bonn for Research & Training",
+        "Sankara Eye Hospitals to collaborate with University of Bonn for Research & Training"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training.md",
+      "json_file": "content_json/press/press-sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospitals-to-collaborate-with-university-of-bonn-for-research-training.html"
+    },
+    {
+      "url": "https://sankaraeye.com/testimonials/spreading-the-light",
+      "slug": "testimonials-spreading-the-light",
+      "category": "testimonials",
+      "title": "Spreading The Light | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Spreading The Light",
+        "Spreading The Light"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/testimonials/testimonials-spreading-the-light.md",
+      "json_file": "content_json/testimonials/testimonials-spreading-the-light.json",
+      "html_file": "raw_html/testimonials/testimonials-spreading-the-light.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/best-eye-specialist-in-varanasi",
+      "slug": "blog-best-eye-specialist-in-varanasi",
+      "category": "posts",
+      "title": "Best Eye Specialist in Varanasi | Complete Guide",
+      "meta_description": "Discover the best eye specialist in varanasi, offering expert care and advanced treatments. Schedule your appointment today.",
+      "headings_h1": [
+        "Best Eye Specialist in Varanasi : A Complete Guide to Quality Eye Care",
+        "Best Eye Specialist in Varanasi : A Complete Guide to Quality Eye Care",
+        "Best Eye Specialist in Varanasi : Complete Guide"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-best-eye-specialist-in-varanasi.md",
+      "json_file": "content_json/posts/blog-best-eye-specialist-in-varanasi.json",
+      "html_file": "raw_html/posts/blog-best-eye-specialist-in-varanasi.html"
+    },
+    {
+      "url": "https://sankaraeye.com/wp-content/uploads/2021/07/Primer-course_CONTACT-LENS.jpg",
+      "slug": "wp-content-uploads-2021-07-Primer-course_CONTACT-LENS.jpg",
+      "category": "pages",
+      "title": "wp-content-uploads-2021-07-Primer-course_CONTACT-LENS.jpg",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 0,
+      "markdown_file": "content_markdown/pages/wp-content-uploads-2021-07-Primer-course_CONTACT-LENS.jpg.md",
+      "json_file": "content_json/pages/wp-content-uploads-2021-07-Primer-course_CONTACT-LENS.jpg.json",
+      "html_file": "raw_html/pages/wp-content-uploads-2021-07-Primer-course_CONTACT-LENS.jpg.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital",
+      "slug": "press-sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital",
+      "category": "press",
+      "title": "SBI donates advanced diagnostic tool to Sankara Eye Hospital | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "SBI donates advanced diagnostic tool to Sankara Eye Hospital",
+        "SBI donates advanced diagnostic tool to Sankara Eye Hospital"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital.md",
+      "json_file": "content_json/press/press-sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital.json",
+      "html_file": "raw_html/press/press-sbi-donates-advanced-diagnostic-tool-to-sankara-eye-hospital.html"
+    },
+    {
+      "url": "https://sankaraeye.com/thankyou",
+      "slug": "thankyou",
+      "category": "pages",
+      "title": "Eye Camps in India, Free Eye Camps in Bangalore, Coimbatore",
+      "meta_description": "Sankara Eye Hospital conduct outreach Eye camps in the rural and semi urban areas in India for creating awareness detect eye defects and ailments.",
+      "headings_h1": [
+        "Thank You"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/thankyou.md",
+      "json_file": "content_json/pages/thankyou.json",
+      "html_file": "raw_html/pages/thankyou.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/7-warning-symptoms-of-cataract",
+      "slug": "blog-7-warning-symptoms-of-cataract",
+      "category": "posts",
+      "title": "Eye cataract signs and symptoms | Sankara Eye Foundation",
+      "meta_description": "Explore a comprehensive guide to eye cataract signs and symptoms, and access reliable information on prevention and treatment strategies.",
+      "headings_h1": [
+        "Eye cataract signs and symptoms",
+        "Eye cataract signs and symptoms"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-7-warning-symptoms-of-cataract.md",
+      "json_file": "content_json/posts/blog-7-warning-symptoms-of-cataract.json",
+      "html_file": "raw_html/posts/blog-7-warning-symptoms-of-cataract.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/tips-tricks-to-protect-your-eyes-from-digital-screens-during-work",
+      "slug": "blog-tips-tricks-to-protect-your-eyes-from-digital-screens-during-work",
+      "category": "posts",
+      "title": "Tips to prevent Digital Eye strain | Sankara Eye Foundation",
+      "meta_description": "Working on digital media has become a fact of life in the past few years causing Eye strain . Here are few tips and tricks to protect your eyes from digital screens during work",
+      "headings_h1": [
+        "Tips & Tricks To Protect Your Eyes From Digital Screens During Work",
+        "Tips & Tricks To Protect Your Eyes From Digital Screens During Work"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-tips-tricks-to-protect-your-eyes-from-digital-screens-during-work.md",
+      "json_file": "content_json/posts/blog-tips-tricks-to-protect-your-eyes-from-digital-screens-during-work.json",
+      "html_file": "raw_html/posts/blog-tips-tricks-to-protect-your-eyes-from-digital-screens-during-work.html"
+    },
+    {
+      "url": "https://sankaraeye.com/annual-reports",
+      "slug": "annual-reports",
+      "category": "pages",
+      "title": "Annual Reports | Sankara",
+      "meta_description": "Sankara Reports: Comprehensive insights on Annual, FCRA, and Performance reports, showcasing Vision Centres' impactful healthcare achievements.",
+      "headings_h1": [
+        "Sankara Reports"
+      ],
+      "image_count": 20,
+      "markdown_file": "content_markdown/pages/annual-reports.md",
+      "json_file": "content_json/pages/annual-reports.json",
+      "html_file": "raw_html/pages/annual-reports.html"
+    },
+    {
+      "url": "https://sankaraeye.com/events/month/2026-07",
+      "slug": "events-month-2026-07",
+      "category": "events",
+      "title": "Events for July 2026 | Sankara",
+      "meta_description": "",
+      "headings_h1": [],
+      "image_count": 10,
+      "markdown_file": "content_markdown/events/events-month-2026-07.md",
+      "json_file": "content_json/events/events-month-2026-07.json",
+      "html_file": "raw_html/events/events-month-2026-07.html"
+    },
+    {
+      "url": "https://sankaraeye.com/gunturlive",
+      "slug": "gunturlive",
+      "category": "pages",
+      "title": "gunturlive | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital - Guntur New Block Inauguration"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/pages/gunturlive.md",
+      "json_file": "content_json/pages/gunturlive.json",
+      "html_file": "raw_html/pages/gunturlive.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog/glaucoma-eye-treatment",
+      "slug": "blog-glaucoma-eye-treatment",
+      "category": "posts",
+      "title": "Glaucoma eye treatment | Sankara Eye Foundation",
+      "meta_description": "Specialized glaucoma eye treatment to preserve your vision and enhance your quality of life . Dont miss to know about eye disease glaucoma.",
+      "headings_h1": [
+        "Glaucoma eye treatment",
+        "Glaucoma eye treatment"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/posts/blog-glaucoma-eye-treatment.md",
+      "json_file": "content_json/posts/blog-glaucoma-eye-treatment.json",
+      "html_file": "raw_html/posts/blog-glaucoma-eye-treatment.html"
+    },
+    {
+      "url": "https://sankaraeye.com/about",
+      "slug": "about",
+      "category": "pages",
+      "title": "About US",
+      "meta_description": "Know about Journey of Sankara Eye Hospital and Team and their commitment to excellence in eye care through their vision and mission.",
+      "headings_h1": [
+        "About Us"
+      ],
+      "image_count": 39,
+      "markdown_file": "content_markdown/pages/about.md",
+      "json_file": "content_json/pages/about.json",
+      "html_file": "raw_html/pages/about.html"
+    },
+    {
+      "url": "https://sankaraeye.com/event/sanqalp-iv",
+      "slug": "event-sanqalp-iv",
+      "category": "events",
+      "title": "SanQALP IV                                               | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "SanQALP IV"
+      ],
+      "image_count": 11,
+      "markdown_file": "content_markdown/events/event-sanqalp-iv.md",
+      "json_file": "content_json/events/event-sanqalp-iv.json",
+      "html_file": "raw_html/events/event-sanqalp-iv.html"
+    },
+    {
+      "url": "https://sankaraeye.com/blog",
+      "slug": "blog",
+      "category": "posts",
+      "title": "Our Blog | Sankara",
+      "meta_description": "Discover diverse perspectives and engaging topics on our curated blog list. Explore, learn, and stay informed with us!",
+      "headings_h1": [],
+      "image_count": 23,
+      "markdown_file": "content_markdown/posts/blog.md",
+      "json_file": "content_json/posts/blog.json",
+      "html_file": "raw_html/posts/blog.html"
+    },
+    {
+      "url": "https://sankaraeye.com/product/one-cataract-surgery",
+      "slug": "product-one-cataract-surgery",
+      "category": "products",
+      "title": "One cataract surgery | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "One cataract surgery",
+        "One cataract surgery"
+      ],
+      "image_count": 18,
+      "markdown_file": "content_markdown/products/product-one-cataract-surgery.md",
+      "json_file": "content_json/products/product-one-cataract-surgery.json",
+      "html_file": "raw_html/products/product-one-cataract-surgery.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness",
+      "slug": "press-sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness",
+      "category": "press",
+      "title": "Sankara Eye Hospital organized \" Sur \"n\" Symphony \" to eliminate blindness | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Sankara Eye Hospital organized ” Sur “n” Symphony ” to eliminate blindness",
+        "Sankara Eye Hospital organized ” Sur “n” Symphony ” to eliminate blindness"
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness.md",
+      "json_file": "content_json/press/press-sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness.json",
+      "html_file": "raw_html/press/press-sankara-eye-hospital-organized-sur-n-symphony-to-eliminate-blindness.html"
+    },
+    {
+      "url": "https://sankaraeye.com/donate-sefusa",
+      "slug": "donate-sefusa",
+      "category": "pages",
+      "title": "Donations to Sankara Eye Care Institution | Sankara Eye Foundation",
+      "meta_description": "Empower lives, donate for sight! Your gift brings vision to those in need. Illuminate a brighter world today.",
+      "headings_h1": [
+        "DONATE"
+      ],
+      "image_count": 12,
+      "markdown_file": "content_markdown/pages/donate-sefusa.md",
+      "json_file": "content_json/pages/donate-sefusa.json",
+      "html_file": "raw_html/pages/donate-sefusa.html"
+    },
+    {
+      "url": "https://sankaraeye.com/press/honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022",
+      "slug": "press-honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022",
+      "category": "press",
+      "title": "Honnali Vision - Davangiri District was inaugurated on 25th March 2022. | Sankara",
+      "meta_description": "",
+      "headings_h1": [
+        "Honnali Vision – Davangiri District was inaugurated on 25th March 2022.",
+        "Honnali Vision – Davangiri District was inaugurated on 25th March 2022."
+      ],
+      "image_count": 13,
+      "markdown_file": "content_markdown/press/press-honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022.md",
+      "json_file": "content_json/press/press-honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022.json",
+      "html_file": "raw_html/press/press-honnali-vision-davangiri-district-was-inaugurated-on-25th-march-2022.html"
+    }
+  ]
+}

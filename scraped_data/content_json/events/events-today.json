@@ -1,0 +1,174 @@
+{
+  "url": "https://sankaraeye.com/events/today",
+  "slug": "events-today",
+  "category": "events",
+  "title": "Events for August 24, 2026 | Sankara",
+  "meta_description": "",
+  "meta_keywords": "",
+  "og": {
+    "locale": "en_US",
+    "type": "website",
+    "title": "Events Archive | Sankara",
+    "url": "https://sankaraeye.com/events/",
+    "site_name": "Sankara"
+  },
+  "twitter": {
+    "card": "summary_large_image"
+  },
+  "schema_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sankaraeye.com/events/",
+          "url": "https://sankaraeye.com/events/",
+          "name": "Events Archive | Sankara",
+          "isPartOf": {
+            "@id": "https://sankaraeye.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://sankaraeye.com/events/#breadcrumb"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sankaraeye.com/events/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sankaraeye.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Events"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sankaraeye.com/#website",
+          "url": "https://sankaraeye.com/",
+          "name": "Sankara",
+          "description": "World-class Eyecare with a Social Impact",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://sankaraeye.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  ],
+  "headings": {
+    "h1": [],
+    "h2": [
+      "Events Search and Views Navigation"
+    ],
+    "h3": [
+      "Event Views Navigation"
+    ],
+    "h4": []
+  },
+  "internal_links": [
+    "https://sankaraeye.com",
+    "https://sankaraeye.com/about",
+    "https://sankaraeye.com/blog",
+    "https://sankaraeye.com/careers",
+    "https://sankaraeye.com/contact",
+    "https://sankaraeye.com/donate",
+    "https://sankaraeye.com/dr-rvr-awards-and-biography",
+    "https://sankaraeye.com/education",
+    "https://sankaraeye.com/events/2026-08-23",
+    "https://sankaraeye.com/events/list",
+    "https://sankaraeye.com/events/month",
+    "https://sankaraeye.com/events/today",
+    "https://sankaraeye.com/journals",
+    "https://sankaraeye.com/lasikblr",
+    "https://sankaraeye.com/pledge-your-eyes",
+    "https://sankaraeye.com/privacy-policy",
+    "https://sankaraeye.com/sankaralasikservices",
+    "https://sankaraeye.com/services",
+    "https://sankaraeye.com/social-impact",
+    "webcal://sankaraeye.com"
+  ],
+  "external_links": [
+    "http://sankaraeye.host.misfit.co/#",
+    "https://instagram.com/sankaraeyehospitals",
+    "https://outlook.live.com/owa?path=/calendar/action/compose&rru=addsubscription&url=webcal%3A%2F%2Fsankaraeye.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sankara+Events+Archive+|+Sankara",
+    "https://outlook.office.com/owa?path=/calendar/action/compose&rru=addsubscription&url=webcal%3A%2F%2Fsankaraeye.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sankara+Events+Archive+|+Sankara",
+    "https://twitter.com/sankarav2020?lang=en",
+    "https://www.facebook.com/sankaraeyehospitals/",
+    "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fsankaraeye.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
+    "https://www.youtube.com/user/sankaraeyehospitals"
+  ],
+  "images": [
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-fb.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-ig.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-twitter.png",
+    "https://sankaraeye.com/wp-content/uploads/2018/03/icon-youtube.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/Coimbatore-Facilities-62-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/01/column-content-m-img-2-150x150.jpg",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-colored-logo.png",
+    "https://sankaraeye.com/wp-content/uploads/2023/02/sankaraeye-white-logo.png",
+    "https://www.facebook.com/tr?id=2447296055406653&ev=PageView&noscript=1",
+    "https://www.facebook.com/tr?id=431030042486995&ev=PageView&noscript=1"
+  ],
+  "documents": [],
+  "css_files": [
+    "https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&ver=7.0.4",
+    "https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap&ver=7.0.4",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/announcer-css-v47dbca4a234f6714b5f320672c82331e69656175.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/donation-v33a84a2dac56d9d5fcad15fd5f1eec0188dd1e48.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/iss-vfd2b9a8943017d7c6535543deb030ecec5722e02.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-custom-vb73c88903e60bae86b3c2cf4a9e21aa8e8ba0373.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/msl-main-va3739e4b778c74f98c4fb3ef53e04a12bed014d2.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/tahs-public-style-ve9ea61fd2433014c447edb993f263c7e43750c8a.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/wpb-pcf-styles-vcec44bffb310c93597c0ce946dbe5703c9b8f1f6.css",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/css/item/ywcds_frontend-v3156068a6936eaec8d7298e7bc9c797d6a7a31b9.css",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/common/src/resources/css/common-full.min.css?ver=6.0.3.1",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=6.0.3.1",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/common/src/resources/css/variables-full.min.css?ver=6.0.3.1",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/common/src/resources/css/variables-skeleton.min.css?ver=6.0.3.1",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/common/vendor/tooltipster/tooltipster.bundle.min.css?ver=6.0.3.1",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/src/resources/css/views-full.min.css?ver=6.6.4.2",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/src/resources/css/views-print.min.css?ver=6.6.4.2",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/src/resources/css/views-skeleton.min.css?ver=6.6.4.2",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css?ver=6.6.4.2",
+    "https://sankaraeye.com/wp-content/plugins/timeline-and-history-slider/assets/css/slick.css?ver=2.3",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.8.1",
+    "https://sankaraeye.com/wp-content/plugins/wpb-popup-for-contact-form-7/assets/css/sweetalert2.min.css?ver=11.4.8",
+    "https://sankaraeye.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1"
+  ],
+  "js_files": [
+    "https://embeddables.p.mbirdcdn.net/v1/web-components.es.js",
+    "https://salesiq.zohopublic.in/widget?wc=siq0226829dd8316629f8e860dd5f4ddd2e878c8032ffdd78d6cc41394703812e47",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/body-928b5eafcf2b508ad6a8b7879e5fb3547e1a0176.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-1ca2e814580d4c491dc38f1058a22df969c9ea71.js",
+    "https://sankaraeye.com/wp-content/cache/asset-cleanup/js/head-3c9f82ec0c2d17f275a9be4ba090d0e3f37062f3.js",
+    "https://sankaraeye.com/wp-content/plugins/the-events-calendar/src/resources/js/views/manager.min.js?ver=6.6.4.2",
+    "https://www.google.com/recaptcha/api.js?render=6LfZ4-0aAAAAAIE9bZl1bt2vxNIwl79_9hLxxizJ&ver=3.0",
+    "https://www.googletagmanager.com/gtag/js?id=AW-979602086",
+    "https://www.googletagmanager.com/gtag/js?id=G-8J2P6HMG28",
+    "https://www.googletagmanager.com/gtag/js?id=UA-42093803-1"
+  ],
+  "clean_text_length": 988,
+  "clean_text": "Events for August 24, 2026 | Sankara Events for August 24, 2026 | Sankara About Services Social Impact Donate Pledge Your Eyes Education Careers Our Blog Contact Services About Us About Pledge Your Eyes Contact Education Social Impact Services Donate Awards Dr.RVR Awards and Biography lasikblr Sankara Lasik Services OUR STORY SERVICES SOCIAL IMPACT Loading view. There are no upcoming events. There are no upcoming events. Events Search and Views Navigation Search Enter Keyword. Search for Events by Keyword. Find Events Event Views Navigation Day List Month Day Today 2026-08-24 August 24, 2026 Select date. Previous Day Next Day Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file follow us on social OUR STORY SERVICES SOCIAL IMPACT EDUCATION DONATE OUR PUBLICATIONS PLEDGE YOUR EYES CAREERS CONTACT US PRIVACY POLICY Unit of Sri.Kanchi Kamakoti Medical Trust Copyright 2023 sankaraeye.com Baked & Frosted by Misfit Inc"
+}
