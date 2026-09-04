@@ -345,7 +345,7 @@ export function generateAppointmentHtml(data: AppointmentEmailData): string {
         Warm regards,<br>
         <strong>Clinical Desk Coordinator</strong><br>
         <span style="font-size: 11.5px; color: #6b7280;">Sankara Eye Hospital (${data.hospitalLocation})</span><br>
-        <span style="font-size: 11px; color: #9ca3af;">Central Helpline: 080-69038900 | Emergency 24/7: 7619519555</span>
+        <span style="font-size: 11px; color: #9ca3af;">Appointments & Inquiries: Refer to Unit Reception | 24/7 Eye Bank: 7619519555</span>
       </p>
     </div>
   </div>

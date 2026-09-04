@@ -128,7 +128,7 @@ const SCRAPED_HOSPITAL_CONTACTS: HospitalContactDetail[] = [
     email: 'coimbatore@sankaraeye.com',
     eyeBankPhone: '9965511174',
     mapUrl: 'https://goo.gl/maps/9fzPcoMD9k12',
-    summary: '500-bed apex institution on 5 acres land. Founding headquarters of the 80:20 self-sustaining model and Academy of Vision.'
+    summary: '500-bed apex institution on 5 acres land. Founding headquarters of the Unique Hybrid self-sustaining model and Academy of Vision.'
   },
   {
     id: 'coimbatore-city',
@@ -323,7 +323,7 @@ export const ContactPage: React.FC<ContactPageProps> = ({ navigate }) => {
       showToast('Inquiry message submitted successfully! Our team will contact you shortly.');
     } catch (e) {
       console.error(e);
-      showToast('Error submitting inquiry. Please call our central helpline.');
+      showToast('Error submitting inquiry. Please contact your nearest unit or email support@sankaraeye.com.');
     } finally {
       setIsSubmitting(false);
     }
@@ -350,23 +350,23 @@ export const ContactPage: React.FC<ContactPageProps> = ({ navigate }) => {
         <div className="max-w-7xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-white/20 backdrop-blur-md text-xs font-bold tracking-wide">
             <Phone className="w-3.5 h-3.5" />
-            <span>24/7 Clinical Helplines & Nationwide Hospital Network</span>
+            <span>Unit Contacts & Nationwide Hospital Network</span>
           </div>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
             Contact Us & Hospital Coordinates
           </h1>
           <p className="text-sm sm:text-base text-orange-100 max-w-3xl leading-relaxed">
-            Connect with our central mission headquarters, 24/7 Eye Bank retrieval network, or get exact addresses, phone numbers, and OPD timings for all 14 super-specialty hospital units across India.
+            Connect with our headquarters, eye care facilities, or get exact addresses, phone numbers, and OPD timings for all 14 super-specialty hospital units across India.
           </p>
 
           {/* Quick Direct Hotline Strip */}
           <div className="pt-2 flex flex-wrap gap-4 text-xs font-bold">
             <a 
-              href="tel:08069038900" 
+              href="mailto:support@sankaraeye.com" 
               className="inline-flex items-center gap-2 bg-white text-orange-700 px-4 py-2 rounded-xl shadow-md hover:bg-orange-50 transition-all cursor-pointer"
             >
-              <Phone className="w-3.5 h-3.5 text-orange-600" />
-              <span>Central Helpline: 080-69038900</span>
+              <Mail className="w-3.5 h-3.5 text-orange-600" />
+              <span>Inquiries: support@sankaraeye.com</span>
             </a>
             <a 
               href="tel:7619519555" 

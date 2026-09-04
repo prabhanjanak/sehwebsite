@@ -13,12 +13,12 @@ export const PRESS_DATA: PressItem[] = [
     content: [
       'In a monumental milestone for tertiary healthcare in Northern India, the Rakesh Jhunjhunwala Sankara Eye Hospital was formally dedicated to the nation in Varanasi. Built with an outlay of ₹110 Crores on a sprawling 4.5-acre campus along the Varanasi-Prayagraj highway, the hospital represents Sri Kanchi Kamakoti Medical Trust’s 14th super-specialty institution.',
       'Equipped with 9 modular laminar-flow operation theatres, high-precision femtosecond laser cataract systems, and Eastern UP’s most advanced vitreoretinal diagnostic wing, the hospital has the capacity to perform over 30,000 surgical procedures annually.',
-      'Operating on the Foundation’s signature 80:20 self-sustaining cross-subsidy model, 80% of all surgical procedures are performed completely free of charge for impoverished rural families across Varanasi, Chandauli, Mirzapur, Ghazipur, and neighboring districts of Western Bihar.'
+      'Operating on the Foundation’s signature Unique Hybrid Model, surgeries are performed completely free of charge for impoverished rural families across Varanasi, Chandauli, Mirzapur, Ghazipur, and neighboring districts of Western Bihar.'
     ],
     keyTakeaways: [
       '200-bed super-specialty tertiary eye hospital in Varanasi',
-      '9 modular laminar air-flow surgical theatres and 24/7 Sri Jayendra Eye Bank',
-      'Capacity to perform over 30,000 free sight-restoring surgeries annually under the 80:20 model'
+      '9 modular laminar air-flow surgical theatres and advanced ophthalmic care',
+      'Capacity to perform over 30,000 free sight-restoring surgeries annually under the Unique Hybrid Model'
     ]
   },
   {
@@ -37,7 +37,7 @@ export const PRESS_DATA: PressItem[] = [
     ],
     keyTakeaways: [
       'Honored with Padma Shri for exemplary humanitarian leadership in social medicine',
-      'Pioneered the scalable 80:20 cross-subsidy model ensuring zero disparity in surgical care',
+      'Pioneered the scalable Unique Hybrid Model ensuring zero disparity in surgical care',
       'Restored sight to over 2.6 million rural citizens across 9 Indian states'
     ]
   },
@@ -67,7 +67,7 @@ export const PRESS_DATA: PressItem[] = [
     date: 'August 12, 2025',
     source: 'Global Health Outreach Bulletin',
     category: 'Milestone',
-    summary: 'Through its innovative 80:20 self-sustaining model, Sankara has provided over 2.6 million free eye surgeries to underserved citizens across 30,000+ rural villages in India.',
+    summary: 'Through its innovative Unique Hybrid Model, Sankara has provided over 2.6 million free eye surgeries to underserved citizens across 30,000+ rural villages in India.',
     image: '/assets/images/staff-3-e1516880966588.jpg',
     url: 'https://sankaraeye.com/social-impact/',
     content: [

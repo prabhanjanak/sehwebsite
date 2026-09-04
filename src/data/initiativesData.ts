@@ -144,8 +144,8 @@ export const MODEL_80_20_STEPS = [
   },
   {
     step: 4,
-    title: '80% Free Surgeries Delivered with Dignity',
+    title: 'Free Surgeries Delivered with Dignity',
     badge: 'Restoring Vision & Lives',
-    description: 'Rural beneficiaries receive identical world-class surgeries, foldable lenses, free food, stay, and medicines, and are safely escorted back home.'
+    description: 'Rural beneficiaries receive identical world-class surgeries, foldable lenses, free food, stay, and medicines through our Unique Hybrid Model, and are safely escorted back home.'
   }
 ];

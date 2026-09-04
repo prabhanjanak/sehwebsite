@@ -12,6 +12,8 @@ export interface Hospital {
   image: string;
   headDoctor: string;
   headDoctorRole: string;
+  cmoName?: string;
+  cmoRole?: string;
   administratorName?: string;
   administratorRole?: string;
   administratorPhone?: string;

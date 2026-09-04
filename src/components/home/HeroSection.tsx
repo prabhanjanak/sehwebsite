@@ -105,7 +105,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ navigate }) => {
                 className="btn-primary shadow-glow !py-3.5 !px-6 text-xs sm:text-sm font-bold whitespace-nowrap flex items-center gap-2 group"
               >
                 <Sparkles className="w-4 h-4" />
-                <span>Explore 12 Clinical Specialties</span>
+                <span>Explore Treatments</span>
               </button>
 
               <button
@@ -113,67 +113,8 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ navigate }) => {
                 className="btn-secondary !py-3.5 !px-6 text-xs sm:text-sm font-bold whitespace-nowrap flex items-center gap-2 group"
               >
                 <Building2 className="w-4 h-4 text-orange-600" />
-                <span>Find Nearest Sankara Unit</span>
+                <span>Our Network</span>
               </button>
-            </motion.div>
-
-            {/* 4 Clinical Excellence Counter Badges */}
-            <motion.div variants={itemVariants} className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-1">
-              <TiltCard className="h-full">
-                <div className="p-3 bg-white rounded-2xl border border-orange-200 shadow-sm hover:border-orange-400 hover:shadow-md transition-all h-full">
-                  <div className="text-xl sm:text-2xl font-black text-slate-900 font-display flex items-center gap-1">
-                    <Sparkles className="w-4 h-4 text-orange-600" />
-                    <span>Blade-Free</span>
-                  </div>
-                  <div className="text-[11px] text-slate-600 font-semibold mt-0.5">Laser & SMILE Pro</div>
-                </div>
-              </TiltCard>
-
-              <TiltCard className="h-full">
-                <div className="p-3 bg-white rounded-2xl border border-orange-200 shadow-sm hover:border-orange-400 hover:shadow-md transition-all h-full">
-                  <div className="text-xl sm:text-2xl font-black text-slate-900 font-display flex items-center gap-1">
-                    <Award className="w-4 h-4 text-emerald-600" />
-                    <span>100% NABH</span>
-                  </div>
-                  <div className="text-[11px] text-slate-600 font-semibold mt-0.5">Tertiary Certified</div>
-                </div>
-              </TiltCard>
-
-              <TiltCard className="h-full">
-                <div className="p-3 bg-white rounded-2xl border border-orange-200 shadow-sm hover:border-orange-400 hover:shadow-md transition-all h-full">
-                  <div className="text-xl sm:text-2xl font-black text-slate-900 font-display flex items-center gap-1">
-                    <CreditCard className="w-4 h-4 text-blue-600" />
-                    <span>50+ TPAs</span>
-                  </div>
-                  <div className="text-[11px] text-slate-600 font-semibold mt-0.5">Cashless Mediclaim</div>
-                </div>
-              </TiltCard>
-
-              <TiltCard className="h-full">
-                <div className="p-3 bg-white rounded-2xl border border-orange-200 shadow-sm hover:border-orange-400 hover:shadow-md transition-all h-full">
-                  <div className="text-xl sm:text-2xl font-black text-orange-600 font-display flex items-center gap-1">
-                    <Clock className="w-4 h-4 text-orange-600" />
-                    <span>Daycare</span>
-                  </div>
-                  <div className="text-[11px] text-slate-600 font-semibold mt-0.5">Same-Day Discharge</div>
-                </div>
-              </TiltCard>
-            </motion.div>
-
-            {/* Bottom Reassuring Trust Row */}
-            <motion.div variants={itemVariants} className="flex flex-wrap items-center gap-x-6 gap-y-2 text-xs text-slate-500 pt-1 border-t border-slate-100">
-              <span className="flex items-center gap-1.5 font-medium">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
-                Stitchless & Painless Micro-Incision
-              </span>
-              <span className="flex items-center gap-1.5 font-medium">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
-                0% Interest EMI Plans Available
-              </span>
-              <span className="flex items-center gap-1.5 font-medium">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
-                NABH Infection-Control Protocols
-              </span>
             </motion.div>
           </div>
 

@@ -138,7 +138,7 @@ export const InteractiveVisionMission: React.FC = () => {
             </blockquote>
 
             <p className={`text-xs leading-relaxed ${activeZone === 'mission' ? 'text-orange-100' : 'text-slate-600'}`}>
-              Powered by dedicated surgical fellows, paramedical vision assistants, and the 80:20 self-sustaining cross-subsidy engine across 14 hospital hubs.
+              Powered by dedicated surgical fellows, paramedical vision assistants, and the Unique Hybrid self-sustaining cross-subsidy engine across 14 hospital hubs.
             </p>
           </div>
 

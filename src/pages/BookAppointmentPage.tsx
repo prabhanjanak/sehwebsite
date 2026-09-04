@@ -308,7 +308,7 @@ export const BookAppointmentPage: React.FC<BookAppointmentPageProps> = ({ naviga
                       Unit: <strong>{bookingSuccessData.hospitalLocation}</strong>
                     </p>
                     <p className="text-[9.5px] text-black leading-tight">
-                      Central Helpline: 080-69038900 | 24/7 Eye Bank: 7619519555 | Web: www.sankaraeye.com
+                      Sri Kanchi Kamakoti Medical Trust | Web: www.sankaraeye.com
                     </p>
                   </div>
                 </div>
@@ -694,7 +694,7 @@ export const BookAppointmentPage: React.FC<BookAppointmentPageProps> = ({ naviga
                           : 'bg-slate-50 border-slate-200'
                       }`}
                     >
-                      <div className="font-bold text-slate-900">Ayushman / 80:20 Free Care</div>
+                      <div className="font-bold text-slate-900">Ayushman / Unique Hybrid Free Care</div>
                       <div className="text-[10px] text-slate-500">PM-JAY, BPL or Gift of Vision</div>
                     </button>
                   </div>

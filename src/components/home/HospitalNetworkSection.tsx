@@ -45,13 +45,13 @@ export const HospitalNetworkSection: React.FC<HospitalNetworkSectionProps> = ({ 
           <div>
             <span className="badge-sankara text-xs mb-2">
               <Building2 className="w-3.5 h-3.5" />
-              <span>Nationwide Infrastructure</span>
+              <span>Our Network</span>
             </span>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight">
-              14 Tertiary Hospitals <span className="orange-gradient-text">Across 10 States</span>
+              Our Network — <span className="orange-gradient-text">14 Super-Specialty Hospitals</span>
             </h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-1 max-w-2xl">
-              Equipped with modular laminar airflow operation theatres, cutting-edge diagnostic suites, and 24/7 emergency trauma care.
+              Delivering standardized, 100% NABH-certified tertiary ophthalmic care with dedicated Chief Medical Officers across 9 states.
             </p>
           </div>
 

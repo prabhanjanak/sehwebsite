@@ -91,13 +91,13 @@ export const FloatingQuickAction: React.FC = () => {
             <span>Donate</span>
           </button>
 
-          {/* Emergency Direct Call */}
+          {/* Unit Contacts Link */}
           <a
-            href="tel:08069038900"
+            href="/hospitals"
             className="p-2 rounded-full bg-white/10 hover:bg-white/20 text-slate-300 hover:text-white transition-all flex items-center justify-center cursor-pointer"
-            title="Call Emergency Hotline: 080-69038900"
+            title="Hospital Units & Contacts"
           >
-            <Phone className="w-3.5 h-3.5 text-orange-400 animate-pulse" />
+            <Phone className="w-3.5 h-3.5 text-orange-400" />
           </a>
 
           {/* Back to Top */}

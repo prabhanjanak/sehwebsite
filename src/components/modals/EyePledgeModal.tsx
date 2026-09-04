@@ -131,8 +131,8 @@ export const EyePledgeModal: React.FC = () => {
                 </div>
 
                 <div className="mt-4 bg-orange-600 text-white rounded-xl p-2 text-center">
-                  <div className="text-[10px] font-medium uppercase tracking-wider">24/7 Eye Bank Emergency Lines</div>
-                  <div className="font-bold text-xs tracking-wider">7619519555 / 080-69038900</div>
+                  <div className="text-[10px] font-medium uppercase tracking-wider">24/7 Eye Bank Dedicated Lines</div>
+                  <div className="font-bold text-xs tracking-wider">Bangalore: 7619519555 | Coimbatore: 9965511174</div>
                 </div>
               </div>
 

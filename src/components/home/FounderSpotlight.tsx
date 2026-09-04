@@ -52,7 +52,7 @@ export const FounderSpotlight: React.FC<FounderSpotlightProps> = ({ navigate }) 
               </h2>
 
               <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
-                In 1977, Dr. R.V. Ramani and Dr. Radha Ramani founded a humble primary healthcare clinic in Coimbatore under the divine guidance and blessings of Kanchi Kamakoti Peetham. Observing that 80% of blind people in India suffered from curable cataracts simply due to poverty, Dr. Ramani conceptualized the globally celebrated <strong className="text-white">80:20 self-sustaining cross-subsidy model</strong>.
+                In 1977, Dr. R.V. Ramani and Dr. Radha Ramani founded a humble primary healthcare clinic in Coimbatore under the divine guidance and blessings of Kanchi Kamakoti Peetham. Observing that a vast majority of blind people in India suffered from curable cataracts simply due to poverty, Dr. Ramani conceptualized the globally celebrated <strong className="text-white">Unique Hybrid self-sustaining cross-subsidy model</strong>.
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2 text-xs">

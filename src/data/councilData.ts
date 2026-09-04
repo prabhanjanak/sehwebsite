@@ -13,7 +13,7 @@ export const INITIAL_TRUSTEES: CouncilMember[] = [
     id: 'tr-2',
     name: 'Dr. R.V. Ramani', 
     role: 'Founder & Managing Trustee', 
-    desc: 'Pioneered the 80:20 self-sustaining cross-subsidy rural eye care model. Consecrated 14 super-specialty hospitals.',
+    desc: 'Pioneered the Unique Hybrid Model for self-sustaining cross-subsidy rural eye care. Consecrated 14 super-specialty hospitals.',
     image: '/assets/images/dr-rv-ramani.jpg',
     category: 'trustees'
   },

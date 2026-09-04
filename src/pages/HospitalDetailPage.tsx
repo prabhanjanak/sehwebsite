@@ -16,6 +16,7 @@ import {
 } from 'lucide-react';
 import { HOSPITALS_DATA } from '../data/hospitalsData';
 import { DOCTORS_DATA } from '../data/doctorsData';
+import { HOSPITAL_SERVICES_DATA } from '../data/hospitalServicesData';
 import { useDatabase } from '../context/DatabaseContext';
 
 interface HospitalDetailPageProps {
@@ -28,10 +29,23 @@ export const HospitalDetailPage: React.FC<HospitalDetailPageProps> = ({ hospital
 
   const hospital = hospitalsList.find((h) => h.id === hospitalId) || hospitalsList[0];
 
-  // Doctors for this hospital location
-  const unitDoctors = DOCTORS_DATA.filter((d) => 
-    d.hospitalLocation.toLowerCase().includes(hospital.city.toLowerCase())
-  );
+  // Specific unit service data from official registry
+  const unitServiceData = HOSPITAL_SERVICES_DATA.find((u) => {
+    if (hospital.id === 'coimbatore-hq') return u.id === 'coimbatore-sathy-road';
+    if (hospital.id === 'coimbatore-city') return u.id === 'coimbatore-rs-puram';
+    return u.id === hospital.id;
+  });
+
+  // Highlight doctors that match this unit
+  const matchedDoctors = DOCTORS_DATA.filter((d) => {
+    if (hospital.id === 'coimbatore-hq') {
+      return d.hospitalLocation.includes('Coimbatore (Mission Head Quarters)');
+    }
+    if (hospital.id === 'coimbatore-city') {
+      return d.hospitalLocation.includes('City') && d.hospitalLocation.includes('Coimbatore');
+    }
+    return d.hospitalLocation.toLowerCase().includes(hospital.city.toLowerCase());
+  });
 
   return (
     <div className="bg-white">
@@ -146,7 +160,7 @@ export const HospitalDetailPage: React.FC<HospitalDetailPageProps> = ({ hospital
                   </div>
                 )}
 
-                {unitDoctors.map((doc) => (
+                {matchedDoctors.map((doc) => (
                   <div key={doc.id} className="bg-white border border-slate-200 rounded-2xl p-4 space-y-2 shadow-xs">
                     <span className="badge-trust text-[10px]">Consultant Specialist</span>
                     <h4 className="text-sm font-bold text-slate-900">{doc.name}</h4>
@@ -154,6 +168,23 @@ export const HospitalDetailPage: React.FC<HospitalDetailPageProps> = ({ hospital
                     <p className="text-[11px] text-slate-500 font-mono">{doc.qualifications}</p>
                   </div>
                 ))}
+
+                {/* Additional Unit-Specific Specialists from Official Registry */}
+                {unitServiceData?.doctors
+                  ?.filter((docStr) => !docStr.toLowerCase().includes(hospital.headDoctor.toLowerCase()))
+                  .map((docStr, idx) => {
+                    const parts = docStr.split('(');
+                    const nameAndDeg = parts[0]?.trim() || docStr;
+                    const department = parts[1] ? parts[1].replace(')', '').trim() : 'Consultant Ophthalmologist';
+                    return (
+                      <div key={idx} className="bg-white border border-slate-200 rounded-2xl p-4 space-y-2 shadow-xs">
+                        <span className="badge-trust text-[10px]">Department Specialist</span>
+                        <h4 className="text-sm font-bold text-slate-900">{nameAndDeg}</h4>
+                        <p className="text-xs text-orange-600 font-semibold">{department}</p>
+                        <p className="text-[11px] text-slate-500">Dedicated Full-Time Clinical Faculty</p>
+                      </div>
+                    );
+                  })}
               </div>
             </div>
           </div>

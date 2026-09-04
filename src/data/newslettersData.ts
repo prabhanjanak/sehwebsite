@@ -19,11 +19,11 @@ export const INITIAL_NEWSLETTERS: NewsletterItem[] = [
         content: [
           'Founded in May 1977 by Dr. R.V. Ramani and Dr. Radha Ramani with the blessings of the Sankaracharyas of Kanchi, Sri Kanchi Kamakoti Medical Trust began as a modest community healthcare centre.',
           'Today, with 14 super-specialty hospitals operating across 9 Indian states, Sankara has performed over 2.6 Million free eye surgeries with world-class clinical outcomes.',
-          'Our unique 80:20 self-sustaining cross-subsidy healthcare model ensures that premium paying patients empower the gift of free sight to underserved rural brethren with zero disparity in clinical standards.'
+          'Our Unique Hybrid Model ensures that paying patients empower the gift of free sight to underserved rural brethren with zero disparity in clinical standards.'
         ],
         highlights: [
           '2.6+ Million free eye surgeries performed till date',
-          '80:20 cross-subsidy social enterprise model',
+          'Unique Hybrid Model social enterprise structure',
           '100% NABH certified clinical excellence'
         ],
         quote: 'Sight is not a privilege; it is a fundamental human right.'

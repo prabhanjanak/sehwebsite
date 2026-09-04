@@ -19,10 +19,10 @@ export const HomePage: React.FC<HomePageProps> = ({ navigate }) => {
     <div className="space-y-0 relative">
       <ScrollProgressBar />
       <HeroSection navigate={navigate} />
-      <ClinicalExcellenceSection navigate={navigate} />
       <SpecialtiesPreview navigate={navigate} />
-      <HospitalServicesAndInformation />
       <HospitalNetworkSection navigate={navigate} />
+      <ClinicalExcellenceSection navigate={navigate} />
+      <HospitalServicesAndInformation />
       <PeopleVisionSection navigate={navigate} />
       <PatientStoriesSection navigate={navigate} />
       <LatestUpdatesSection navigate={navigate} />

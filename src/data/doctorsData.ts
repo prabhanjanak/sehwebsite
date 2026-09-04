@@ -10,7 +10,7 @@ export const DOCTORS_DATA: Doctor[] = [
     hospitalLocation: 'Coimbatore (Mission Head Quarters)',
     experience: '45+ Years Experience',
     image: '/assets/images/New-Project-27.jpg',
-    bio: 'Padmashri Dr. R.V. Ramani is a visionary social entrepreneur and pioneer of India’s 80:20 self-sustaining rural eye care model. Over four decades, his leadership has scaled Sankara Eye Foundation from a single dispensary into an internationally celebrated institution performing over 2.6 million free eye surgeries.'
+    bio: 'Padmashri Dr. R.V. Ramani is a visionary social entrepreneur and pioneer of India’s Unique Hybrid Model for self-sustaining rural eye care. Over four decades, his leadership has scaled Sankara Eye Foundation from a single dispensary into an internationally celebrated institution performing over 2.6 million free eye surgeries.'
   },
   {
     id: 'dr-radha-ramani',

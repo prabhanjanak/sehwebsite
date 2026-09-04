@@ -31,7 +31,7 @@ export const NewsletterReaderModal: React.FC = () => {
         activeNewsletterForReader.description,
         'This quarterly bulletin provides verified updates on our rural healthcare camps, clinical surgical milestones, and foundation achievements across our national network.'
       ],
-      highlights: ['100% NABH Certified Quality', '2.6M+ Free Surgeries Restored', '80:20 Community Cross-Subsidy']
+      highlights: ['100% NABH Certified Quality', '2.6M+ Free Surgeries Restored', 'Unique Hybrid Cross-Subsidy']
     }
   ];
 

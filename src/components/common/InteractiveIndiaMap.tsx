@@ -401,7 +401,7 @@ export const InteractiveIndiaMap: React.FC<InteractiveIndiaMapProps> = ({ naviga
                     <Heart className="w-4 h-4 text-orange-600" />
                     <span>{activeState.freeSurgeriesShare}</span>
                   </div>
-                  <div className="text-slate-600 font-semibold text-[11px] mt-0.5">80:20 Cross-Subsidy</div>
+                  <div className="text-slate-600 font-semibold text-[11px] mt-0.5">Unique Hybrid Model</div>
                 </div>
               </div>
 

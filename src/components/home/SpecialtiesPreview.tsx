@@ -48,18 +48,18 @@ export const SpecialtiesPreview: React.FC<SpecialtiesPreviewProps> = ({ navigate
           <div className="space-y-2">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-orange-100/80 text-orange-800 text-xs font-bold">
               <Sparkles className="w-3.5 h-3.5 text-orange-600" />
-              <span>Flagship Refractive Laser Suites & Tertiary Eye Care</span>
+              <span>Dedicated Centers of Excellence & Advanced Surgical Care</span>
             </div>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-black text-slate-900 tracking-tight">
-              Advanced Clinical <span className="orange-gradient-text">Specialties & Laser Suites</span>
+              Advanced Clinical <span className="orange-gradient-text">Treatments & Surgical Suites</span>
             </h2>
           </div>
 
           <button
             onClick={() => navigate('/services')}
-            className="btn-outline-orange !px-5 !py-2.5 text-xs font-bold self-start md:self-auto flex items-center gap-1.5 shadow-xs"
+            className="btn-outline-orange !px-5 !py-2.5 text-xs font-bold self-start md:self-auto flex items-center gap-1.5 shadow-xs cursor-pointer"
           >
-            <span>View All 12 Specialties</span>
+            <span>View All 12 Treatments</span>
             <ArrowRight className="w-3.5 h-3.5" />
           </button>
         </div>
@@ -68,8 +68,8 @@ export const SpecialtiesPreview: React.FC<SpecialtiesPreviewProps> = ({ navigate
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
           
           {/* Left Column: Vertical Specialty Navigation Tabs (4 cols) */}
-          <div className="lg:col-span-4 flex flex-col gap-2.5">
-            {SPECIALTIES_DATA.slice(0, 6).map((spec) => {
+          <div className="lg:col-span-4 flex flex-col gap-2 max-h-[640px] overflow-y-auto pr-1">
+            {SPECIALTIES_DATA.map((spec) => {
               const SpecIcon = SPECIALTY_ICONS[spec.id] || Eye;
               const isActive = activeTab === spec.id;
 
@@ -77,26 +77,26 @@ export const SpecialtiesPreview: React.FC<SpecialtiesPreviewProps> = ({ navigate
                 <button
                   key={spec.id}
                   onClick={() => setActiveTab(spec.id)}
-                  className={`w-full text-left p-4 rounded-2xl transition-all duration-200 flex items-center justify-between border-2 cursor-pointer ${
+                  className={`w-full text-left p-3.5 rounded-2xl transition-all duration-200 flex items-center justify-between border-2 cursor-pointer ${
                     isActive
-                      ? 'bg-white border-orange-500 shadow-lg shadow-orange-500/10 translate-x-1.5'
+                      ? 'bg-white border-orange-500 shadow-lg shadow-orange-500/10 translate-x-1'
                       : 'bg-white/80 border-slate-200/90 hover:border-orange-300 hover:bg-white'
                   }`}
                 >
-                  <div className="flex items-center gap-3.5 min-w-0">
-                    <div className={`w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0 font-bold transition-colors ${
+                  <div className="flex items-center gap-3 min-w-0">
+                    <div className={`w-9 h-9 rounded-xl flex items-center justify-center flex-shrink-0 font-bold transition-colors ${
                       isActive 
                         ? 'bg-gradient-to-tr from-orange-600 to-amber-500 text-white shadow-md' 
                         : 'bg-orange-50 text-orange-600'
                     }`}>
-                      <SpecIcon className="w-5 h-5" />
+                      <SpecIcon className="w-4 h-4" />
                     </div>
 
                     <div className="min-w-0">
-                      <div className={`font-bold text-sm truncate ${isActive ? 'text-orange-600' : 'text-slate-900'}`}>
+                      <div className={`font-bold text-xs truncate ${isActive ? 'text-orange-600' : 'text-slate-900'}`}>
                         {spec.title}
                       </div>
-                      <div className="text-xs text-slate-500 truncate max-w-[210px] mt-0.5 font-normal">
+                      <div className="text-[11px] text-slate-500 truncate max-w-[210px] mt-0.5 font-normal">
                         {spec.tagline}
                       </div>
                     </div>
@@ -134,7 +134,7 @@ export const SpecialtiesPreview: React.FC<SpecialtiesPreviewProps> = ({ navigate
                         {currentSpecialty.id === 'lasik' && (
                           <span className="bg-emerald-50 text-emerald-800 border border-emerald-300 px-3 py-1 rounded-full text-xs font-bold flex items-center gap-1.5 shadow-xs">
                             <MapPin className="w-3.5 h-3.5 text-emerald-600" />
-                            <span>In-House OTs in Shimoga, Bangalore, Coimbatore, Guntur & All Units</span>
+                            <span>In-House Laser OTs in 7 Regional Units</span>
                           </span>
                         )}
                       </div>
@@ -185,8 +185,8 @@ export const SpecialtiesPreview: React.FC<SpecialtiesPreviewProps> = ({ navigate
                     <div className="flex items-center gap-3.5">
                       <div className="w-12 h-12 bg-white rounded-xl p-1.5 flex items-center justify-center flex-shrink-0 shadow-md">
                         <img 
-                          src="/assets/images/SCHWIND-AMARIS.png" 
-                          alt="German Technology" 
+                          src={currentSpecialty.equipment[0]?.image || currentSpecialty.image || '/assets/images/SCHWIND-AMARIS.png'} 
+                          alt={currentSpecialty.equipment[0]?.name || 'Clinical Technology'} 
                           className="w-full h-full object-contain"
                         />
                       </div>
@@ -203,9 +203,9 @@ export const SpecialtiesPreview: React.FC<SpecialtiesPreviewProps> = ({ navigate
 
                     <button
                       onClick={() => navigate(`/services/${currentSpecialty.id}`)}
-                      className="text-xs font-bold text-slate-900 bg-amber-400 hover:bg-amber-300 px-4 py-2.5 rounded-xl shadow-md whitespace-nowrap flex items-center gap-1.5 flex-shrink-0 transition-all hover:scale-105"
+                      className="text-xs font-bold text-slate-900 bg-amber-400 hover:bg-amber-300 px-4 py-2.5 rounded-xl shadow-md whitespace-nowrap flex items-center gap-1.5 flex-shrink-0 transition-all hover:scale-105 cursor-pointer"
                     >
-                      <span>Specialty Details & FAQs</span>
+                      <span>Explore Treatment Details & FAQs</span>
                       <ArrowRight className="w-3.5 h-3.5" />
                     </button>
                   </div>

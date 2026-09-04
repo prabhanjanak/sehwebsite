@@ -104,31 +104,29 @@ export const Navbar: React.FC<NavbarProps> = ({ currentRoute, navigate }) => {
         </div>
       )}
 
-      {/* Top Urgent Announcement / Emergency Bar */}
+      {/* Top Informational Announcement Bar */}
       <div className="bg-slate-950 text-white text-xs py-2 px-4 border-b border-slate-800">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-4 flex-wrap">
-            <span className="flex items-center gap-1.5 text-orange-400 font-medium">
-              <Phone className="w-3.5 h-3.5 text-orange-400 animate-pulse" />
-              <span>24/7 Emergency:</span>
-              <a href="tel:08069038900" className="text-white hover:text-orange-300 font-bold underline underline-offset-2">
-                080-69038900
-              </a>
-              <span className="text-slate-600">|</span>
-              <a href="tel:7619519555" className="text-white hover:text-orange-300 font-semibold">
-                Eye Bank: 7619519555
-              </a>
+            <span className="flex items-center gap-1.5 text-slate-300">
+              <Clock className="w-3.5 h-3.5 text-orange-400" />
+              <span>OPD Consultations: Mon – Sat 8:00 AM – 6:00 PM</span>
             </span>
-            <span className="hidden md:inline-flex items-center gap-1 text-slate-300">
-              <Clock className="w-3.5 h-3.5 text-slate-400" />
-              OPD: Mon - Sat 8:00 AM - 6:00 PM
+            <span className="hidden md:inline-flex items-center gap-1 text-slate-400">
+              <span>• Across 14 Super-Specialty Units</span>
+              <button
+                onClick={() => handleNavClick('/hospitals')}
+                className="text-orange-400 hover:text-orange-300 ml-1 font-medium hover:underline cursor-pointer"
+              >
+                Find Unit Contacts →
+              </button>
             </span>
           </div>
 
           <div className="flex items-center gap-3 ml-auto">
             <button
               onClick={() => handleNavClick('/pledge-your-eyes')}
-              className="text-orange-400 hover:text-orange-300 font-semibold flex items-center gap-1 text-xs"
+              className="text-orange-400 hover:text-orange-300 font-semibold flex items-center gap-1 text-xs cursor-pointer"
             >
               <Eye className="w-3 h-3 text-orange-400" />
               <span>Pledge Your Eyes</span>
@@ -183,7 +181,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentRoute, navigate }) => {
               About Us
             </button>
 
-            {/* Specialties Dropdown */}
+            {/* Treatments (Renamed from Clinical Specialties) - Horizontal Projection Dropdown */}
             <div
               className="relative flex-shrink-0"
               onMouseEnter={() => setActiveDropdown('specialties')}
@@ -196,43 +194,63 @@ export const Navbar: React.FC<NavbarProps> = ({ currentRoute, navigate }) => {
                     : 'text-slate-700 hover:text-orange-600 hover:bg-slate-50'
                   }`}
               >
-                Clinical Specialties
+                Treatments
                 <ChevronDown className="w-3.5 h-3.5 opacity-70" />
               </button>
 
               {activeDropdown === 'specialties' && (
-                <div className="absolute top-full left-0 w-80 bg-white rounded-xl shadow-xl border border-slate-100 p-3 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
-                  <div className="text-[11px] uppercase tracking-wider font-bold text-orange-600 px-2.5 py-1 mb-1">
-                    Super-Specialty Eye Care
+                <div className="absolute top-full -left-28 xl:-left-40 w-[840px] xl:w-[920px] bg-white rounded-2xl shadow-2xl border border-slate-200/90 p-5 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
+                  <div className="flex items-center justify-between pb-3 mb-3 border-b border-slate-100">
+                    <div>
+                      <div className="text-xs uppercase tracking-wider font-extrabold text-orange-600 flex items-center gap-1.5">
+                        <Sparkles className="w-3.5 h-3.5" />
+                        <span>Advanced Ophthalmic Treatments & Surgery</span>
+                      </div>
+                      <p className="text-[11px] text-slate-500 mt-0.5">
+                        12 Specialized Centers of Excellence powered by cutting-edge diagnostic and laser suites.
+                      </p>
+                    </div>
+                    <button
+                      onClick={() => handleNavClick('/services')}
+                      className="text-xs font-bold text-orange-600 hover:text-orange-700 bg-orange-50 hover:bg-orange-100 px-3 py-1.5 rounded-lg transition-colors cursor-pointer"
+                    >
+                      View All 12 Departments →
+                    </button>
                   </div>
-                  <div className="grid grid-cols-1 gap-1 max-h-96 overflow-y-auto">
-                    {SPECIALTIES_DATA.slice(0, 6).map((spec) => (
+
+                  {/* 3-Column Horizontal Projection Grid */}
+                  <div className="grid grid-cols-3 gap-2.5">
+                    {SPECIALTIES_DATA.map((spec) => (
                       <button
                         key={spec.id}
                         onClick={() => handleNavClick(`/services/${spec.id}`)}
-                        className="w-full text-left p-2 rounded-lg hover:bg-orange-50 text-slate-800 hover:text-orange-600 text-xs font-medium flex items-center gap-2.5 transition-colors"
+                        className="text-left p-2.5 rounded-xl hover:bg-orange-50/80 border border-transparent hover:border-orange-200 group transition-all"
                       >
-                        <span className="w-2 h-2 rounded-full bg-orange-500" />
-                        <div>
-                          <div className="font-semibold text-slate-800">{spec.title}</div>
-                          <div className="text-[11px] text-slate-500 truncate max-w-[220px]">{spec.tagline}</div>
+                        <div className="flex items-center gap-2">
+                          <span className="w-2 h-2 rounded-full bg-orange-500 flex-shrink-0 group-hover:scale-125 transition-transform" />
+                          <span className="font-bold text-xs text-slate-900 group-hover:text-orange-600 truncate">
+                            {spec.title}
+                          </span>
                         </div>
+                        <p className="text-[11px] text-slate-500 line-clamp-1 mt-1 pl-4">
+                          {spec.tagline}
+                        </p>
                       </button>
                     ))}
                   </div>
-                  <div className="border-t border-slate-100 mt-2 pt-2">
-                    <button
-                      onClick={() => handleNavClick('/services')}
-                      className="w-full text-center py-1.5 text-xs font-bold text-orange-600 hover:text-orange-700 bg-orange-50 hover:bg-orange-100 rounded-lg"
-                    >
-                      View All 12 Clinical Services →
-                    </button>
+
+                  <div className="border-t border-slate-100 mt-3 pt-2.5 flex items-center justify-between text-[11px] text-slate-500">
+                    <span className="flex items-center gap-1.5 text-emerald-700 font-semibold">
+                      <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
+                      German Excimer Lasers & Micro-Incision Phaco Suites
+                    </span>
+                    <span>All procedures performed by Fellowship-Trained Faculty</span>
                   </div>
                 </div>
               )}
             </div>
 
-            {/* Sankara Units Dropdown */}
+            {/* Our Network (Renamed from Sankara Units) - Horizontal Projection Dropdown */}
             <div
               className="relative flex-shrink-0"
               onMouseEnter={() => setActiveDropdown('hospitals')}
@@ -245,40 +263,103 @@ export const Navbar: React.FC<NavbarProps> = ({ currentRoute, navigate }) => {
                     : 'text-slate-700 hover:text-orange-600 hover:bg-slate-50'
                   }`}
               >
-                Sankara Units
+                Our Network
                 <ChevronDown className="w-3.5 h-3.5 opacity-70" />
               </button>
 
               {activeDropdown === 'hospitals' && (
-                <div className="absolute top-full -left-20 w-[420px] bg-white rounded-xl shadow-2xl border border-slate-100 p-3 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
-                  <div className="flex items-center justify-between px-2.5 py-1 mb-2 border-b border-slate-100">
-                    <span className="text-[11px] uppercase tracking-wider font-bold text-orange-600">
-                      Sankara Super-Specialty Units Across 9 States
-                    </span>
-                    <span className="text-[11px] text-slate-400">All NABH Quality</span>
-                  </div>
-                  <div className="grid grid-cols-2 gap-1 max-h-80 overflow-y-auto">
-                    {HOSPITALS_DATA.map((hosp) => (
-                      <button
-                        key={hosp.id}
-                        onClick={() => handleNavClick(`/hospitals/${hosp.id}`)}
-                        className="text-left p-2 rounded-lg hover:bg-orange-50 text-slate-800 hover:text-orange-600 text-xs transition-colors"
-                      >
-                        <div className="font-semibold text-slate-800">{hosp.city}</div>
-                        <div className="text-[11px] text-slate-500">{hosp.state} • {hosp.phone}</div>
-                      </button>
-                    ))}
-                  </div>
-                  <div className="border-t border-slate-100 mt-2 pt-2 flex justify-between items-center px-1">
+                <div className="absolute top-full -left-52 xl:-left-80 w-[880px] xl:w-[960px] bg-white rounded-2xl shadow-2xl border border-slate-200/90 p-5 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
+                  <div className="flex items-center justify-between pb-3 mb-3 border-b border-slate-100">
+                    <div>
+                      <div className="text-xs uppercase tracking-wider font-extrabold text-orange-600 flex items-center gap-1.5">
+                        <Building2 className="w-3.5 h-3.5" />
+                        <span>Sankara Super-Specialty Hospital Network</span>
+                      </div>
+                      <p className="text-[11px] text-slate-500 mt-0.5">
+                        14 Super-Specialty Eye Care Units across 9 States • 100% NABH Standards
+                      </p>
+                    </div>
                     <button
                       onClick={() => handleNavClick('/hospitals')}
-                      className="text-xs font-bold text-orange-600 hover:underline"
+                      className="text-xs font-bold text-orange-600 hover:text-orange-700 bg-orange-50 hover:bg-orange-100 px-3 py-1.5 rounded-lg transition-colors cursor-pointer"
                     >
                       Browse Interactive Map & Units →
                     </button>
-                    <span className="text-[11px] text-emerald-600 font-semibold flex items-center gap-1">
-                      <ShieldCheck className="w-3.5 h-3.5" /> 100% NABH Standards
+                  </div>
+
+                  {/* 3 Geographic Regional Columns */}
+                  <div className="grid grid-cols-3 gap-4">
+                    {/* Region 1: South (TN & Karnataka) */}
+                    <div className="space-y-1 bg-slate-50/60 p-3 rounded-xl border border-slate-100">
+                      <div className="text-[10px] font-bold uppercase tracking-wider text-slate-500 px-1 mb-1">
+                        Tamil Nadu & Karnataka
+                      </div>
+                      {HOSPITALS_DATA.filter(h => ['Tamil Nadu', 'Karnataka'].includes(h.state)).map((hosp) => (
+                        <button
+                          key={hosp.id}
+                          onClick={() => handleNavClick(`/hospitals/${hosp.id}`)}
+                          className="w-full text-left p-1.5 rounded-lg hover:bg-white hover:shadow-xs text-slate-800 hover:text-orange-600 text-xs transition-colors flex items-center justify-between group"
+                        >
+                          <div>
+                            <span className="font-semibold">{hosp.city}</span>
+                            {hosp.cmoName && <div className="text-[10px] text-slate-400 truncate max-w-[170px]">CMO: {hosp.cmoName}</div>}
+                          </div>
+                          <span className="text-[10px] text-slate-400 group-hover:text-orange-600">{hosp.phone}</span>
+                        </button>
+                      ))}
+                    </div>
+
+                    {/* Region 2: AP, Telangana & Maharashtra */}
+                    <div className="space-y-1 bg-slate-50/60 p-3 rounded-xl border border-slate-100">
+                      <div className="text-[10px] font-bold uppercase tracking-wider text-slate-500 px-1 mb-1">
+                        Andhra, Telangana & Maharashtra
+                      </div>
+                      {HOSPITALS_DATA.filter(h => ['Andhra Pradesh', 'Telangana', 'Maharashtra'].includes(h.state)).map((hosp) => (
+                        <button
+                          key={hosp.id}
+                          onClick={() => handleNavClick(`/hospitals/${hosp.id}`)}
+                          className="w-full text-left p-1.5 rounded-lg hover:bg-white hover:shadow-xs text-slate-800 hover:text-orange-600 text-xs transition-colors flex items-center justify-between group"
+                        >
+                          <div>
+                            <span className="font-semibold">{hosp.city}</span>
+                            {hosp.cmoName && <div className="text-[10px] text-slate-400 truncate max-w-[170px]">CMO: {hosp.cmoName}</div>}
+                          </div>
+                          <span className="text-[10px] text-slate-400 group-hover:text-orange-600">{hosp.phone}</span>
+                        </button>
+                      ))}
+                    </div>
+
+                    {/* Region 3: North & Central India */}
+                    <div className="space-y-1 bg-slate-50/60 p-3 rounded-xl border border-slate-100">
+                      <div className="text-[10px] font-bold uppercase tracking-wider text-slate-500 px-1 mb-1">
+                        North & Central India
+                      </div>
+                      {HOSPITALS_DATA.filter(h => ['Rajasthan', 'Punjab', 'Uttar Pradesh', 'Madhya Pradesh', 'Gujarat'].includes(h.state)).map((hosp) => (
+                        <button
+                          key={hosp.id}
+                          onClick={() => handleNavClick(`/hospitals/${hosp.id}`)}
+                          className="w-full text-left p-1.5 rounded-lg hover:bg-white hover:shadow-xs text-slate-800 hover:text-orange-600 text-xs transition-colors flex items-center justify-between group"
+                        >
+                          <div>
+                            <span className="font-semibold">{hosp.city}</span>
+                            {hosp.cmoName && <div className="text-[10px] text-slate-400 truncate max-w-[170px]">CMO: {hosp.cmoName}</div>}
+                          </div>
+                          <span className="text-[10px] text-slate-400 group-hover:text-orange-600">{hosp.phone}</span>
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+
+                  <div className="border-t border-slate-100 mt-3 pt-2.5 flex items-center justify-between text-[11px] text-slate-500">
+                    <span className="font-medium text-slate-600">
+                      Direct unit coordinates, outpatient slots, and directions available on individual unit pages.
                     </span>
+                    <button
+                      onClick={() => handleNavClick('/book-appointment')}
+                      className="font-bold text-orange-600 hover:underline"
+                    >
+                      Book Priority Outpatient OPD Slot →
+                    </button>
                   </div>
                 </div>
               )}
@@ -313,7 +394,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentRoute, navigate }) => {
               onMouseLeave={() => setActiveDropdown(null)}
             >
               <button
-                className={`px-2.5 xl:px-3 py-2 rounded-lg text-xs xl:text-sm font-semibold whitespace-nowrap flex items-center gap-1 transition-all ${['/news', '/events', '/blog', '/testimonials', '/careers', '/contact'].includes(currentRoute)
+                className={`px-2.5 xl:px-3 py-2 rounded-lg text-xs xl:text-sm font-semibold whitespace-nowrap flex items-center gap-1 transition-all ${['/awards', '/annual-reports', '/news', '/events', '/blog', '/testimonials', '/careers', '/contact'].includes(currentRoute)
                     ? 'text-orange-600 bg-orange-50 font-bold'
                     : 'text-slate-700 hover:text-orange-600 hover:bg-slate-50'
                   }`}
@@ -323,7 +404,22 @@ export const Navbar: React.FC<NavbarProps> = ({ currentRoute, navigate }) => {
               </button>
 
               {activeDropdown === 'more' && (
-                <div className="absolute top-full right-0 w-56 bg-white rounded-xl shadow-xl border border-slate-100 p-2 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
+                <div className="absolute top-full right-0 w-64 bg-white rounded-xl shadow-xl border border-slate-100 p-2 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
+                  <button
+                    onClick={() => handleNavClick('/awards')}
+                    className="w-full text-left px-3 py-2 rounded-lg hover:bg-orange-50 text-slate-800 hover:text-orange-600 text-xs font-semibold flex items-center gap-2"
+                  >
+                    <Award className="w-3.5 h-3.5 text-orange-500" />
+                    <span>Awards & Honors</span>
+                  </button>
+                  <button
+                    onClick={() => handleNavClick('/annual-reports')}
+                    className="w-full text-left px-3 py-2 rounded-lg hover:bg-orange-50 text-slate-800 hover:text-orange-600 text-xs font-semibold flex items-center gap-2"
+                  >
+                    <FileText className="w-3.5 h-3.5 text-orange-500" />
+                    <span>Annual Reports & Audits</span>
+                  </button>
+                  <div className="border-t border-slate-100 my-1"></div>
                   <button
                     onClick={() => handleNavClick('/news')}
                     className="w-full text-left px-3 py-2 rounded-lg hover:bg-orange-50 text-slate-800 hover:text-orange-600 text-xs font-semibold"
@@ -498,13 +594,19 @@ export const Navbar: React.FC<NavbarProps> = ({ currentRoute, navigate }) => {
                 onClick={() => handleNavClick('/services')}
                 className="w-full text-left px-3 py-2.5 rounded-lg text-sm font-semibold text-slate-800 hover:bg-orange-50 hover:text-orange-600"
               >
-                Clinical Specialties (12 Services)
+                Treatments (12 Super-Specialties)
               </button>
               <button
                 onClick={() => handleNavClick('/hospitals')}
                 className="w-full text-left px-3 py-2.5 rounded-lg text-sm font-semibold text-slate-800 hover:bg-orange-50 hover:text-orange-600"
               >
-                Sankara Units & Emergency Numbers
+                Our Network (14 Hospitals)
+              </button>
+              <button
+                onClick={() => handleNavClick('/awards')}
+                className="w-full text-left px-3 py-2.5 rounded-lg text-sm font-semibold text-slate-800 hover:bg-orange-50 hover:text-orange-600"
+              >
+                Awards & Honors
               </button>
               <button
                 onClick={() => handleNavClick('/social-impact')}

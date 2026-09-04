@@ -64,14 +64,14 @@ export const PledgeEyesPage: React.FC<PledgeEyesPageProps> = ({ navigate }) => {
               className="bg-orange-600 hover:bg-orange-500 text-white font-bold px-6 py-3 rounded-xl text-xs flex items-center justify-center gap-2 shadow-lg"
             >
               <Phone className="w-4 h-4 animate-pulse" />
-              <span>Eye Bank: 7619519555</span>
+              <span>Bangalore Eye Bank: 7619519555</span>
             </a>
             <a
-              href="tel:08069038900"
+              href="tel:9965511174"
               className="bg-slate-800 hover:bg-slate-700 text-white font-bold px-6 py-3 rounded-xl text-xs flex items-center justify-center gap-2 border border-slate-700"
             >
               <Phone className="w-4 h-4" />
-              <span>080-69038900</span>
+              <span>Coimbatore Eye Bank: 9965511174</span>
             </a>
           </div>
         </div>

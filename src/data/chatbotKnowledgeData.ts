@@ -31,7 +31,7 @@ export const CHATBOT_KNOWLEDGE_BASE: ChatbotResponse[] = [
   {
     keywords: ['cataract', 'motiyabind', 'flacs', 'phaco', 'mics', 'lens', 'iol', 'cloudy vision', 'foggy vision', 'cataract surgery', 'multifocal', 'toric', 'edof'],
     title: 'Cataract Surgery & Premium Robotic Laser (FLACS)',
-    response: 'We perform Femtosecond Laser-Assisted Cataract Surgery (FLACS) and Micro-Incision Phacoemulsification (MICS) with a stitchless 2.2mm micro-incision. Lens choices include Monofocal, Astigmatism-correcting Toric, Trifocal, and Extended Depth of Focus (EDOF) IOLs. For rural and underprivileged patients, cataract surgery is performed 100% FREE under our 80:20 Gift of Vision model.',
+    response: 'We perform Femtosecond Laser-Assisted Cataract Surgery (FLACS) and Micro-Incision Phacoemulsification (MICS) with a stitchless 2.2mm micro-incision. Lens choices include Monofocal, Astigmatism-correcting Toric, Trifocal, and Extended Depth of Focus (EDOF) IOLs. For rural and underprivileged patients, cataract surgery is performed 100% FREE under our Unique Hybrid Model (Gift of Vision).',
     quickActions: [
       { label: '📅 Book Cataract Consultation', actionType: 'appointment', payload: 'Bangalore' },
       { label: '💬 WhatsApp Cataract Desk', actionType: 'whatsapp', payload: 'https://wa.me/919952890087?text=Hi,%20I%20want%20to%20consult%20for%20Cataract%20evaluation%20and%20lens%20options.' },
@@ -78,11 +78,11 @@ export const CHATBOT_KNOWLEDGE_BASE: ChatbotResponse[] = [
     category: 'insurance'
   },
 
-  // 6. Free Eye Care & Gift of Vision (80:20 Model)
+  // 6. Free Eye Care & Gift of Vision (Unique Hybrid Model)
   {
     keywords: ['free', 'free surgery', 'poor', 'charity', 'donation', '80g', 'gift of vision', 'rural', 'camp', 'sponsor', 'cost', 'free eye test'],
-    title: 'Gift of Vision — 80:20 Charitable Model & 80G Tax Exemption',
-    response: 'Sankara operates on an innovative 80:20 self-sustaining model: 80% of our surgeries are provided completely FREE to underprivileged rural citizens, fully cross-subsidized by 20% paying patients. Over 2.6 Million free surgeries have been performed. Sponsoring a free sight-restoring surgery costs just ₹3,750 and is 100% 80G tax-exempt in India.',
+    title: 'Gift of Vision — Unique Hybrid Model & 80G Tax Exemption',
+    response: 'Sankara operates on an innovative Unique Hybrid Model: surgical care is provided completely FREE to underprivileged rural citizens, fully cross-subsidized by paying patients. Over 2.6 Million free surgeries have been performed. Sponsoring a free sight-restoring surgery costs just ₹3,000 and is 100% 80G tax-exempt in India.',
     quickActions: [
       { label: '💝 Sponsor a Free Surgery (80G Tax Exempt)', actionType: 'navigate', payload: '/gift-of-vision' },
       { label: '💬 Connect with Donor Care Desk', actionType: 'whatsapp', payload: 'https://wa.me/919952890087?text=Hi,%20I%20would%20like%20to%20donate/sponsor%20surgeries%20under%20Gift%20of%20Vision.' }
@@ -185,10 +185,10 @@ export const CHATBOT_KNOWLEDGE_BASE: ChatbotResponse[] = [
   {
     keywords: ['founder', 'who founded', 'dr rv ramani', 'radha ramani', 'history', 'story', 'established', '1977', 'padma shri', 'trustee', 'kanchi kamakoti'],
     title: 'Founders & Heritage of Sankara Eye Foundation',
-    response: 'Sankara Eye Hospital was founded in 1977 by **Dr. R.V. Ramani (Padma Shri Awardee)** and **Dr. Radha Ramani** in Coimbatore, Tamil Nadu. Operating under the sacred guidance of Sri Kanchi Kamakoti Medical Trust, they pioneered the globally celebrated **80:20 Cross-Subsidized Healthcare Model**, touching over 60 million lives and eradicating curable blindness across India.',
+    response: 'Sankara Eye Hospital was founded in 1977 by **Dr. R.V. Ramani (Padma Shri Awardee)** and **Dr. Radha Ramani** in Coimbatore, Tamil Nadu. Operating under the sacred guidance of Sri Kanchi Kamakoti Medical Trust, they pioneered the globally celebrated **Unique Hybrid Healthcare Model**, touching over 60 million lives and eradicating curable blindness across India.',
     quickActions: [
       { label: '📖 Read Founder Story', actionType: 'navigate', payload: '/about' },
-      { label: '🪔 Sponsor a Free Surgery (₹3,750)', actionType: 'navigate', payload: '/donate' },
+      { label: '🪔 Sponsor a Free Surgery (₹3,000)', actionType: 'navigate', payload: '/donate' },
       { label: '📍 Explore 14 Hospital Units', actionType: 'navigate', payload: '/hospitals' }
     ],
     category: 'hospital'
@@ -197,8 +197,8 @@ export const CHATBOT_KNOWLEDGE_BASE: ChatbotResponse[] = [
   // 15. Pricing, Tariff & Free Treatment Policy
   {
     keywords: ['cost', 'price', 'fee', 'charge', 'rate', 'how much', 'expensive', 'free', 'tariff', 'discount'],
-    title: 'Transparent Tariffs & 80:20 Non-Profit Pricing',
-    response: 'As a public charitable trust, Sankara operates on an **80:20 non-profit model**:\n• **80% Needy & Rural Patients:** Receive 100% FREE eye surgery, satvik meals, and transport under our Gift of Vision initiative.\n• **20% Paying Patients:** Receive world-class tertiary eye care at subsidized, transparent rates with 0% interest EMI financing and 50+ Cashless TPA insurance options.',
+    title: 'Transparent Tariffs & Unique Hybrid Non-Profit Pricing',
+    response: 'As a public charitable trust, Sankara operates on a **Unique Hybrid Model**:\n• **Needy & Rural Patients:** Receive 100% FREE eye surgery, satvik meals, and transport under our Gift of Vision initiative.\n• **Paying Patients:** Receive world-class tertiary eye care at subsidized, transparent rates with 0% interest EMI financing and 50+ Cashless TPA insurance options.',
     quickActions: [
       { label: '📅 Book OPD Consultation', actionType: 'appointment' },
       { label: '💳 View Cashless Insurance TPAs', actionType: 'navigate', payload: '/contact' },
@@ -282,7 +282,7 @@ export function findChatbotResponse(userQuery: string): ChatbotResponse {
   return {
     keywords: [],
     title: 'Dr. Sankara AI — Universal Health Guidance',
-    response: `Thank you for your question. Regarding **"${userQuery.trim()}"**:\n\nSankara Eye Hospital's medical faculty emphasizes that visual health, ocular wellness, and preventive screening are integral to overall well-being. Across our 14 NABH-accredited super-specialty units in India, our doctors provide:\n• Comprehensive sub-specialty examinations (Cornea, Retina, Pediatric, Glaucoma, Refractive LASIK).\n• German SCHWIND AMARIS 7D Laser and Robotic Cataract FLACS suites.\n• Subsidized tariffs for paying patients and 100% FREE surgery for needy rural citizens under our 80:20 model.\n\nWould you like to consult a senior ophthalmologist or schedule a priority outpatient OPD slot?`,
+    response: `Thank you for your question. Regarding **"${userQuery.trim()}"**:\n\nSankara Eye Hospital's medical faculty emphasizes that visual health, ocular wellness, and preventive screening are integral to overall well-being. Across our 14 NABH-accredited super-specialty units in India, our doctors provide:\n• Comprehensive sub-specialty examinations (Cornea, Retina, Pediatric, Glaucoma, Refractive LASIK).\n• German SCHWIND AMARIS 7D Laser and Robotic Cataract FLACS suites.\n• Subsidized tariffs for paying patients and 100% FREE surgery for needy rural citizens under our Unique Hybrid Model.\n\nWould you like to consult a senior ophthalmologist or schedule a priority outpatient OPD slot?`,
     quickActions: [
       { label: '📅 Book OPD Appointment', actionType: 'appointment' },
       { label: '👓 Explore LASIK & Surgery', actionType: 'navigate', payload: '/services/lasik' },

@@ -47,17 +47,17 @@ export const DonatePage: React.FC<DonatePageProps> = ({ navigate }) => {
 
   // Total Calculation
   const grandTotal = 
-    selectedProgram === 'cataract' ? cataractQty * 3750 :
-    selectedProgram === 'annadhanam' ? annadhanamQty * 7500 :
+    selectedProgram === 'cataract' ? cataractQty * 3000 :
+    selectedProgram === 'annadhanam' ? annadhanamQty * 15000 :
     selectedProgram === 'pediatric' ? pediatricQty * 15000 :
     (typeof customAmount === 'number' ? customAmount : 0);
 
   const processCompletedDonation = async (paymentId: string) => {
     const items = [];
     if (selectedProgram === 'cataract') {
-      items.push({ type: 'Gift of Vision (Rural Cataract Surgery)', quantity: cataractQty, unitPrice: 3750 });
+      items.push({ type: 'Gift of Vision (Rural Cataract Surgery)', quantity: cataractQty, unitPrice: 3000 });
     } else if (selectedProgram === 'annadhanam') {
-      items.push({ type: '1-Day Patient Food Annadhanam', quantity: annadhanamQty, unitPrice: 7500 });
+      items.push({ type: '1-Day Patient Food Annadhanam', quantity: annadhanamQty, unitPrice: 15000 });
     } else if (selectedProgram === 'pediatric') {
       items.push({ type: 'Paediatric Rainbow Eye Surgery', quantity: pediatricQty, unitPrice: 15000 });
     } else {
@@ -322,7 +322,7 @@ export const DonatePage: React.FC<DonatePageProps> = ({ navigate }) => {
                   }`}
                 >
                   <div className="font-black text-xs">1 Cataract Surgery</div>
-                  <div className="text-orange-600 font-bold mt-0.5">₹3,750 / surgery</div>
+                  <div className="text-orange-600 font-bold mt-0.5">₹3,000 / surgery</div>
                 </button>
 
                 <button
@@ -335,7 +335,7 @@ export const DonatePage: React.FC<DonatePageProps> = ({ navigate }) => {
                   }`}
                 >
                   <div className="font-black text-xs">1-Day Food Annadhanam</div>
-                  <div className="text-orange-600 font-bold mt-0.5">₹7,500 / day</div>
+                  <div className="text-orange-600 font-bold mt-0.5">₹15,000 / day</div>
                 </button>
 
                 <button
@@ -361,7 +361,7 @@ export const DonatePage: React.FC<DonatePageProps> = ({ navigate }) => {
                   }`}
                 >
                   <div className="font-black text-xs">Custom Contribution</div>
-                  <div className="text-orange-600 font-bold mt-0.5">Any amount</div>
+                  <div className="text-orange-600 font-bold mt-0.5">Any chosen amount</div>
                 </button>
               </div>
 
@@ -389,17 +389,82 @@ export const DonatePage: React.FC<DonatePageProps> = ({ navigate }) => {
                 </div>
               )}
 
+              {selectedProgram === 'annadhanam' && (
+                <div className="flex items-center justify-between p-2.5 bg-slate-50 rounded-xl border border-slate-200">
+                  <span className="font-semibold text-slate-700">Number of Days (Annadhanam):</span>
+                  <div className="flex items-center gap-2">
+                    <button
+                      type="button"
+                      onClick={() => setAnnadhanamQty(Math.max(1, annadhanamQty - 1))}
+                      className="w-7 h-7 bg-white border border-slate-300 rounded font-black hover:bg-slate-100"
+                    >
+                      -
+                    </button>
+                    <span className="font-black text-sm w-6 text-center">{annadhanamQty}</span>
+                    <button
+                      type="button"
+                      onClick={() => setAnnadhanamQty(annadhanamQty + 1)}
+                      className="w-7 h-7 bg-orange-600 text-white rounded font-black hover:bg-orange-700"
+                    >
+                      +
+                    </button>
+                  </div>
+                </div>
+              )}
+
+              {selectedProgram === 'pediatric' && (
+                <div className="flex items-center justify-between p-2.5 bg-slate-50 rounded-xl border border-slate-200">
+                  <span className="font-semibold text-slate-700">Number of Children:</span>
+                  <div className="flex items-center gap-2">
+                    <button
+                      type="button"
+                      onClick={() => setPediatricQty(Math.max(1, pediatricQty - 1))}
+                      className="w-7 h-7 bg-white border border-slate-300 rounded font-black hover:bg-slate-100"
+                    >
+                      -
+                    </button>
+                    <span className="font-black text-sm w-6 text-center">{pediatricQty}</span>
+                    <button
+                      type="button"
+                      onClick={() => setPediatricQty(pediatricQty + 1)}
+                      className="w-7 h-7 bg-orange-600 text-white rounded font-black hover:bg-orange-700"
+                    >
+                      +
+                    </button>
+                  </div>
+                </div>
+              )}
+
               {selectedProgram === 'custom' && (
-                <div className="flex items-center gap-2 p-2.5 bg-slate-50 rounded-xl border border-slate-200">
-                  <span className="font-bold text-slate-700">Amount (₹):</span>
-                  <input
-                    type="number"
-                    min={500}
-                    value={customAmount}
-                    onChange={(e) => setCustomAmount(e.target.value ? Number(e.target.value) : '')}
-                    className="w-full p-1.5 bg-white border border-slate-300 rounded font-bold text-xs"
-                    placeholder="Enter amount in ₹"
-                  />
+                <div className="p-3 bg-slate-50 rounded-xl border border-slate-200 space-y-2">
+                  <div className="flex items-center gap-2">
+                    <span className="font-bold text-slate-700 whitespace-nowrap">Enter Amount (₹):</span>
+                    <input
+                      type="number"
+                      min={100}
+                      value={customAmount}
+                      onChange={(e) => setCustomAmount(e.target.value ? Number(e.target.value) : '')}
+                      className="w-full p-2 bg-white border border-slate-300 rounded-lg font-bold text-sm text-slate-900 focus:ring-2 focus:ring-orange-500"
+                      placeholder="e.g. 5000"
+                    />
+                  </div>
+                  <div className="flex items-center gap-1.5 flex-wrap pt-1">
+                    <span className="text-[11px] text-slate-500 font-medium">Quick Select:</span>
+                    {[1000, 2500, 5000, 10000, 25000, 50000].map(amt => (
+                      <button
+                        key={amt}
+                        type="button"
+                        onClick={() => setCustomAmount(amt)}
+                        className={`text-[11px] px-2.5 py-1 rounded-md border font-semibold transition-colors ${
+                          customAmount === amt
+                            ? 'bg-orange-600 text-white border-orange-600'
+                            : 'bg-white text-slate-700 border-slate-200 hover:bg-orange-50'
+                        }`}
+                      >
+                        ₹{amt.toLocaleString('en-IN')}
+                      </button>
+                    ))}
+                  </div>
                 </div>
               )}
             </div>

@@ -279,7 +279,7 @@ export function generateAppointmentPassPdf(data: AppointmentEmailData): Promise<
       doc.setFontSize(8);
       doc.text(`Unit: ${data.hospitalLocation}`, 15, 28);
       doc.setFontSize(7.5);
-      doc.text('Central Helpline: 080-69038900 | 24/7 Eye Bank: 7619519555 | Web: www.sankaraeye.com', 15, 32);
+      doc.text('Appointments & Clinical Desk: Refer to Unit Reception | 24/7 Eye Bank: 7619519555 | Web: www.sankaraeye.com', 15, 32);
 
       doc.setLineWidth(0.2);
       doc.line(135, 12, 135, 34);

@@ -137,8 +137,10 @@ export const AppointmentModal: React.FC = () => {
                   <span className="font-semibold text-slate-800">{confirmedBooking.phone}</span>
                 </div>
                 <div className="flex justify-between border-t border-orange-200 pt-1.5 mt-1.5">
-                  <span className="text-slate-500">Hospital Emergency Hotline:</span>
-                  <span className="font-bold text-orange-700">080-69038900</span>
+                  <span className="text-slate-500">Unit Direct Contact:</span>
+                  <span className="font-bold text-orange-700">
+                    {HOSPITALS_DATA.find(h => h.city.toLowerCase() === confirmedBooking.hospitalLocation.toLowerCase() || confirmedBooking.hospitalLocation.toLowerCase().includes(h.city.toLowerCase()))?.phone || 'Refer to Hospital Page'}
+                  </span>
                 </div>
               </div>
 

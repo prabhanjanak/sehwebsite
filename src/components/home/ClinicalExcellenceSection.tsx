@@ -177,7 +177,7 @@ export const ClinicalExcellenceSection: React.FC<ClinicalExcellenceSectionProps>
             <div>
               <h4 className="font-black text-base text-slate-900">Institutional Heritage & Social Commitment</h4>
               <p className="text-xs text-slate-600 mt-0.5 font-normal">
-                Committed to ethical clinical stewardship, community outreach, and the self-sustaining 80:20 healthcare philosophy.
+                Committed to ethical clinical stewardship, community outreach, and the self-sustaining Unique Hybrid Model healthcare philosophy.
               </p>
             </div>
           </div>

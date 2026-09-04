@@ -25,6 +25,7 @@ import { CareersPage } from './pages/CareersPage';
 import { DonatePage } from './pages/DonatePage';
 import { PledgeEyesPage } from './pages/PledgeEyesPage';
 import { AnnualReportsPage } from './pages/AnnualReportsPage';
+import { AwardsPage } from './pages/AwardsPage';
 import { ContactPage } from './pages/ContactPage';
 import { AdminDashboardPage } from './pages/AdminDashboardPage';
 import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage';
@@ -120,6 +121,10 @@ const AppContent: React.FC = () => {
 
     if (currentRoute === '/annual-reports') {
       return <AnnualReportsPage navigate={navigate} />;
+    }
+
+    if (currentRoute === '/awards' || currentRoute === '/dr-rvr-awards' || currentRoute.startsWith('/awards')) {
+      return <AwardsPage navigate={navigate} />;
     }
 
     if (currentRoute === '/contact') {

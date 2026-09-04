@@ -29,14 +29,14 @@ export const Impact8020Section: React.FC<Impact8020SectionProps> = ({ navigate }
             <span>The Pioneering Socio-Economic Health Engine</span>
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight">
-            The Sankara <span className="orange-gradient-text">80:20 Model</span>
+            The Sankara <span className="orange-gradient-text">Unique Hybrid Model</span>
           </h2>
           <p className="text-xs sm:text-sm text-slate-600 leading-relaxed max-w-2xl mx-auto">
-            Unlike conventional charities, Sankara Eye Hospital functions as a self-sustaining social enterprise where revenue generated from 20% paying patients cross-subsidizes 80% free super-specialty surgical care for rural poor.
+            Unlike conventional charities, Sankara Eye Hospital functions as a self-sustaining social enterprise where revenue generated from paying patients cross-subsidizes free super-specialty surgical care for the rural poor through our Unique Hybrid Model.
           </p>
         </motion.div>
 
-        {/* 80:20 Flow Diagram with Staggered 3D Tilt Cards */}
+        {/* Unique Hybrid Model Flow Diagram with Staggered 3D Tilt Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 relative">
           {MODEL_80_20_STEPS.map((step, idx) => (
             <motion.div 
@@ -156,7 +156,7 @@ export const Impact8020Section: React.FC<Impact8020SectionProps> = ({ navigate }
             <div className="space-y-1 text-center sm:text-left">
               <h4 className="text-lg sm:text-xl font-black">Join the Mission to Eradicate Needless Blindness</h4>
               <p className="text-xs text-orange-100 max-w-xl">
-                Just ₹3,750 ($50) provides one complete micro-incision cataract surgery, premium foldable IOL lens, food, and medication for a rural elder.
+                Just ₹3,000 ($40) provides one complete micro-incision cataract surgery, premium foldable IOL lens, food, and medication for a rural elder.
               </p>
             </div>
             <button
@@ -164,7 +164,7 @@ export const Impact8020Section: React.FC<Impact8020SectionProps> = ({ navigate }
               className="bg-white text-orange-600 hover:bg-orange-50 font-black px-6 py-3.5 rounded-2xl text-xs shadow-lg flex-shrink-0 flex items-center gap-2 hover:scale-105 transition-all group"
             >
               <Heart className="w-4 h-4 fill-orange-600 text-orange-600 transition-transform group-hover:scale-110" />
-              <span>Sponsor a Cataract (₹3,750)</span>
+              <span>Sponsor a Cataract (₹3,000)</span>
             </button>
           </div>
         </motion.div>

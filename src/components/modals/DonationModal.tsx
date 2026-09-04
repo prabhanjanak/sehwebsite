@@ -33,6 +33,7 @@ export const DonationModal: React.FC = () => {
   const [cataractQty, setCataractQty] = useState(1);
   const [annadhanamQty, setAnnadhanamQty] = useState(0);
   const [pediatricQty, setPediatricQty] = useState(0);
+  const [customContribution, setCustomContribution] = useState<number | ''>('');
 
   const [donorName, setDonorName] = useState('');
   const [email, setEmail] = useState('');
@@ -47,21 +48,26 @@ export const DonationModal: React.FC = () => {
       setCompletedDonation(null);
       setErrorMessage('');
       setCataractQty(modalDefaultSurgeryQty || 1);
+      setAnnadhanamQty(0);
+      setPediatricQty(0);
+      setCustomContribution('');
     }
   }, [isDonationModalOpen, modalDefaultSurgeryQty]);
 
   if (!isDonationModalOpen) return null;
 
-  const cataractTotal = cataractQty * 3750;
-  const annadhanamTotal = annadhanamQty * 7500;
+  const cataractTotal = cataractQty * 3000;
+  const annadhanamTotal = annadhanamQty * 15000;
   const pediatricTotal = pediatricQty * 15000;
-  const grandTotal = cataractTotal + annadhanamTotal + pediatricTotal;
+  const customTotal = typeof customContribution === 'number' ? customContribution : 0;
+  const grandTotal = cataractTotal + annadhanamTotal + pediatricTotal + customTotal;
 
   const processDirectDonation = async (paymentId = `pay_rzp_${Date.now()}`) => {
     const items = [];
-    if (cataractQty > 0) items.push({ type: 'Cataract Surgery (Gift of Vision)', quantity: cataractQty, unitPrice: 3750 });
-    if (annadhanamQty > 0) items.push({ type: '1-Day Patient Food Annadhanam', quantity: annadhanamQty, unitPrice: 7500 });
+    if (cataractQty > 0) items.push({ type: 'Cataract Surgery (Gift of Vision)', quantity: cataractQty, unitPrice: 3000 });
+    if (annadhanamQty > 0) items.push({ type: '1-Day Patient Food Annadhanam', quantity: annadhanamQty, unitPrice: 15000 });
     if (pediatricQty > 0) items.push({ type: 'Pediatric Eye Surgery (Rainbow)', quantity: pediatricQty, unitPrice: 15000 });
+    if (customTotal > 0) items.push({ type: 'General Eye Hospital Corpus Fund', quantity: 1, unitPrice: customTotal });
 
     const record = await submitDonation({
       donorName,
@@ -69,7 +75,7 @@ export const DonationModal: React.FC = () => {
       phone: phone || '9845012345',
       panNumber: panNumber.toUpperCase(),
       amount: grandTotal,
-      surgeriesCount: cataractQty + pediatricQty,
+      surgeriesCount: cataractQty + pediatricQty + (customTotal > 0 ? 1 : 0),
       programType: 'Gift of Vision (80G Tax Exempt)',
       frequency: 'one-time',
       is80GEligible: true,
@@ -234,7 +240,7 @@ export const DonationModal: React.FC = () => {
                   <div>
                     <div className="text-xs font-bold text-slate-900">One Cataract Surgery (Gift of Vision)</div>
                     <div className="text-[11px] text-slate-500">Includes lens, surgery, medicine & transport</div>
-                    <div className="text-xs font-extrabold text-orange-600 mt-0.5">₹3,750 / $50</div>
+                    <div className="text-xs font-extrabold text-orange-600 mt-0.5">₹3,000 / surgery</div>
                   </div>
                   <div className="flex items-center gap-2">
                     <button
@@ -259,8 +265,8 @@ export const DonationModal: React.FC = () => {
                 <div className="flex items-center justify-between p-3 rounded-xl border border-slate-200 bg-white">
                   <div>
                     <div className="text-xs font-bold text-slate-900">1 Day Patient Food Annadhanam</div>
-                    <div className="text-[11px] text-slate-500">Nutritious meals for 100 rural admitted patients</div>
-                    <div className="text-xs font-extrabold text-orange-600 mt-0.5">₹7,500 / $100</div>
+                    <div className="text-[11px] text-slate-500">Nutritious meals for rural admitted patients</div>
+                    <div className="text-xs font-extrabold text-orange-600 mt-0.5">₹15,000 / day</div>
                   </div>
                   <div className="flex items-center gap-2">
                     <button
@@ -286,7 +292,7 @@ export const DonationModal: React.FC = () => {
                   <div>
                     <div className="text-xs font-bold text-slate-900">Pediatric Eye Surgery (Rainbow Program)</div>
                     <div className="text-[11px] text-slate-500">Child squint / congenital cataract correction</div>
-                    <div className="text-xs font-extrabold text-orange-600 mt-0.5">₹15,000 / $200</div>
+                    <div className="text-xs font-extrabold text-orange-600 mt-0.5">₹15,000 / child</div>
                   </div>
                   <div className="flex items-center gap-2">
                     <button
@@ -304,6 +310,51 @@ export const DonationModal: React.FC = () => {
                     >
                       +
                     </button>
+                  </div>
+                </div>
+
+                {/* Custom Contribution Option */}
+                <div className="p-3 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
+                  <div className="flex items-center justify-between">
+                    <span className="text-xs font-bold text-slate-900">Custom Contribution:</span>
+                    <span className="text-[11px] text-slate-500">Any amount for hospital corpus</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <span className="text-xs font-bold text-slate-700">₹</span>
+                    <input
+                      type="number"
+                      min={100}
+                      placeholder="e.g. 5000"
+                      value={customContribution}
+                      onChange={(e) => setCustomContribution(e.target.value ? Number(e.target.value) : '')}
+                      className="w-full p-1.5 bg-white border border-slate-300 rounded-lg text-xs font-bold text-slate-900 focus:ring-1 focus:ring-orange-500"
+                    />
+                  </div>
+                  <div className="flex items-center gap-1.5 flex-wrap pt-0.5">
+                    <span className="text-[10px] text-slate-500 font-medium">Quick:</span>
+                    {[1000, 2500, 5000, 10000].map(amt => (
+                      <button
+                        key={amt}
+                        type="button"
+                        onClick={() => setCustomContribution(amt)}
+                        className={`text-[10px] px-2 py-0.5 rounded border font-semibold transition-colors ${
+                          customContribution === amt
+                            ? 'bg-orange-600 text-white border-orange-600'
+                            : 'bg-white text-slate-700 border-slate-200 hover:bg-orange-50'
+                        }`}
+                      >
+                        ₹{amt.toLocaleString('en-IN')}
+                      </button>
+                    ))}
+                    {customContribution ? (
+                      <button
+                        type="button"
+                        onClick={() => setCustomContribution('')}
+                        className="text-[10px] text-slate-500 hover:text-red-600 underline ml-auto"
+                      >
+                        Clear
+                      </button>
+                    ) : null}
                   </div>
                 </div>
               </div>
