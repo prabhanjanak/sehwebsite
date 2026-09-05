@@ -759,14 +759,6 @@ export const BookAppointmentPage: React.FC<BookAppointmentPageProps> = ({ naviga
                     <span>OPD Hours: {currentHospital.timings}</span>
                   </div>
                 </div>
-
-                {currentHospital.headDoctor && (
-                  <div className="pt-2 border-t border-slate-100 text-[11px]">
-                    <span className="text-slate-400 block font-medium">Chief Medical Officer:</span>
-                    <span className="font-bold text-slate-900">{currentHospital.headDoctor}</span>
-                    <span className="text-slate-500 block">{currentHospital.headDoctorRole}</span>
-                  </div>
-                )}
               </div>
 
               {/* Need Immediate WhatsApp Assistance? */}

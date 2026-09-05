@@ -379,13 +379,16 @@ export const DatabaseProvider: React.FC<{ children: React.ReactNode }> = ({ chil
       try {
         const parsed = JSON.parse(saved);
         if (Array.isArray(parsed) && parsed.length > 0) {
-          // Guarantee default photos are restored if empty or missing
-          return parsed.map((h: Hospital) => {
-            const fallback = HOSPITALS_DATA.find(def => def.id === h.id);
-            const validImage = (h.image && h.image.trim() !== '') ? h.image : fallback?.image;
+          // Always ensure authoritative real address, phones, headDoctor, and timings from HOSPITALS_DATA are used
+          return HOSPITALS_DATA.map((official) => {
+            const userEdited = parsed.find((h: Hospital) => h.id === official.id);
+            if (!userEdited) return official;
             return {
-              ...h,
-              image: validImage || fallback?.image || '/assets/images/Sankara-Bangalore-sq.jpg'
+              ...official,
+              image: (userEdited.image && userEdited.image.trim() !== '') ? userEdited.image : official.image,
+              beds: userEdited.beds || official.beds,
+              established: userEdited.established || official.established,
+              nabhAccredited: userEdited.nabhAccredited !== undefined ? userEdited.nabhAccredited : official.nabhAccredited
             };
           });
         }
@@ -393,6 +396,7 @@ export const DatabaseProvider: React.FC<{ children: React.ReactNode }> = ({ chil
     }
     return HOSPITALS_DATA;
   });
+
 
   // 7. 🪔 Wishes Header Banner Config
   const [wishesBanner, setWishesBanner] = useState<WishesBannerConfig>(() => {
