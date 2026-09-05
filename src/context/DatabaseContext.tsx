@@ -167,9 +167,13 @@ const LOCAL_STORAGE_KEY_DONATIONS = 'sankara_db_donations';
 const LOCAL_STORAGE_KEY_PLEDGES = 'sankara_db_pledges';
 const LOCAL_STORAGE_KEY_APPLICATIONS = 'sankara_db_applications';
 const LOCAL_STORAGE_KEY_EXAM_APPLICATIONS = 'sankara_db_exam_applications';
-const LOCAL_STORAGE_KEY_HOSPITALS = 'sankara_db_hospitals';
+const LOCAL_STORAGE_KEY_HOSPITALS = 'sankara_db_hospitals_v3';
+try {
+  localStorage.removeItem('sankara_db_hospitals');
+} catch (e) {}
 const LOCAL_STORAGE_KEY_WISHES_BANNER = 'sankara_db_wishes_banner';
 const LOCAL_STORAGE_KEY_CONTACTS = 'sankara_db_contacts';
+
 const LOCAL_STORAGE_KEY_SUBSCRIBERS = 'sankara_db_subscribers';
 const LOCAL_STORAGE_KEY_POPUP = 'sankara_db_promo_popup';
 const LOCAL_STORAGE_KEY_TRUSTEES = 'sankara_db_trustees';
